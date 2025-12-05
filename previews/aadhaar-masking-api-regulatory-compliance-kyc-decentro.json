@@ -1,0 +1,254 @@
+{
+  "seo": {
+    "title": "Aadhaar Masking API | Regulatory Compliance & KYC | Decentro",
+    "description": "Integrate Decentro's Aadhaar Masking API to automatically redact the first 8 digits of Aadhaar numbers. Ensure UIDAI compliance for Fintech and Banking KYC workflows.",
+    "ogTitle": "Aadhaar Masking API for Secure KYC & Regulatory Compliance"
+  },
+  "productBanner": {
+    "heading": "Aadhaar Masking API for UIDAI Compliance",
+    "subHeading": "Instantly mask the first 8 digits of Aadhaar numbers on images and documents. Ensure 100% data privacy and regulatory compliance during customer onboarding.",
+    "ctaText": "Get API Keys",
+    "ctaLink": "/contact-sales",
+    "image": "/images/products/aadhaar-masking-banner.png"
+  },
+  "tableOfContents": [
+    {
+      "id": "whatIsSection",
+      "text": "What is it?"
+    },
+    {
+      "id": "methodSection",
+      "text": "Methodology"
+    },
+    {
+      "id": "leverageSection",
+      "text": "Applications"
+    },
+    {
+      "id": "keyFeatures",
+      "text": "Key Features"
+    },
+    {
+      "id": "whereToUse",
+      "text": "Where to Use"
+    },
+    {
+      "id": "howCanDecentroHelp",
+      "text": "How Can Decentro Help?"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "heading": "What is the Aadhaar Masking API?",
+    "image": "/images/products/aadhaar-masking-illustration.png",
+    "content": [
+      "Decentro's Aadhaar Masking API is a specialized document forensics tool designed to help businesses adhere to strict UIDAI and RBI guidelines. In the Indian fintech and banking landscape, storing full Aadhaar numbers is often restricted. This API solves that challenge by identifying Aadhaar cards within uploaded files and automatically masking the first 8 digits of the UID, leaving only the last 4 visible for verification purposes.",
+      "Built for developers, the API supports a variety of file formats including JPG, JPEG, PNG, and PDF, with a generous file size limit of up to 6MB. By integrating this solution, companies can automate their data security protocols, reduce the risk of identity theft, and streamline their KYC operations without manual intervention."
+    ]
+  },
+  "subBanner": {
+    "heading": "Automate Regulatory Compliance",
+    "subHeading": "Eliminate manual redaction errors. Our AI-driven masking ensures sensitive PII is protected instantly.",
+    "ctaText": "Read Documentation",
+    "ctaLink": "https://decentro.tech/docs/kyc/aadhaar-masking"
+  },
+  "textAndButtonBannerTransparent": {
+    "heading": "Seamless Integration",
+    "subHeading": "Deploy production-ready masking logic with a simple POST request. Compatible with existing KYC flows.",
+    "ctaText": "Talk to Us",
+    "ctaLink": "/contact-sales"
+  },
+  "methodData": {
+    "heading": "How It Works",
+    "subHeading": "A simplified three-step process to secure identity data.",
+    "items": [
+      {
+        "title": "Upload Document",
+        "description": "Submit a user's Aadhaar card (Image or PDF, max 6MB) via the API endpoint.",
+        "icon": "/icons/upload-cloud.svg"
+      },
+      {
+        "title": "AI Detection",
+        "description": "Our OCR and Forensics engine identifies the Aadhaar number coordinates within the document.",
+        "icon": "/icons/ai-scan.svg"
+      },
+      {
+        "title": "Mask & Return",
+        "description": "The system masks the first 8 digits and returns the secured file for your records.",
+        "icon": "/icons/secure-lock.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent2": {
+    "heading": "High-Volume Processing",
+    "subHeading": "Optimized for high-throughput environments, ensuring your onboarding funnel never slows down.",
+    "ctaText": "View Sample API Response",
+    "ctaLink": "/docs/kyc/aadhaar-masking/response"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "Where can this be",
+      "bold": "Applied?"
+    },
+    "data": [
+      {
+        "heading": "Digital Lending",
+        "content": [
+          "Secure borrower documentation.",
+          "Comply with RBI digital lending guidelines."
+        ],
+        "image": "/images/industries/lending.png"
+      },
+      {
+        "heading": "Neobanking",
+        "content": [
+          "Streamlined account opening.",
+          "Real-time document verification."
+        ],
+        "image": "/images/industries/banking.png"
+      },
+      {
+        "heading": "Employee Onboarding",
+        "content": [
+          "Background verification platforms.",
+          "Secure storage of employee proofs."
+        ],
+        "image": "/images/industries/hr-tech.png"
+      }
+    ]
+  },
+  "useCases": {
+    "heading": "Key Features",
+    "tagline": "Robust capabilities for modern compliance.",
+    "block1": [
+      {
+        "imageSrc": "/icons/features/multi-format.svg",
+        "heading": "Multi-Format Support",
+        "subheading": "JPG, PNG, PDF",
+        "paragraph": "Accepts standard image and document formats up to 6MB per file.",
+        "comingSoon": false
+      },
+      {
+        "imageSrc": "/icons/features/accuracy.svg",
+        "heading": "High Precision OCR",
+        "paragraph": "Accurately detects Aadhaar numbers even in varied layouts and scan qualities.",
+        "comingSoon": false
+      }
+    ],
+    "block1extra": [
+      {
+        "imageSrc": "/icons/features/compliance.svg",
+        "heading": "UIDAI Compliant",
+        "paragraph": "Ensures only the last 4 digits are visible, adhering to data privacy laws."
+      }
+    ],
+    "showOthers": true,
+    "tagline2": "Additional technical benefits",
+    "block2": [
+      {
+        "imageSrc": "/icons/features/api-integration.svg",
+        "label": "RESTful Architecture"
+      },
+      {
+        "imageSrc": "/icons/features/scalability.svg",
+        "label": "Enterprise Scalability"
+      }
+    ],
+    "showButton": true,
+    "buttonText": "View Documentation",
+    "buttonLink": "https://decentro.tech/docs/kyc",
+    "examples": true,
+    "examplesHeader": "Input vs Output",
+    "examplesList": [
+      {
+        "imageSrc": "/icons/samples/aadhaar-raw.svg",
+        "title": "Raw Input"
+      },
+      {
+        "imageSrc": "/icons/samples/aadhaar-masked.svg",
+        "title": "Masked Output"
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "Where To Use",
+    "items": [
+      {
+        "icon": "/icons/use-cases/kyc.svg",
+        "title": "Customer KYC",
+        "description": "Redact sensitive data during the Know Your Customer process for wallets and banks."
+      },
+      {
+        "icon": "/icons/use-cases/merchant.svg",
+        "title": "Merchant Acquisition",
+        "description": "Process business proofs securely while onboarding new vendors or merchants."
+      },
+      {
+        "icon": "/icons/use-cases/insurance.svg",
+        "title": "Insurance Claims",
+        "description": "Verify identity documents for claim processing without storing PII."
+      },
+      {
+        "icon": "/icons/use-cases/telecom.svg",
+        "title": "Telecom Verification",
+        "description": "Mask ID proofs collected for SIM issuance or connection transfers."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent3": {
+    "heading": "Need Custom Masking Logic?",
+    "subHeading": "We can configure masking for other ID types (PAN, Voter ID) or specific regions.",
+    "ctaText": "Request Custom Model",
+    "ctaLink": "/contact-sales"
+  },
+  "bulletPointsAndTextBlock": {
+    "firstHeadingBold": "Topic: ",
+    "headingLight": "For Your Business ",
+    "headingBold": "- How Decentro Helps",
+    "tagline": "Simplifying data privacy for the fintech ecosystem.",
+    "bulletPointsHeader": "Why Choose Decentro's Aadhaar Masking?",
+    "bulletPoints": [
+      {
+        "text": "Instant UIDAI regulatory compliance"
+      },
+      {
+        "text": "Reduction in manual back-office operations"
+      },
+      {
+        "text": "Zero data retention policy options"
+      },
+      {
+        "text": "99.9% API uptime for critical flows"
+      },
+      {
+        "text": "Seamless integration with other CKYC & Digilocker modules"
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Start your Journey",
+        "linkText": "Sign Up",
+        "link": "https://decentro.tech/"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent4": {
+    "heading": "Ready to Integrate?",
+    "subHeading": "Test the Aadhaar Masking API in our Sandbox environment today.",
+    "ctaText": "Start Building",
+    "ctaLink": "/register"
+  },
+  "recommendedPages": [
+    {
+      "title": "CKYC Search API",
+      "description": "Fetch KYC details using just a unique identifier.",
+      "pageLink": "/api/ckyc-search",
+      "imageSrc": "/images/recommended/ckyc.png"
+    },
+    {
+      "title": "Digilocker Integration",
+      "description": "Access authentic documents directly from the source.",
+      "pageLink": "/api/digilocker",
+      "imageSrc": "/images/recommended/digilocker.png"
+    }
+  ]
+}
