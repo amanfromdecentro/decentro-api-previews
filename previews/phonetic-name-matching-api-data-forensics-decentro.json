@@ -1,0 +1,254 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching API | Data Forensics | Decentro",
+    "description": "Integrate Decentro's Phonetic Name Matching API to verify identities by analyzing name pronunciation, resolving spelling variations, and handling transliteration errors.",
+    "ogTitle": "Phonetic Name Matching API - Advanced Data Forensics"
+  },
+  "productBanner": {
+    "heading": "Phonetic Name Matching API",
+    "subHeading": "Resolve spelling variations and transliteration errors with high-precision phonetic algorithms. Ensure data consistency and identity verification accuracy.",
+    "ctaText": "Get Started",
+    "ctaLink": "/contact-sales",
+    "image": "/images/phonetic-matching-banner.png"
+  },
+  "tableOfContents": [
+    {
+      "id": "whatIsSection",
+      "text": "What is it?"
+    },
+    {
+      "id": "methodSection",
+      "text": "Methodology"
+    },
+    {
+      "id": "leverageSection",
+      "text": "Applications"
+    },
+    {
+      "id": "keyFeatures",
+      "text": "Key Features"
+    },
+    {
+      "id": "whereToUse",
+      "text": "Where to Use"
+    },
+    {
+      "id": "howCanDecentroHelp",
+      "text": "How Can Decentro Help?"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "heading": "What is Phonetic Name Matching?",
+    "image": "/images/data-forensics-intro.png",
+    "content": [
+      "In the diverse landscape of global identity verification, spelling variations can lead to significant false negatives. Decentro's Phonetic Name Matching API, part of our Farsight Data Forensics suite, solves this by comparing names based on how they sound rather than just how they are spelled.",
+      "Traditional string matching fails when encountering typos, phonetic variations (e.g., 'C' vs 'K'), or transliteration differences common in multi-lingual regions like India. Our API leverages advanced phonetic algorithms to determine the likelihood that two distinct text strings represent the same individual, enhancing the reliability of your KYC and onboarding processes."
+    ]
+  },
+  "subBanner": {
+    "heading": "Precision Beyond Exact Matching",
+    "subHeading": "Overcome the limitations of standard text comparison with advanced acoustic heuristics.",
+    "ctaText": "Read the Docs",
+    "ctaLink": "https://decentro.tech/docs/kyc/match"
+  },
+  "textAndButtonBannerTransparent": {
+    "heading": "Maximize Verification Success",
+    "subHeading": "Reduce manual review queues and drop-offs caused by minor data discrepancies.",
+    "ctaText": "Talk to Us",
+    "ctaLink": "/contact-sales"
+  },
+  "methodData": {
+    "heading": "How It Works",
+    "subHeading": "From raw text to confidence scores using our Match Engine.",
+    "items": [
+      {
+        "title": "Input Ingestion",
+        "description": "Submit two name strings via the `/v2/kyc/match` endpoint (e.g., Input Name and Database Name).",
+        "icon": "/icons/input-data.svg"
+      },
+      {
+        "title": "Phonetic Analysis",
+        "description": "The engine normalizes the text and applies phonetic algorithms to decompose names into their sound components.",
+        "icon": "/icons/algorithm-processing.svg"
+      },
+      {
+        "title": "Confidence Scoring",
+        "description": "The API returns a match percentage indicating the probability that the two names belong to the same entity.",
+        "icon": "/icons/score-output.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent2": {
+    "heading": "Seamless Integration",
+    "subHeading": "Plug our Data Forensics APIs directly into your verification flow.",
+    "ctaText": "View Sample API Response",
+    "ctaLink": "https://decentro.tech/docs/kyc/match"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "Where can this be",
+      "bold": "Applied?"
+    },
+    "data": [
+      {
+        "heading": "Digital Banking",
+        "content": [
+          "Verify customer names against banking databases.",
+          "Handle variations in localized spellings."
+        ],
+        "image": "/images/banking-application.png"
+      },
+      {
+        "heading": "Lending & Fintech",
+        "content": [
+          "Match loan applicants against credit bureau records.",
+          "Reduce rejection rates due to typos."
+        ],
+        "image": "/images/fintech-lending.png"
+      },
+      {
+        "heading": "Insurance",
+        "content": [
+          "Validate beneficiary names during claims processing.",
+          "Ensure data integrity across legacy systems."
+        ],
+        "image": "/images/insurance-sector.png"
+      }
+    ]
+  },
+  "useCases": {
+    "heading": "Key Features",
+    "tagline": "AI-powered matching capabilities.",
+    "block1": [
+      {
+        "imageSrc": "/icons/typo-tolerance.svg",
+        "heading": "Typo Tolerance",
+        "subheading": "Accuracy",
+        "paragraph": "Identifies matches despite minor spelling errors or character swaps.",
+        "comingSoon": false
+      },
+      {
+        "imageSrc": "/icons/transliteration.svg",
+        "heading": "Transliteration Handling",
+        "paragraph": "Matches names converted from regional scripts to English with high fidelity.",
+        "comingSoon": false
+      }
+    ],
+    "block1extra": [
+      {
+        "imageSrc": "/icons/real-time.svg",
+        "heading": "Real-Time Scoring",
+        "paragraph": "Instant confidence scores to automate decision-making during onboarding."
+      }
+    ],
+    "showOthers": true,
+    "tagline2": "Additional capabilities",
+    "block2": [
+      {
+        "imageSrc": "/icons/api-connect.svg",
+        "label": "RESTful API"
+      },
+      {
+        "imageSrc": "/icons/security-shield.svg",
+        "label": "Secure Processing"
+      }
+    ],
+    "showButton": true,
+    "buttonText": "View Documentation",
+    "buttonLink": "https://decentro.tech/docs/kyc/match",
+    "examples": true,
+    "examplesHeader": "Matching Examples",
+    "examplesList": [
+      {
+        "imageSrc": "/icons/check-circle.svg",
+        "title": "Samir vs Sameer"
+      },
+      {
+        "imageSrc": "/icons/check-circle.svg",
+        "title": "Vikas vs Vikash"
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "Where To Use",
+    "items": [
+      {
+        "icon": "/icons/onboarding-user.svg",
+        "title": "User Onboarding",
+        "description": "verify user inputs against government ID databases instantly."
+      },
+      {
+        "icon": "/icons/vendor-due-diligence.svg",
+        "title": "Vendor Due Diligence",
+        "description": "Reconcile vendor names across invoices and registration documents."
+      },
+      {
+        "icon": "/icons/beneficiary-validation.svg",
+        "title": "Beneficiary Validation",
+        "description": "Ensure funds are transferred to the correct individual despite name variations."
+      },
+      {
+        "icon": "/icons/fraud-prevention.svg",
+        "title": "Fraud Prevention",
+        "description": "Detect synthetic identities attempting to use slight name alterations."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent3": {
+    "heading": "Need Custom Logic?",
+    "subHeading": "We can tune thresholds for your specific risk appetite.",
+    "ctaText": "Request Custom Model",
+    "ctaLink": "/contact-sales"
+  },
+  "bulletPointsAndTextBlock": {
+    "firstHeadingBold": "Phonetic Name Matching API: ",
+    "headingLight": "For Your Business ",
+    "headingBold": "- How Decentro Helps",
+    "tagline": "Elevate your data forensics with our Farsight suite.",
+    "bulletPointsHeader": "Why Choose Decentro?",
+    "bulletPoints": [
+      {
+        "text": "Advanced algorithms designed for Indian name variations."
+      },
+      {
+        "text": "Seamless integration with existing KYC workflows."
+      },
+      {
+        "text": "Drastically reduces manual operational overhead."
+      },
+      {
+        "text": "High availability and low latency response times."
+      },
+      {
+        "text": "Comprehensive documentation and developer support."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Start your Journey",
+        "linkText": "Sign Up",
+        "link": "https://decentro.tech/"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent4": {
+    "heading": "Ready to Integrate?",
+    "subHeading": "Go live quickly with our developer-friendly APIs.",
+    "ctaText": "Start Building",
+    "ctaLink": "/register"
+  },
+  "recommendedPages": [
+    {
+      "title": "CKYC API",
+      "description": "Fetch KYC details using the Central KYC Registry.",
+      "pageLink": "/api/ckyc",
+      "imageSrc": "/images/ckyc-related.png"
+    },
+    {
+      "title": "Address Matching API",
+      "description": "Verify and match customer addresses for higher accuracy.",
+      "pageLink": "/api/address-matching",
+      "videoSrc": "/videos/address-match-demo.mp4"
+    }
+  ]
+}
