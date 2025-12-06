@@ -1,0 +1,254 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching API | Intelligent Identity Verification | Decentro",
+    "description": "Integrate Decentro's Phonetic Name Matching API to resolve spelling variations and transliteration errors in KYC & onboarding. Enhance data accuracy with advanced acoustic algorithms.",
+    "ogTitle": "Phonetic Name Matching API - Decentro"
+  },
+  "productBanner": {
+    "heading": "Intelligent Phonetic Name Matching API",
+    "subHeading": "Overcome spelling errors and transliteration nuances. Verify customer identities with high precision using acoustic matching algorithms.",
+    "ctaText": "Get API Keys",
+    "ctaLink": "/contact-sales",
+    "image": "/images/products/phonetic-matching-banner.png"
+  },
+  "tableOfContents": [
+    {
+      "id": "whatIsSection",
+      "text": "What is it?"
+    },
+    {
+      "id": "methodSection",
+      "text": "Methodology"
+    },
+    {
+      "id": "leverageSection",
+      "text": "Applications"
+    },
+    {
+      "id": "keyFeatures",
+      "text": "Key Features"
+    },
+    {
+      "id": "whereToUse",
+      "text": "Where to Use"
+    },
+    {
+      "id": "howCanDecentroHelp",
+      "text": "Why Decentro?"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "heading": "What is Phonetic Name Matching?",
+    "image": "/images/products/phonetic-logic-intro.png",
+    "content": [
+      "Decentro's Phonetic Name Matching API is a key component of our Data Forensics suite, designed to solve the complexity of identity verification in a multi-cultural, multi-lingual environment. Traditional string matching fails when faced with spelling variations, typos, or transliteration differences (e.g., 'Sara' vs. 'Sarah' or 'Kumar' vs. 'Cumar').",
+      "Our API utilizes advanced phonetic algorithms to analyze names based on how they sound rather than how they are spelled. This ensures accurate reconciliation of customer data across disparate sources, reduces false rejections during KYC onboarding, and significantly improves the pass rates of legitimate users while maintaining strict fraud prevention standards."
+    ]
+  },
+  "subBanner": {
+    "heading": "Solve Transliteration Challenges",
+    "subHeading": "Automatically handle cultural nuances and spelling variations in Indian names.",
+    "ctaText": "Read Documentation",
+    "ctaLink": "/docs/data-forensics/phonetic-matching"
+  },
+  "textAndButtonBannerTransparent": {
+    "heading": "Minimize False Rejections",
+    "subHeading": "Don't let a typo cost you a customer. Improve onboarding conversion rates by validating intent over exact syntax.",
+    "ctaText": "Talk to Experts",
+    "ctaLink": "/contact-sales"
+  },
+  "methodData": {
+    "heading": "How It Works",
+    "subHeading": "From raw text to confidence score in milliseconds.",
+    "items": [
+      {
+        "title": "Input Normalization",
+        "description": "The API accepts two name strings. It automatically strips honorifics and salutations (e.g., Mr., Dr., Mrs.) to isolate the core identity.",
+        "icon": "/icons/normalization.svg"
+      },
+      {
+        "title": "Phonetic Encoding",
+        "description": "The names are processed through phonetic algorithms that convert text into acoustic codes, bypassing spelling differences.",
+        "icon": "/icons/algorithm.svg"
+      },
+      {
+        "title": "Similarity Scoring",
+        "description": "The system compares the codes and returns a similarity match percentage based on your configured threshold logic.",
+        "icon": "/icons/scoring.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent2": {
+    "heading": "Real-Time Processing",
+    "subHeading": "Designed for low-latency environments to ensure seamless user experiences.",
+    "ctaText": "View Sample Request",
+    "ctaLink": "/docs/phonetic-matching/reference"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "Where can this be",
+      "bold": "Applied?"
+    },
+    "data": [
+      {
+        "heading": "Fintech & Banking",
+        "content": [
+          "Reconcile names on ID cards with bank account holder names.",
+          "Clear false positives in AML and sanctions screening lists."
+        ],
+        "image": "/images/industries/fintech-kyc.png"
+      },
+      {
+        "heading": "Insurance",
+        "content": [
+          "Match policyholder names against hospital records for claims processing.",
+          "Prevent duplicate entries in customer databases."
+        ],
+        "image": "/images/industries/insurance-claims.png"
+      },
+      {
+        "heading": "Gig Economy",
+        "content": [
+          "Verify partner identities across multiple documents during onboarding.",
+          "Ensure consistency in background check reports."
+        ],
+        "image": "/images/industries/gig-economy.png"
+      }
+    ]
+  },
+  "useCases": {
+    "heading": "Key Features",
+    "tagline": "Advanced Data Forensics Capabilities.",
+    "block1": [
+      {
+        "imageSrc": "/icons/features/sound-waves.svg",
+        "heading": "Acoustic Algorithms",
+        "subheading": "Core Tech",
+        "paragraph": "Matches names based on pronunciation, ignoring spelling errors and typos.",
+        "comingSoon": false
+      },
+      {
+        "imageSrc": "/icons/features/sliders.svg",
+        "heading": "Configurable Precision",
+        "paragraph": "Adjust similarity thresholds (fuzzy logic) to suit your specific risk appetite.",
+        "comingSoon": false
+      }
+    ],
+    "block1extra": [
+      {
+        "imageSrc": "/icons/features/clean.svg",
+        "heading": "Salutation Removal",
+        "paragraph": "Automatically cleanses inputs by removing prefixes like Mr, Mrs, or Dr for better accuracy."
+      }
+    ],
+    "showOthers": true,
+    "tagline2": "Enterprise-Grade Reliability",
+    "block2": [
+      {
+        "imageSrc": "/icons/features/shield.svg",
+        "label": "Secure & Compliant"
+      },
+      {
+        "imageSrc": "/icons/features/clock.svg",
+        "label": "Low Latency"
+      }
+    ],
+    "showButton": true,
+    "buttonText": "View API Specs",
+    "buttonLink": "/docs/data-forensics",
+    "examples": true,
+    "examplesHeader": "Match Scenarios",
+    "examplesList": [
+      {
+        "imageSrc": "/icons/check-circle.svg",
+        "title": "Smyth vs Smith"
+      },
+      {
+        "imageSrc": "/icons/check-circle.svg",
+        "title": "Mohd vs Mohammed"
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "Where To Use",
+    "items": [
+      {
+        "icon": "/icons/use-cases/kyc.svg",
+        "title": "KYC Verification",
+        "description": "Validate user inputs against OCR data extracted from ID cards."
+      },
+      {
+        "icon": "/icons/use-cases/database.svg",
+        "title": "Data Deduplication",
+        "description": "Cleanse customer relationship management (CRM) databases by merging duplicate profiles."
+      },
+      {
+        "icon": "/icons/use-cases/fraud.svg",
+        "title": "Fraud Prevention",
+        "description": "Detect synthetic identities trying to bypass checks using slight name alterations."
+      },
+      {
+        "icon": "/icons/use-cases/payments.svg",
+        "title": "Beneficiary Validation",
+        "description": "Ensure the name on a payment instruction matches the bank account holder."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent3": {
+    "heading": "Need Custom Thresholds?",
+    "subHeading": "We can tune the matching logic for your specific industry requirements.",
+    "ctaText": "Contact Engineering",
+    "ctaLink": "/contact-us"
+  },
+  "bulletPointsAndTextBlock": {
+    "firstHeadingBold": "Topic: ",
+    "headingLight": "Phonetic Name Matching ",
+    "headingBold": "- The Decentro Advantage",
+    "tagline": "Why leading fintechs choose our Data Forensics suite.",
+    "bulletPointsHeader": "Why Choose Decentro?",
+    "bulletPoints": [
+      {
+        "text": "Superior handling of Indian names and transliteration challenges."
+      },
+      {
+        "text": "Seamless integration with existing KYC & Onboarding modules."
+      },
+      {
+        "text": "High throughput capability handling thousands of requests per second."
+      },
+      {
+        "text": "Bank-grade security with encrypted data handling."
+      },
+      {
+        "text": "Transparent pricing and detailed documentation."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Start Integrating Today",
+        "linkText": "Sign Up",
+        "link": "https://decentro.tech/"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent4": {
+    "heading": "Ready to Integrate?",
+    "subHeading": "Get your API keys and start testing in our sandbox environment immediately.",
+    "ctaText": "Start Building",
+    "ctaLink": "/register"
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding",
+      "description": "Comprehensive identity verification suite for individuals and businesses.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "/images/products/kyc-thumb.png"
+    },
+    {
+      "title": "Bank Account Validation",
+      "description": "Verify bank account details and holder names in real-time.",
+      "pageLink": "/products/bank-account-validation",
+      "videoSrc": "/videos/bav-intro.mp4"
+    }
+  ]
+}
