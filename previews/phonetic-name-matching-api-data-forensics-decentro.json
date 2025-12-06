@@ -1,13 +1,13 @@
 {
   "seo": {
     "title": "Phonetic Name Matching API | Data Forensics | Decentro",
-    "description": "Integrate Decentro's Phonetic Name Matching API to verify identities by analyzing name pronunciation, resolving spelling variations, and handling transliteration errors.",
-    "ogTitle": "Phonetic Name Matching API - Advanced Data Forensics"
+    "description": "Integrate Decentro's Phonetic Name Matching API to verify identities with high accuracy. Overcome spelling variations and transliteration errors in your KYC and onboarding flows.",
+    "ogTitle": "Decentro Phonetic Name Matching API - Advanced Data Forensics"
   },
   "productBanner": {
-    "heading": "Phonetic Name Matching API",
-    "subHeading": "Resolve spelling variations and transliteration errors with high-precision phonetic algorithms. Ensure data consistency and identity verification accuracy.",
-    "ctaText": "Get Started",
+    "heading": "AMan Name Matching API",
+    "subHeading": "Eliminate identity verification errors caused by spelling variations and transliteration issues with our intelligent Farsight Data Forensics engine.",
+    "ctaText": "Start Verifying",
     "ctaLink": "/contact-sales",
     "image": "/images/phonetic-matching-banner.png"
   },
@@ -39,50 +39,50 @@
   ],
   "inlineImageAndParagraph": {
     "heading": "What is Phonetic Name Matching?",
-    "image": "/images/data-forensics-intro.png",
+    "image": "/images/phonetic-intro.png",
     "content": [
-      "In the diverse landscape of global identity verification, spelling variations can lead to significant false negatives. Decentro's Phonetic Name Matching API, part of our Farsight Data Forensics suite, solves this by comparing names based on how they sound rather than just how they are spelled.",
-      "Traditional string matching fails when encountering typos, phonetic variations (e.g., 'C' vs 'K'), or transliteration differences common in multi-lingual regions like India. Our API leverages advanced phonetic algorithms to determine the likelihood that two distinct text strings represent the same individual, enhancing the reliability of your KYC and onboarding processes."
+      "Phonetic Name Matching is a specialized API within Decentro's Data Forensics suite designed to compare names based on how they sound rather than just how they are spelled. In a diverse linguistic landscape, names are often transliterated differently or misspelled during manual entry (e.g., 'Saurabh' vs. 'Sourabh').",
+      "Unlike basic string comparison used by many generic phonetic name matching competitors, our engine utilizes advanced phonetic algorithms to resolve entities with high precision. This ensures that legitimate customers aren't rejected due to minor typos, while maintaining strict security against identity fraud."
     ]
   },
   "subBanner": {
-    "heading": "Precision Beyond Exact Matching",
-    "subHeading": "Overcome the limitations of standard text comparison with advanced acoustic heuristics.",
-    "ctaText": "Read the Docs",
-    "ctaLink": "https://decentro.tech/docs/kyc/match"
+    "heading": "Part of Farsight Data Forensics",
+    "subHeading": "Combine Phonetic Matching with Regular Text Matching and Geolocation validation for a complete trust layer.",
+    "ctaText": "Read Documentation",
+    "ctaLink": "/docs/kyc/match"
   },
   "textAndButtonBannerTransparent": {
-    "heading": "Maximize Verification Success",
-    "subHeading": "Reduce manual review queues and drop-offs caused by minor data discrepancies.",
+    "heading": "Solve the Transliteration Challenge",
+    "subHeading": "Automatically handle variations in spelling across different regions and languages without manual review.",
     "ctaText": "Talk to Us",
     "ctaLink": "/contact-sales"
   },
   "methodData": {
     "heading": "How It Works",
-    "subHeading": "From raw text to confidence scores using our Match Engine.",
+    "subHeading": "From raw input to confident verification.",
     "items": [
       {
-        "title": "Input Ingestion",
-        "description": "Submit two name strings via the `/v2/kyc/match` endpoint (e.g., Input Name and Database Name).",
-        "icon": "/icons/input-data.svg"
+        "title": "Input Normalization",
+        "description": "The API accepts two name strings via the match endpoint, standardizing character sets and removing noise.",
+        "icon": "/icons/input-normalization.svg"
       },
       {
-        "title": "Phonetic Analysis",
-        "description": "The engine normalizes the text and applies phonetic algorithms to decompose names into their sound components.",
-        "icon": "/icons/algorithm-processing.svg"
+        "title": "Phonetic Encoding",
+        "description": "Algorithms convert names into phonetic codes, representing their pronunciation regardless of spelling.",
+        "icon": "/icons/phonetic-encoding.svg"
       },
       {
-        "title": "Confidence Scoring",
-        "description": "The API returns a match percentage indicating the probability that the two names belong to the same entity.",
-        "icon": "/icons/score-output.svg"
+        "title": "Similarity Scoring",
+        "description": "The engine calculates a match score indicating the confidence level of the identity match.",
+        "icon": "/icons/similarity-score.svg"
       }
     ]
   },
   "textAndButtonBannerTransparent2": {
     "heading": "Seamless Integration",
-    "subHeading": "Plug our Data Forensics APIs directly into your verification flow.",
-    "ctaText": "View Sample API Response",
-    "ctaLink": "https://decentro.tech/docs/kyc/match"
+    "subHeading": "Test immediately with our Sandbox endpoint: https://in.staging.decentro.tech/v2/kyc/match",
+    "ctaText": "View API Specs",
+    "ctaLink": "/docs/api-reference"
   },
   "adjacentData": {
     "heading": {
@@ -91,81 +91,81 @@
     },
     "data": [
       {
-        "heading": "Digital Banking",
+        "heading": "KYC Onboarding",
         "content": [
-          "Verify customer names against banking databases.",
-          "Handle variations in localized spellings."
+          "Match user input against ID documents.",
+          "Reduce drop-offs caused by strict spelling checks."
         ],
-        "image": "/images/banking-application.png"
+        "image": "/images/kyc-onboarding.png"
       },
       {
-        "heading": "Lending & Fintech",
+        "heading": "Payment Validation",
         "content": [
-          "Match loan applicants against credit bureau records.",
-          "Reduce rejection rates due to typos."
+          "Verify beneficiary names before transfer.",
+          "Prevent failed transactions due to name mismatches."
         ],
-        "image": "/images/fintech-lending.png"
+        "image": "/images/payment-validation.png"
       },
       {
-        "heading": "Insurance",
+        "heading": "Sanctions Screening",
         "content": [
-          "Validate beneficiary names during claims processing.",
-          "Ensure data integrity across legacy systems."
+          "Check names against AML/PEP lists accurately.",
+          "Account for regional spelling variations in watchlists."
         ],
-        "image": "/images/insurance-sector.png"
+        "image": "/images/sanctions-screening.png"
       }
     ]
   },
   "useCases": {
     "heading": "Key Features",
-    "tagline": "AI-powered matching capabilities.",
+    "tagline": "AI-powered linguistic capabilities.",
     "block1": [
       {
-        "imageSrc": "/icons/typo-tolerance.svg",
-        "heading": "Typo Tolerance",
+        "imageSrc": "/icons/algo-match.svg",
+        "heading": "Smart Transliteration",
         "subheading": "Accuracy",
-        "paragraph": "Identifies matches despite minor spelling errors or character swaps.",
+        "paragraph": "Matches names even when vowels or silent letters vary significantly (e.g., 'Mohammad' vs 'Mohammed').",
         "comingSoon": false
       },
       {
-        "imageSrc": "/icons/transliteration.svg",
-        "heading": "Transliteration Handling",
-        "paragraph": "Matches names converted from regional scripts to English with high fidelity.",
+        "imageSrc": "/icons/confidence-score.svg",
+        "heading": "Confidence Scoring",
+        "paragraph": "Returns a granular score allowing you to set custom thresholds for auto-approval.",
         "comingSoon": false
       }
     ],
     "block1extra": [
       {
-        "imageSrc": "/icons/real-time.svg",
-        "heading": "Real-Time Scoring",
-        "paragraph": "Instant confidence scores to automate decision-making during onboarding."
+        "imageSrc": "/icons/api-speed.svg",
+        "heading": "Low Latency",
+        "paragraph": "Real-time response times suitable for instant onboarding flows."
       }
     ],
     "showOthers": true,
     "tagline2": "Additional capabilities",
     "block2": [
       {
-        "imageSrc": "/icons/api-connect.svg",
-        "label": "RESTful API"
+        "imageSrc": "/icons/typo.svg",
+        "label": "Typo Tolerance"
       },
       {
-        "imageSrc": "/icons/security-shield.svg",
-        "label": "Secure Processing"
+        "imageSrc": "/icons/scale.svg",
+        "label": "High Scalability"
       }
     ],
     "showButton": true,
     "buttonText": "View Documentation",
-    "buttonLink": "https://decentro.tech/docs/kyc/match",
+    "buttonLink": "/docs/kyc/match",
     "examples": true,
-    "examplesHeader": "Matching Examples",
+    "examplesHeader": "Common Match Scenarios",
     "examplesList": [
       {
         "imageSrc": "/icons/check-circle.svg",
-        "title": "Samir vs Sameer"
+        "title": "Match: 'Amit' vs 'Ameet'"
       },
       {
         "imageSrc": "/icons/check-circle.svg",
-        "title": "Vikas vs Vikash"
+        "title": "Match: 'Sara' vs 'Sarah'"
       }
     ]
   },
@@ -173,82 +173,82 @@
     "heading": "Where To Use",
     "items": [
       {
-        "icon": "/icons/onboarding-user.svg",
-        "title": "User Onboarding",
-        "description": "verify user inputs against government ID databases instantly."
+        "icon": "/icons/use-kyc.svg",
+        "title": "User Registration",
+        "description": "Validate user inputs against OCR data extracted from Aadhaar or PAN cards."
       },
       {
-        "icon": "/icons/vendor-due-diligence.svg",
-        "title": "Vendor Due Diligence",
-        "description": "Reconcile vendor names across invoices and registration documents."
+        "icon": "/icons/use-bank.svg",
+        "title": "Bank Account Verification",
+        "description": "Ensure the account holder's name matches the beneficiary name phonetically."
       },
       {
-        "icon": "/icons/beneficiary-validation.svg",
-        "title": "Beneficiary Validation",
-        "description": "Ensure funds are transferred to the correct individual despite name variations."
+        "icon": "/icons/use-insurance.svg",
+        "title": "Insurance Claims",
+        "description": "Match claimant names against policy holder records despite data entry errors."
       },
       {
-        "icon": "/icons/fraud-prevention.svg",
-        "title": "Fraud Prevention",
-        "description": "Detect synthetic identities attempting to use slight name alterations."
+        "icon": "/icons/use-crm.svg",
+        "title": "Database Deduplication",
+        "description": "Clean up CRM data by merging duplicate records with phonetic similarities."
       }
     ]
   },
   "textAndButtonBannerTransparent3": {
-    "heading": "Need Custom Logic?",
-    "subHeading": "We can tune thresholds for your specific risk appetite.",
-    "ctaText": "Request Custom Model",
+    "heading": "Need Specific Thresholds?",
+    "subHeading": "We can tune the matching logic to fit your risk appetite.",
+    "ctaText": "Request Custom Tuning",
     "ctaLink": "/contact-sales"
   },
   "bulletPointsAndTextBlock": {
-    "firstHeadingBold": "Phonetic Name Matching API: ",
-    "headingLight": "For Your Business ",
+    "firstHeadingBold": "Topic: ",
+    "headingLight": "Phonetic Name Matching ",
     "headingBold": "- How Decentro Helps",
-    "tagline": "Elevate your data forensics with our Farsight suite.",
+    "tagline": "Superior accuracy for critical financial operations.",
     "bulletPointsHeader": "Why Choose Decentro?",
     "bulletPoints": [
       {
-        "text": "Advanced algorithms designed for Indian name variations."
+        "text": "Outperforms generic phonetic name matching competitors with fintech-specific tuning."
       },
       {
-        "text": "Seamless integration with existing KYC workflows."
+        "text": "Drastically reduces manual review queues for compliance teams."
       },
       {
-        "text": "Drastically reduces manual operational overhead."
+        "text": "Seamlessly integrates with Decentro's CKYC and Penny Drop verification APIs."
       },
       {
-        "text": "High availability and low latency response times."
+        "text": "Robust infrastructure handling millions of verifications with high uptime."
       },
       {
-        "text": "Comprehensive documentation and developer support."
+        "text": "Comprehensive Data Forensics suite including text and geolocation matching."
       }
     ],
     "textInBoxList": [
       {
-        "textInBox": "Start your Journey",
+        "textInBox": "Ready to optimize your KYC?",
         "linkText": "Sign Up",
-        "link": "https://decentro.tech/"
+        "link": "https://decentro.tech/signup"
       }
     ]
   },
   "textAndButtonBannerTransparent4": {
     "heading": "Ready to Integrate?",
-    "subHeading": "Go live quickly with our developer-friendly APIs.",
+    "subHeading": "Get your API keys and start testing the Match Engine today.",
     "ctaText": "Start Building",
     "ctaLink": "/register"
   },
   "recommendedPages": [
     {
-      "title": "CKYC API",
-      "description": "Fetch KYC details using the Central KYC Registry.",
+      "title": "CKYC Verification",
+      "description": "Fetch KYC data using unique identifiers.",
       "pageLink": "/api/ckyc",
-      "imageSrc": "/images/ckyc-related.png"
+      "imageSrc": "/images/related-ckyc.png"
     },
     {
-      "title": "Address Matching API",
-      "description": "Verify and match customer addresses for higher accuracy.",
-      "pageLink": "/api/address-matching",
-      "videoSrc": "/videos/address-match-demo.mp4"
+      "title": "Bank Account Verification",
+      "description": "Validate bank accounts in real-time.",
+      "pageLink": "/api/bank-verification",
+      "videoSrc": "/videos/penny-drop.mp4"
     }
   ]
 }
