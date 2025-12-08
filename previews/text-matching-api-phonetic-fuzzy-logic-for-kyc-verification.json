@@ -1,0 +1,447 @@
+{
+  "seo": {
+    "title": "Text Matching API | Phonetic & Fuzzy Logic for KYC Verification",
+    "description": "Validate customer identity with Decentro’s Text Matching API. Utilise advanced phonetic algorithms and fuzzy logic for 99.99% accurate KYC text verification.",
+    "ogTitle": "Text Matching API | Phonetic & Fuzzy Logic for KYC Verification"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Text Matching API</span>",
+    "tagline": "Intelligent Phonetic & Fuzzy Logic Verification for KYC",
+    "buttonText": "Start Integration",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Text Matching API for KYC",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What is Text Matching?",
+      "id": "whatIsTextMatching"
+    },
+    {
+      "text": "Phonetic Intelligence & Farsight",
+      "id": "phoneticIntelligence"
+    },
+    {
+      "text": "How It Works",
+      "id": "methodSection"
+    },
+    {
+      "text": "Why You Need Text Verification",
+      "id": "needFor"
+    },
+    {
+      "text": "Matching Capabilities",
+      "id": "horizontalComparison"
+    },
+    {
+      "text": "Business Benefits",
+      "id": "businessLeverage"
+    },
+    {
+      "text": "Key Features",
+      "id": "KeyFeatures"
+    },
+    {
+      "text": "Industry Use Cases",
+      "id": "whereToUse"
+    },
+    {
+      "text": "Decentro's Advantage",
+      "id": "howCanDecentroHelp"
+    },
+    {
+      "text": "FAQs",
+      "id": "commonlyAskedQuestions"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What is the ",
+    "headingBold": "Text Matching API?",
+    "text": "The Decentro KYC Text Verification API Phonetic provides precise data validation, going beyond exact string matches. It employs advanced algorithms to intelligently handle phonetic variations, spelling discrepancies, and formatting inconsistencies in textual data. Crucial for Fintechs and financial institutions, this API ensures real-time consistency between user inputs and official records, such as ID cards or bank accounts.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Phonetic Intelligence",
+    "headingBold": " & Data Forensics",
+    "text": "The API utilises the 'Textual Resonance Endpoint' to provide a granular match score. Unlike binary pass/fail checks, our system accounts for cultural name variations and sound-alike spellings, ensuring legitimate customers aren't rejected due to minor typos.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
+    "subheadings": [
+      {
+        "title": "Our algorithms analyse text through three dimensions: "
+      },
+      {
+        "title": "Phonetic Similarity",
+        "bulletPoints": [
+          "Detects matches based on how words sound rather than just how they are spelled, solving issues with names like 'Sean' vs 'Shawn' or 'Smit' vs 'Smith'."
+        ]
+      },
+      {
+        "title": "Fuzzy Logic Matching",
+        "bulletPoints": [
+          "Identifies similarities despite typos, character transpositions, or partial matches, offering a similarity score that helps automate approval decisions."
+        ]
+      },
+      {
+        "title": "Contextual Analysis",
+        "bulletPoints": [
+          "Handles inconsistent data entry formats and noisy data to extract and compare relevant textual resonance with up to 99.99% accuracy."
+        ]
+      }
+    ]
+  },
+  "headingAndItems": {
+    "headingBold": "Methodology",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Input Normalization",
+        "description": "The API accepts textual inputs from various sources (User input vs OCR output), stripping noise and standardizing formats for comparison."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Algorithmic Comparison",
+        "description": "Proprietary algorithms compare the strings for phonetic and structural similarity, calculating a precise resonance score."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Match Verification",
+        "description": "Returns a confidence score and phonetic match status, allowing you to accept, flag, or reject the identity claim based on configurable thresholds."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View Developer Docs",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/kyc-and-onboarding-farsight-data-forensics-regular-text-matching"
+  },
+  "methodData": {
+    "heading": "How It Works",
+    "subHeading": "The Verification Process.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Data Submission",
+        "description": "Submit two strings for comparison via the /v2/kyc/match endpoint (e.g., Name on PAN vs. Name provided)."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Forensic Analysis",
+        "description": "The engine applies regular text matching and phonetic logic to identify discrepancies and similarities."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Result Generation",
+        "description": "Receive an instant JSON response with a calculated match percentage and phonetic validity flag."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "The Need For <span class='highlighted-subsection-header'>Text Verification</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Eliminate<br/>False Rejections",
+        "description": "Prevent customer drop-offs caused by minor spelling errors or legitimate name variations during onboarding."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Ensure Data<br/>Consistency",
+        "description": "Validate textual data across multiple sources to maintain a clean, accurate database for regulatory reporting."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "Streamline<br/>KYC Operations",
+        "description": "Reduce manual review queues by automating decision-making based on high-confidence match scores."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Mitigate<br/>Identity Fraud",
+        "description": "Identify suspicious discrepancies between claimed identities and official documents instantly."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent2": {
+    "text": "",
+    "ctaButtonText": "View API Reference",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/kyc-and-onboarding-farsight-data-forensics-regular-text-matching"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Your Business Can Leverage",
+      "bold": "Text Matching APIs"
+    },
+    "data": [
+      {
+        "headingLight": "Validate Customer Info",
+        "headingBold": "",
+        "text": "Instantly match customer-provided names against official records like PAN, Aadhaar, or Bank Accounts.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg",
+        "altText": "Validate Customer Info"
+      },
+      {
+        "headingLight": "Enhance Onboarding",
+        "headingBold": "",
+        "text": "Provide a frictionless user experience by accepting inputs that are phonetically correct even if spelled differently.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg",
+        "altText": "Enhance Onboarding"
+      },
+      {
+        "headingLight": "Fraud Prevention",
+        "headingBold": "",
+        "text": "Detect synthetic identities where names are slightly altered to bypass standard blacklists.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg",
+        "altText": "Fraud Prevention"
+      },
+      {
+        "headingLight": "Operational Efficiency",
+        "headingBold": "",
+        "text": "Drastically reduce the need for human intervention in data verification processes.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg",
+        "altText": "Operational Efficiency"
+      },
+      {
+        "headingLight": "Scalable Architecture",
+        "headingBold": "",
+        "text": "Process thousands of verifications per minute with our secure, compliant, and scalable infrastructure.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg",
+        "altText": "Scalable Architecture"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent6": {
+    "text": "",
+    "ctaButtonText": "Start Building",
+    "newTab": true,
+    "ctaButtonLink": "/signup/"
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Phonetic <br/>Match Score",
+        "paragraph": "Accounts for sound-alike variations and cultural name differences effectively.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Configurable <br/>Precision",
+        "paragraph": "Adjust similarity thresholds to suit your specific risk appetite and use case.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Real-Time <br/>Processing",
+        "paragraph": "Get instant match results to ensure a seamless and fast user onboarding experience.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Format <br/>Flexibility",
+        "paragraph": "Works with various text formats and handles inconsistent data entry gracefully.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "AI-Powered <br/>Accuracy",
+        "paragraph": "Achieve up to 99.99% accuracy in text verification using sophisticated AI algorithms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Secure & <br/>Compliant",
+        "paragraph": "Ensures encrypted data handling with complete adherence to regulatory standards.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ],
+    "showOthers": false,
+    "tagline2": "",
+    "block2": []
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can <span class='highlighted-subsection-header'>Use It</span>",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "Banks & <br/>NBFCs",
+        "description": "Verify account holder names against ID proofs during digital account opening workflows."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "Lending <br/>Platforms",
+        "description": "Ensure loan applicants match the identity documents provided, reducing fraud risk."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "Insurance <br/>Providers",
+        "description": "Validate beneficiary details and policyholder names to prevent claims fraud."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "E-commerce & <br/>Logistics",
+        "description": "Correct and match address data or recipient names to improve delivery success rates."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "HR & <br/>Recruitment",
+        "description": "Background verification matching candidate names against employment records."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "Payment <br/>Gateways",
+        "description": "Verify payer details against bank records for secure transaction processing."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "Text Verification For Your Business",
+    "headingBold": " - How Can Decentro Help?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Choose Decentro's Matching API?",
+    "subheadings": true,
+    "lineHeight": "640px",
+    "bulletPoints": [
+      {
+        "heading": "Part of Farsight Data Forensics",
+        "text": "Integrated into the powerful Scanner module for holistic risk and identity management."
+      },
+      {
+        "heading": "Cultural Context Awareness",
+        "text": "Specifically tuned to handle Indian names and diverse phonetic spellings effectively."
+      },
+      {
+        "heading": "High Availability",
+        "text": "Reliable endpoints for both Sandbox testing and Production environments."
+      },
+      {
+        "heading": "Simple Integration",
+        "text": "Easy-to-use REST API (/v2/kyc/match) that integrates into your stack in minutes."
+      },
+      {
+        "heading": "Data Privacy",
+        "text": "Enterprise-grade encryption ensures customer PII remains secure throughout the verification process."
+      },
+      {
+        "heading": "Reduced Operational Costs",
+        "text": "Minimise the need for manual data entry corrections and identity reviews."
+      },
+      {
+        "heading": "Comprehensive Support",
+        "text": "Dedicated developer support to assist from sandbox testing to go-live."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Read the Documentation",
+        "linkText": "API Docs",
+        "link": "https://docs.decentro.tech/docs/kyc-and-onboarding-farsight-data-forensics-regular-text-matching"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent3": {
+    "text": "<br/><span>Ready to automate verification?</span>",
+    "ctaButtonText": "Talk to an Expert Now!",
+    "ctaButtonLink": "/signup/"
+  },
+  "textAndButtonBannerTransparent4": {
+    "text": "<span>Accurate Identity Verification</span> for Fintechs",
+    "ctaButtonText": "Get Started Now",
+    "newTab": false,
+    "ctaButtonLink": "/signup/"
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "Our Text Matching API delivers 99.99% accuracy in identity verification, processing requests in real-time to facilitate instant onboarding decisions.",
+    "boldText": [
+      "99.99% accuracy",
+      "Real-time",
+      "Identity Verification"
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "What is the Regular Text Matching API?",
+      "solution": "It is a component of Decentro’s Farsight Data Forensics suite that compares two strings of text to identify similarities, accounting for spelling errors and phonetic variations to validate identity data."
+    },
+    {
+      "query": "Does this API support phonetic matching?",
+      "solution": "Yes, the API includes a specific Phonetic Match Score that identifies names that sound similar but are spelled differently (e.g., 'Sara' vs 'Sarah'), which is crucial for culturally diverse regions."
+    },
+    {
+      "query": "How accurate is the matching process?",
+      "solution": "Powered by AI algorithms and fuzzy logic, the API achieves up to 99.99% accuracy in text verification, significantly reducing false positives and negatives."
+    },
+    {
+      "query": "Can I test the API before going live?",
+      "solution": "Yes, Decentro provides a Sandbox environment. You can obtain API keys from the dashboard and test the /v2/kyc/match endpoint with sample data before moving to Production."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "Name Matching API",
+      "description": "Culturally-Intelligent Name Matching for Enhanced KYC.",
+      "pageLink": "/api-hub/name-matching-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Digilocker KYC API",
+      "description": "Fetch verified documents directly from Digilocker.",
+      "pageLink": "/api-hub/digilocker-kyc-api",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ],
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>Matching Capabilities</span>",
+    "subheading": "Standard vs. Farsight Forensic Matching",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Standard String <br/>Matching",
+        "list": [
+          {
+            "text": "Basic exact match comparisons"
+          },
+          {
+            "text": "Fails on minor typos or casing issues"
+          },
+          {
+            "text": "No phonetic awareness"
+          },
+          {
+            "text": "High manual review rate"
+          }
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Decentro Farsight <br/>Matching",
+        "list": [
+          {
+            "text": "Advanced Phonetic & Fuzzy Logic"
+          },
+          {
+            "text": "Handles cultural naming variations"
+          },
+          {
+            "text": "Configurable similarity thresholds"
+          },
+          {
+            "text": "99.99% automated accuracy"
+          }
+        ]
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent5": {
+    "text": "",
+    "ctaButtonText": "Explore Scanner Module",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/scanner-user-intelligence-suite"
+  }
+}
