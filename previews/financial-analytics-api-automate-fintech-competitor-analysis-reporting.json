@@ -1,0 +1,444 @@
+{
+  "seo": {
+    "title": "Financial Analytics API | Automate Fintech Competitor Analysis & Reporting",
+    "description": "Empower your platform with Decentro's Financial Analytics API. Aggregate real-time data, automate reporting, and derive actionable fintech competitor analysis and insights.",
+    "ogTitle": "Financial Analytics API | Automate Fintech Competitor Analysis & Reporting"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Financial Analytics API</span>",
+    "tagline": "Transform Raw Data into Strategic Competitor Insights",
+    "buttonText": "Start Analyzing",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Financial Analytics API for Fintech Competitor Analysis",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What is Financial Analytics?",
+      "id": "whatIsAnalytics"
+    },
+    {
+      "text": "Competitor Analysis & Reporting",
+      "id": "competitorAnalysis"
+    },
+    {
+      "text": "Methodology",
+      "id": "methodSection"
+    },
+    {
+      "text": "The Need For Analytics APIs",
+      "id": "needFor"
+    },
+    {
+      "text": "Types of Reporting",
+      "id": "horizontalComparison"
+    },
+    {
+      "text": "Leveraging Business Intelligence",
+      "id": "leveragingBI"
+    },
+    {
+      "text": "Key Features",
+      "id": "KeyFeatures"
+    },
+    {
+      "text": "Industry Use Cases",
+      "id": "whereToUse"
+    },
+    {
+      "text": "Decentro's Value Proposition",
+      "id": "howCanDecentroHelp"
+    },
+    {
+      "text": "FAQs",
+      "id": "commonlyAskedQuestions"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What is the ",
+    "headingBold": "Financial Analytics API?",
+    "text": "The Financial Analytics API acts as a centralized intelligence hub, converting raw banking and transaction logs into structured, actionable insights. Similar to tools like Razorpay's Reports or Alpha Vantage's market data, Decentro’s solution allows platforms to programmatically access detailed financial summaries.<br/><br/>It enables businesses to automate reconciliation, track revenue streams in real-time, and perform robust fintech competitor analysis by benchmarking financial health against market standards. This API is essential for Neobanks, Wealth-techs, and ERP systems requiring granular data visibility.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Advanced Reporting",
+    "headingBold": " & Competitor Benchmarking",
+    "text": "In the competitive fintech landscape, static data is insufficient. Our API provides dynamic 'External Analytics' capabilities, allowing you to ingest and analyze market data alongside internal transaction flows. This facilitates precise competitor analysis and trend forecasting.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
+    "subheadings": [
+      {
+        "title": "Drive Intelligence through 3 Core Pillars:"
+      },
+      {
+        "title": "Transaction Intelligence",
+        "bulletPoints": [
+          "Granular breakdown of payment flows, categorizing transactions by merchant category codes (MCC) and volume to identify spending patterns."
+        ]
+      },
+      {
+        "title": "Market Benchmarking",
+        "bulletPoints": [
+          "Compare user financial health and transaction volumes against aggregated industry data to perform real-time fintech competitor analysis."
+        ]
+      },
+      {
+        "title": "Predictive Cash Flow",
+        "bulletPoints": [
+          "Utilize historical data trends to forecast future liquidity, essential for lending underwriting and risk management."
+        ]
+      }
+    ]
+  },
+  "headingAndItems": {
+    "headingBold": "Methodology",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Data Aggregation",
+        "description": "Seamlessly fetch transaction data across multiple banking rails and external financial inputs via a single API call."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Standardization",
+        "description": "Normalize unstructured financial data into a coherent JSON format, making it ready for immediate analysis and visualization."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Insight Generation",
+        "description": "Apply logic layers to calculate burn rates, churn risks, and comparative metrics for comprehensive competitor analysis."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View API Documentation",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/"
+  },
+  "methodData": {
+    "heading": "Process Flow",
+    "subHeading": "From Raw Data to Strategic Insight.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Ingest",
+        "description": "Collect real-time financial data streams from diverse sources, including banking partners and market feeds."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Analyze",
+        "description": "Process data through algorithmic models to identify anomalies, trends, and competitive benchmarks."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Report",
+        "description": "Deliver structured reports and webhooks that integrate directly into your dashboard or decision engines."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "The Need For <span class='highlighted-subsection-header'>Analytics APIs</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Automated<br/>Benchmarking",
+        "description": "Eliminate manual spreadsheets. Automatically track your performance against key fintech competitor analysis metrics."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Regulatory<br/> Reporting",
+        "description": "Simplify compliance with pre-formatted reports that meet auditing standards for financial institutions."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "Data-Driven<br/>Decisions",
+        "description": "Move beyond intuition. Use hard data on market trends and cash flow to guide strategic product launches."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Operational<br/>Efficiency",
+        "description": "Reduce the overhead of data teams by outsourcing the heavy lifting of financial data standardization."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent2": {
+    "text": "",
+    "ctaButtonText": "Explore Data Suite",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Can Your Business Leverage",
+      "bold": "Financial Analytics"
+    },
+    "data": [
+      {
+        "headingLight": "Competitor Analysis",
+        "headingBold": "",
+        "text": "Gain visibility into market share and transaction volumes to understand where you stand vs competitors.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg",
+        "altText": "Fintech Competitor Analysis"
+      },
+      {
+        "headingLight": "Merchant Insights",
+        "headingBold": "",
+        "text": "Provide your sub-merchants with detailed analytics dashboards powered by our API infrastructure.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg",
+        "altText": "Merchant Insights"
+      },
+      {
+        "headingLight": "Trend Forecasting",
+        "headingBold": "",
+        "text": "Use historical financial market data APIs to predict seasonal spikes and liquidity requirements.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg",
+        "altText": "Trend Forecasting"
+      },
+      {
+        "headingLight": "Investment Research",
+        "headingBold": "",
+        "text": "For wealth platforms, ingest realtime & historical financial market data to assist user portfolio decisions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg",
+        "altText": "Investment Research"
+      },
+      {
+        "headingLight": "Seamless Integration",
+        "headingBold": "",
+        "text": "Connect with existing ERPs and CRMs to unify financial data across your organization.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg",
+        "altText": "Flexible Integration"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent6": {
+    "text": "",
+    "ctaButtonText": "Talk to Sales",
+    "newTab": true,
+    "ctaButtonLink": "/contact-us/"
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Real-time <br/> Reconciliation",
+        "paragraph": "Instant matching of transactions across ledgers to ensure financial accuracy.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Customizable <br/> Reports",
+        "paragraph": "Generate PDFs or JSON outputs tailored to specific business KPIs and metrics.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Low Latency <br/>Analysis",
+        "paragraph": "Process high volumes of financial data with minimal delay for instant insights.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Cross-Platform <br/> Aggregation",
+        "paragraph": "Unified view of data from UPI, NACH, and Virtual Account flows.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Fraud Pattern <br/> Recognition",
+        "paragraph": "Identify irregularities in transaction data that deviate from standard market behavior.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Developer <br/>Friendly",
+        "paragraph": "Robust SDKs and clear documentation designed for rapid integration.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ],
+    "showOthers": false,
+    "tagline2": "",
+    "block2": []
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can <span class='highlighted-subsection-header'>Use It</span>",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "Neobanks",
+        "description": "Offer personal finance management (PFM) tools and spending analysis to end-users."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "Lenders",
+        "description": "Analyze borrower cash flows against industry benchmarks for better underwriting."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "Wealth Tech",
+        "description": "Integrate real-time market data APIs to provide portfolio tracking and comparative analysis."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "B2B Marketplaces",
+        "description": "Monitor merchant health and transaction volumes to optimize credit offerings."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "Investment Firms",
+        "description": "Automate the ingestion of financial statements for rapid competitive analysis."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "Payment Aggregators",
+        "description": "Provide value-added analytics services to onboarded merchants."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "Financial Analytics For Your Business",
+    "headingBold": " - Why Choose Decentro?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Decentro's Analytics Infrastructure?",
+    "subheadings": true,
+    "lineHeight": "640px",
+    "bulletPoints": [
+      {
+        "heading": "Unified Data Pipeline",
+        "text": "Don't build separate integrations for every bank. Access a standardized data layer for all financial inputs."
+      },
+      {
+        "heading": "Market Intelligence Ready",
+        "text": "Designed to support fintech competitor analysis by structuring data for easy comparison and benchmarking."
+      },
+      {
+        "heading": "99.9% Uptime",
+        "text": "Reliable data fetching ensures your dashboards and reports are never empty."
+      },
+      {
+        "heading": "Security First",
+        "text": "Compliant with rigorous data privacy standards to handle sensitive financial information."
+      },
+      {
+        "heading": "Scalable Architecture",
+        "text": "Handle millions of transaction rows without performance degradation."
+      },
+      {
+        "heading": "Granular Insights",
+        "text": "Drill down from high-level summaries to individual transaction details instantly."
+      },
+      {
+        "heading": "Multi-Format Support",
+        "text": "Consume data via REST APIs, webhooks, or generate downloadable reports."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Ready to integrate?",
+        "linkText": "View API Docs",
+        "link": "https://docs.decentro.tech/"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent3": {
+    "text": "<br/><span>Need Custom Reports?</span>",
+    "ctaButtonText": "Talk to an Expert Now!",
+    "ctaButtonLink": "/signup/"
+  },
+  "textAndButtonBannerTransparent4": {
+    "text": "<span>Turn Data into Revenue</span> with Decentro",
+    "ctaButtonText": "Get Started Now",
+    "newTab": false,
+    "ctaButtonLink": "/signup/"
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "Our Analytics engine processes millions of signals to deliver comprehensive reports and fintech competitor analysis insights within milliseconds.",
+    "boldText": [
+      "millions",
+      "insights",
+      "milliseconds"
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "What data can I access via the Analytics API?",
+      "solution": "You can access transaction histories, payment status reports, merchant category volumes, and aggregated market data for benchmarking and fintech competitor analysis."
+    },
+    {
+      "query": "Does the API support external market data?",
+      "solution": "Yes, similar to services like Alpha Vantage, our API structure supports the integration of external financial market data to provide a holistic view of the ecosystem."
+    },
+    {
+      "query": "How fresh is the data?",
+      "solution": "The data is fetched in real-time or near real-time, depending on the underlying banking rails, ensuring your reports reflect the latest financial state."
+    },
+    {
+      "query": "Can this help in competitor analysis?",
+      "solution": "Absolutely. By aggregating industry-standard metrics and normalizing data, you can build dashboards that benchmark your performance (or your merchants' performance) against wider market trends."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "KYC Verification API",
+      "description": "Onboard customers securely with CKYC, Digilocker, and Video KYC.",
+      "pageLink": "/api-hub/kyc-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Bank Account Validation",
+      "description": "Verify bank account details in real-time before initiating payouts.",
+      "pageLink": "/api-hub/bank-account-validation/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ],
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>Reporting Tiers</span>",
+    "subheading": "Choose the Depth of Insight You Need",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Standard <br/>Reporting API",
+        "list": [
+          {
+            "text": "Access to raw transaction logs and status updates"
+          },
+          {
+            "text": "Daily reconciliation files"
+          },
+          {
+            "text": "Basic success/failure rate metrics"
+          }
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Advanced <br/>Analytics API",
+        "list": [
+          {
+            "text": "Includes all Standard features plus:"
+          },
+          {
+            "text": "Fintech competitor analysis & benchmarking"
+          },
+          {
+            "text": "Predictive cash flow modeling"
+          },
+          {
+            "text": "Merchant retention & churn analytics"
+          }
+        ]
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent5": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/"
+  }
+}
