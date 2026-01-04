@@ -1,0 +1,432 @@
+{
+  "seo": {
+    "title": "Payment Collections API | Accept Payments via UPI & Virtual Accounts",
+    "description": "Automate payment collections with Decentro's API. Enable Virtual Accounts, UPI, and QR payments with real-time reconciliation and 99.9% uptime.",
+    "ogTitle": "Payment Collections API | Accept Payments via UPI & Virtual Accounts"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Collections API</span>",
+    "tagline": "Streamline Inward Payments with Intelligent Reconciliation",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Collections.svg",
+    "altText": "Payment Collections API for business",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What is Collections API?",
+      "id": "whatIsCollections"
+    },
+    {
+      "text": "Automated Reconciliation",
+      "id": "reconciliationLogic"
+    },
+    {
+      "text": "Methodology",
+      "id": "methodSection"
+    },
+    {
+      "text": "The Need For Collections APIs",
+      "id": "needFor"
+    },
+    {
+      "text": "Types of Modes",
+      "id": "horizontalComparison"
+    },
+    {
+      "text": "How Can Your Business Leverage Collections APIs",
+      "id": "leveragingCollections"
+    },
+    {
+      "text": "Key Features Of Collections API",
+      "id": "KeyFeatures"
+    },
+    {
+      "text": "Where You Can Use It",
+      "id": "whereToUse"
+    },
+    {
+      "text": "Collections APIs For Your Business - How can Decentro Help?",
+      "id": "howCanDecentroHelp"
+    },
+    {
+      "text": "Frequently Asked Questions?",
+      "id": "commonlyAskedQuestions"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "Collections API?",
+    "text": "Decentro's Collections API allows businesses to accept payments seamlessly through multiple rails including UPI, Virtual Accounts, and QR codes. Unlike traditional payment gateways, our API focuses on automating the reconciliation process and providing instant settlement capabilities.<br/><br/>Designed for lenders, marketplaces, and gig-economy platforms, the module ensures 99.9% uptime by leveraging a multi-bank architecture, mitigating the risks of downtime associated with single banking providers.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Money%20Transfer.svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Automated Reconciliation",
+    "headingBold": " using Virtual Accounts",
+    "text": "Eliminate manual payment tracking with Decentro's dedicated Virtual Account capabilities. Every customer or transaction can be mapped to a unique virtual account number (VAN), ensuring that incoming funds are instantly identified and reconciled.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
+    "subheadings": [
+      {
+        "title": "Streamline your payment flows with robust features: "
+      },
+      {
+        "title": "Multi-Rail Support",
+        "bulletPoints": [
+          "Accept payments via IMPS, NEFT, RTGS, and UPI through a single integration point."
+        ]
+      },
+      {
+        "title": "Instant Settlement",
+        "bulletPoints": [
+          "Bypass traditional T+2 settlement cycles. Funds are settled directly into your nodal or current account in real-time."
+        ]
+      },
+      {
+        "title": "Smart Ledgers",
+        "bulletPoints": [
+          "Maintain accurate sub-ledgers for your users and vendors, enabling automated split payments and commission management."
+        ]
+      }
+    ]
+  },
+  "headingAndItems": {
+    "headingBold": "Methodology",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Account Creation",
+        "description": "Instantly generate dynamic Virtual Accounts or UPI IDs mapped to specific users or transactions via API."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Payment Capture",
+        "description": "The payer transfers funds using any standard banking method (NEFT/RTGS/IMPS/UPI) to the generated credentials."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Auto-Reconciliation",
+        "description": "Decentro's system identifies the source, matches it to the transaction ID, and triggers a real-time webhook for confirmation."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-and-payouts"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "Payment Flow Architecture.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Generate Credential",
+        "description": "Create unique Virtual Accounts or UPI intent links for each transaction or user session."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Receive Funds",
+        "description": "Accept payments via standard banking rails with high success rates and instant settlement."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Reconcile",
+        "description": "Receive instant webhooks with full payer details to update your ledgers automatically."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "The Need For <span class='highlighted-subsection-header'>Collections APIs</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Eliminate<br/>Suspense Accounts",
+        "description": "Stop guessing who paid you. Unique virtual accounts ensure 100% accurate source identification."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Reduce<br/>Operations Cost",
+        "description": "Automate the reconciliation process, saving hundreds of man-hours spent on manual spreadsheet matching."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "Instant<br/>Liquidity",
+        "description": "Access your funds immediately without waiting for payment gateway settlement cycles."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Seamless<br/>UX",
+        "description": "Provide a whitelabelled payment experience using your own brand name on UPI and bank transfers."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent2": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-and-payouts"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Can Your Business Leverage",
+      "bold": "Collections APIs"
+    },
+    "data": [
+      {
+        "headingLight": "Automate Loan Repayments",
+        "headingBold": "",
+        "text": "Enable borrowers to repay loans via unique UPI links or virtual accounts with instant ledger updates.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg",
+        "altText": "Automate Loan Repayments"
+      },
+      {
+        "headingLight": "Power Gig-Economy Payouts",
+        "headingBold": "",
+        "text": "Collect funds from customers and instantly split commissions to partners and vendors.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg",
+        "altText": "Power Gig-Economy Payouts"
+      },
+      {
+        "headingLight": "Simplify B2B Invoicing",
+        "headingBold": "",
+        "text": "Attach a unique virtual account to every invoice for automated reconciliation upon payment receipt.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg",
+        "altText": "Simplify B2B Invoicing"
+      },
+      {
+        "headingLight": "Wealth Management",
+        "headingBold": "",
+        "text": "Manage investor funds securely with segregated virtual accounts compliant with regulations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg",
+        "altText": "Wealth Management"
+      },
+      {
+        "headingLight": "Education & Fees",
+        "headingBold": "",
+        "text": "Collect fees from thousands of students and automatically map them to specific enrollment IDs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg",
+        "altText": "Education & Fees"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent6": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-and-payouts"
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Virtual <br/> Accounts",
+        "paragraph": "Generate infinite virtual accounts on the fly for automated payment reconciliation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "UPI <br/> Integration",
+        "paragraph": "Support for UPI Intent, Dynamic QR codes, and Collect Requests.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Real-Time <br/>Webhooks",
+        "paragraph": "Get notified instantly when funds hit your account, along with payer metadata.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Split <br/>Payments",
+        "paragraph": "Automatically route funds to multiple vendors or commission accounts upon receipt.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Whitelabel <br/>Experience",
+        "paragraph": "Customise the payee name on UPI apps and bank statements for brand trust.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Multi-Bank <br/>Routing",
+        "paragraph": "Intelligent routing ensures transactions succeed even if one banking partner is down.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ],
+    "showOthers": false,
+    "tagline2": "",
+    "block2": []
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can <span class='highlighted-subsection-header'>Use It</span>",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "NBFCs & <br/>Lenders",
+        "description": "Automate repayment collections and reduce operational overheads with virtual accounts."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "Neobanks & <br/>Fintechs",
+        "description": "Build full-stack banking experiences by offering user-specific accounts and payment handles."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "Insurance <br/>Insurtech",
+        "description": "Streamline premium collections and ensure accurate policy mapping."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "B2B <br/>Marketplaces",
+        "description": "Manage complex vendor settlements and commission splits in real-time."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "Wealth <br/>Tech",
+        "description": "Ensure secure fund collection for investments with full regulatory compliance."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "EdTech <br/>Platforms",
+        "description": "Collect fees at scale without manual bank statement reconciliation."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "Collections APIs For Your Business",
+    "headingBold": " - How Can Decentro Help?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Choose Decentro's Payment Stack?",
+    "subheadings": true,
+    "lineHeight": "640px",
+    "bulletPoints": [
+      {
+        "heading": "Multi-Bank Resiliency",
+        "text": "Our backend connects to multiple banking partners. If one bank faces downtime, traffic is automatically rerouted to ensure uninterrupted collections."
+      },
+      {
+        "heading": "Faster Integration",
+        "text": "Go live in days, not months, with our developer-friendly documentation and dedicated support channels."
+      },
+      {
+        "heading": "Cost Efficiency",
+        "text": "Reduce operational costs by automating reconciliation and minimizing manual errors."
+      },
+      {
+        "heading": "Regulatory Compliance",
+        "text": "Built in strict adherence to RBI guidelines, ensuring your payment flows are secure and compliant."
+      },
+      {
+        "heading": "Scalable Infrastructure",
+        "text": "Designed to handle high transaction volumes, making it perfect for growing businesses and enterprises."
+      },
+      {
+        "heading": "Ledger Management",
+        "text": "Integrated sub-ledgers allow for sophisticated fund management and automated payouts."
+      },
+      {
+        "heading": "Whitelabel Ready",
+        "text": "Maintain your brand identity across all customer touchpoints, including UPI IDs and account names."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Access our Product Guide",
+        "linkText": "API Documentation",
+        "link": "https://docs.decentro.tech/docs/collections-and-payouts"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent3": {
+    "text": "<br/><span>Got Questions?</span>",
+    "ctaButtonText": "Talk to an Expert Now!",
+    "ctaButtonLink": "/signup/"
+  },
+  "textAndButtonBannerTransparent4": {
+    "text": "<span>Robust and Efficient APIs</span> to Simplify Payments",
+    "ctaButtonText": "Get Started Now",
+    "newTab": false,
+    "ctaButtonLink": "/signup/"
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "Decentro processes millions of transactions daily with 99.9% uptime, offering instant settlements and zero manual reconciliation efforts.",
+    "boldText": [
+      "millions",
+      "99.9%",
+      "instant",
+      "zero"
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "What is a Virtual Account?",
+      "solution": "A Virtual Account is a temporary or permanent account number mapped to a main physical bank account. It allows for automatic identification of the payer based on the unique account number used for the transfer."
+    },
+    {
+      "query": "How fast is the settlement?",
+      "solution": "Decentro's Collections API supports instant settlement. Funds received via IMPS or UPI are available in your nodal/current account immediately."
+    },
+    {
+      "query": "Can I use my own brand name on UPI?",
+      "solution": "Yes, Decentro allows you to create whitelabelled UPI handles (e.g., yourname@bank) and display your brand name during the transaction."
+    },
+    {
+      "query": "Does the API support QR codes?",
+      "solution": "Yes, you can generate dynamic QR codes for specific amounts or static QR codes for general collections."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "Payouts API",
+      "description": "Automate bulk payouts and salary disbursements instantly.",
+      "pageLink": "/api-hub/payouts-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "KYC & Onboarding API",
+      "description": "Verify customer identity in real-time with CKYC and DigiLocker.",
+      "pageLink": "/api-hub/kyc-onboarding-api",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ],
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>Collection Modes</span>",
+    "subheading": "Choose the Best Fit for Your Use Case",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Virtual Accounts <br/>(VAN)",
+        "list": [
+          "Best for high-value B2B transactions",
+          "Supports NEFT, RTGS, IMPS",
+          "Zero transaction limits (subject to bank)",
+          "100% Reconciliation accuracy"
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Unified Payments Interface <br/>(UPI)",
+        "list": [
+          "Best for retail and high-volume B2C",
+          "Supports QR, Intent, and Collect Request",
+          "Seamless mobile user experience",
+          "Whitelabel VPA support"
+        ]
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent5": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-and-payouts"
+  }
+}
