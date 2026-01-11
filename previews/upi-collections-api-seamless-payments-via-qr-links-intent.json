@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "UPI Collections API | Seamless Payments via QR, Links & Intent",
+    "description": "Integrate Decentro's UPI Collections API to accept payments via dynamic QR, links, and deep-links. Ensure real-time reconciliation and zero MDR benefits.",
+    "ogTitle": "UPI Collections API | Seamless Payments via QR, Links & Intent"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>UPI Collections API</span>",
+    "tagline": "Seamlessly Collect Payments via India's Unified Payments Interface",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "UPI Collections API for business",
+    "DBackground": true
+  },
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "UPI Collections?",
+    "text": "The Decentro UPI Collections API is a comprehensive solution enabling businesses to accept payments via dynamic QR codes, payment links, and deep-links. It ensures streamlined operations with real-time status updates, virtual account integration for reconciliation, and support for recurring payments via UPI Autopay.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "Payment Collection Framework.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Initiate Collection",
+        "description": "Generate dynamic QRs, payment links, or push collect requests to customers."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Customer Authorization",
+        "description": "Customers approve payments via their preferred UPI apps or enter their MPIN."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Settlement & Reconciliation",
+        "description": "Receive real-time webhooks and settle funds instantly to virtual accounts."
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Multiple <br/> Collection Modes",
+        "paragraph": "Support dynamic QRs, generic links, and app-specific deep links.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "UPI <br/> Autopay",
+        "paragraph": "Enable recurring payments for subscriptions and EMIs seamlessly.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Real-Time <br/> Status",
+        "paragraph": "Get instant callbacks and webhooks for transaction updates.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Virtual Accounts <br/> Integration",
+        "paragraph": "Automate reconciliation with a dedicated ledger for collections.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "VPA <br/> Validation",
+        "paragraph": "Validate UPI IDs instantly before initiating collection requests.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Refund <br/> Capabilities",
+        "paragraph": "Process full or partial refunds for successful transactions via API.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Virtual Accounts API",
+      "description": "Automate Reconciliation with Virtual Account Numbers.",
+      "pageLink": "/api-hub/virtual-accounts-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "UPI Payouts API",
+      "description": "Instant Fund Transfers via Unified Payments Interface.",
+      "pageLink": "/api-hub/upi-payouts-api",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
