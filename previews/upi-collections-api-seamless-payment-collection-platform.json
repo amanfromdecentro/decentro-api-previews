@@ -1,0 +1,368 @@
+{
+  "seo": {
+    "title": "UPI Collections API | Seamless Payment Collection Platform",
+    "description": "Enable seamless digital payments with Decentro's UPI Collections API. Support Payment Links, QR Codes, and Collect Requests with instant settlement.",
+    "ogTitle": "UPI Collections API | Seamless Payment Collection Platform"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>UPI Collections API</span>",
+    "tagline": "Empowering Seamless Digital Payments",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "UPI Collections API for business",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What is UPI Collections?",
+      "id": "whatIsUPI"
+    },
+    {
+      "text": "Comprehensive Payment Suite",
+      "id": "paymentSuite"
+    },
+    {
+      "text": "Collection Modes",
+      "id": "collectionModes"
+    },
+    {
+      "text": "The Need For UPI APIs",
+      "id": "needForUPI"
+    },
+    {
+      "text": "Integration Types",
+      "id": "integrationTypes"
+    },
+    {
+      "text": "How Can Your Business Leverage UPI",
+      "id": "leverageUPI"
+    },
+    {
+      "text": "Key Features Of UPI API",
+      "id": "keyFeatures"
+    },
+    {
+      "text": "Where You Can Use It",
+      "id": "useCases"
+    },
+    {
+      "text": "UPI Collections For Your Business - How can Decentro Help?",
+      "id": "howDecentroHelps"
+    },
+    {
+      "text": "Frequently Asked Questions?",
+      "id": "faq"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "UPI Collections?",
+    "text": "Decentro's UPI Collections provides businesses with a comprehensive suite of tools and APIs to facilitate digital payment collection from customers using UPI and integrating with Virtual Accounts.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Comprehensive ",
+    "headingBold": "Payment Suite",
+    "text": "Streamline payment processes with a platform designed for scale, offering multiple flows for initiating and managing payment requests.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
+    "subheadings": [
+      {
+        "title": "Decentro's UPI stack includes critical capabilities:"
+      },
+      {
+        "title": "Multiple Collection Flows",
+        "bulletPoints": [
+          "Supports UPI Payment Links, Dynamic QR Codes, and Collect Requests..."
+        ]
+      },
+      {
+        "title": "Virtual Account Integration",
+        "bulletPoints": [
+          "Collect funds through multiple modes into virtual accounts for consolidated management..."
+        ]
+      },
+      {
+        "title": "Real-time Status",
+        "bulletPoints": [
+          "Provides transaction status callbacks and account balance updates..."
+        ]
+      }
+    ]
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "Our platform ensures high performance and 99.99% uptime, facilitating instant settlements to partner accounts without T+2 waiting periods.",
+    "boldText": [
+      "99.99%",
+      "instant",
+      "settlements"
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-upi-collections"
+  },
+  "headingAndItems": {
+    "headingBold": "Collection Modes",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Payment Links",
+        "description": "Generate generic or deep-links for specific PSP apps to enable one-click payments."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Dynamic QR Codes",
+        "description": "Create dynamic QRs for online and offline transactions compatible with any UPI app."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Collect Requests",
+        "description": "Issue direct UPI collect requests to specific VPAs for seamless authorization."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "The Need For <span class='highlighted-subsection-header'>UPI APIs</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Enhanced<br/>Efficiency",
+        "description": "Cater to various customer preferences with multiple, flexible collection modes..."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Instant<br/> Settlements",
+        "description": "Eliminate waiting periods with real-time settlement of funds..."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "Reduced<br/>Costs",
+        "description": "Save on transaction fees charged by traditional gateways..."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Superior<br/>Experience",
+        "description": "Offer smooth payment journeys with deep-links and app redirection..."
+      }
+    ]
+  },
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>Integration Types</span>",
+    "subheading": "Explore the Collection Variants Available",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Standard <br/>Collections",
+        "list": [
+          {
+            "text": "Essential tools for digital payments..."
+          },
+          {
+            "text": "UPI Payment Links"
+          },
+          {
+            "text": "Static & Dynamic QR Codes"
+          },
+          {
+            "text": "Basic Transaction Callbacks"
+          }
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Advanced <br/>Integration",
+        "list": [
+          {
+            "text": "Deep integration for complex workflows"
+          },
+          {
+            "text": "VPA Validation API"
+          },
+          {
+            "text": "UPI Autopay & Mandates"
+          }
+        ]
+      }
+    ]
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Can Your Business Leverage",
+      "bold": "UPI Collections"
+    },
+    "data": [
+      {
+        "headingLight": "Lending & Finance",
+        "text": "Collect one-time repayments or deposits efficiently...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg"
+      },
+      {
+        "headingLight": "E-commerce & Retail",
+        "text": "Facilitate online shopping and last-mile scan-and-pay...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg"
+      },
+      {
+        "headingLight": "In-app Payments",
+        "text": "Get paid by users for in-app purchases instantly...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg"
+      },
+      {
+        "headingLight": "Subscription Services",
+        "text": "Set up autopay for recurring subscriptions...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg"
+      },
+      {
+        "headingLight": "Insurance",
+        "text": "Collect monthly or yearly premiums easily...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "VPA Validation",
+        "paragraph": "Verify UPI IDs...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Refunds",
+        "paragraph": "Full capabilities...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Real-Time",
+        "paragraph": "Status callbacks...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Autopay",
+        "paragraph": "Recurring payments...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "SDK Support",
+        "paragraph": "Intent flow...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Compliance",
+        "paragraph": "RBI Licensed...",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can Use It",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "Banks",
+        "description": "Streamline collections for credit card bills..."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "Fintech",
+        "description": "Enable loan repayments and wallet loads..."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "Insurance",
+        "description": "Automate premium collection from policyholders..."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "E-commerce",
+        "description": "Provide seamless checkout experiences..."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "Wealth",
+        "description": "Facilitate investments for clearing houses..."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "Logistics",
+        "description": "Enable last-mile COD via QR codes..."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "UPI Collections For Your Business",
+    "headingBold": " - How Can Decentro Help?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Use Decentro's UPI Collections?",
+    "subheadings": false,
+    "lineHeight": "440px",
+    "bulletPoints": [
+      {
+        "text": "RBI Licensed Payment Aggregator"
+      },
+      {
+        "text": "Scalable, high-performance infrastructure"
+      },
+      {
+        "text": "Real-time status and balance callbacks"
+      },
+      {
+        "text": "Developer-friendly APIs & SDKs"
+      },
+      {
+        "text": "Support for generic and deep-links"
+      },
+      {
+        "text": "Seamless Virtual Account integration"
+      },
+      {
+        "text": "Plug-and-play API (Sandbox + Prod)"
+      },
+      {
+        "text": "24x7x365 human-centric support"
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Access our Product Guide",
+        "linkText": "API Documentation",
+        "link": "https://docs.decentro.tech/docs/collections-upi-collections"
+      }
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "Can I validate a UPI ID before collection?",
+      "solution": "Yes, Decentro provides a Validate VPA API to verify the authenticity of a UPI ID before initiating any collection requests."
+    },
+    {
+      "query": "Does the platform support recurring payments?",
+      "solution": "Absolutely. Decentro supports UPI Autopay/Mandates for setting up recurring payments for subscriptions, loans, and other services."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "Virtual Accounts",
+      "description": "Automate reconciliation...",
+      "pageLink": "/api-hub/virtual-accounts-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Recurring Payments",
+      "description": "Enable subscription flows...",
+      "pageLink": "/api-hub/recurring-payments-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
