@@ -1,0 +1,432 @@
+{
+  "seo": {
+    "title": "UPI Collections API | Accept Payments via Link, QR & VPA",
+    "description": "Streamline payment collections with Decentro's UPI Collections API. Accept payments via Payment Links, Dynamic QR, and Intent Flows with instant settlement and zero MDR.",
+    "ogTitle": "UPI Collections API | Accept Payments via Link, QR & VPA"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>UPI Collections API</span>",
+    "tagline": "Simplify Business Payments with a Comprehensive UPI Stack",
+    "buttonText": "Start Collecting",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg",
+    "altText": "UPI Collections API for business",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What is UPI Collections?",
+      "id": "whatIsUpiCollections"
+    },
+    {
+      "text": "Collection Methods",
+      "id": "collectionMethods"
+    },
+    {
+      "text": "How It Works",
+      "id": "howItWorks"
+    },
+    {
+      "text": "Why Choose UPI Collections?",
+      "id": "benefits"
+    },
+    {
+      "text": "API Variants",
+      "id": "apiVariants"
+    },
+    {
+      "text": "Business Leverage",
+      "id": "businessLeverage"
+    },
+    {
+      "text": "Key Features",
+      "id": "keyFeatures"
+    },
+    {
+      "text": "Use Cases",
+      "id": "useCases"
+    },
+    {
+      "text": "How Can Decentro Help?",
+      "id": "decentroAdvantage"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "id": "faq"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "UPI Collections?",
+    "text": "Decentro's UPI Collections API is a robust financial stack designed to facilitate Unified Payments Interface (UPI) based money collection for platforms and businesses. It offers a seamless way to accept payments from customers using various methods such as UPI Deep-links, QR codes, and direct collect requests.<br/><br/>Built for high scalability and complex workflows, the v3 collections stack supports multiple backend banking partners, ensuring high success rates and instant settlements for businesses ranging from lenders to e-commerce platforms.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Comprehensive",
+    "headingBold": " Collection Methods",
+    "text": "Our API suite provides versatile tools to suit different business flows, whether online, offline, or recurring. Platforms can generate intent flows, static or dynamic QRs, and handle refunds programmatically.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
+    "subheadings": [
+      {
+        "title": "Three core collection mechanisms:"
+      },
+      {
+        "title": "Payment Links & Intent Flows",
+        "bulletPoints": [
+          "Generate generic or UPI deep-links that redirect users directly to apps like GPay, PhonePe, or Paytm without requiring the payer's VPA."
+        ]
+      },
+      {
+        "title": "Dynamic QR Codes",
+        "bulletPoints": [
+          "Create unique, one-time-use Dynamic QR codes for specific transactions, ideal for offline retail or web-based checkout flows to eliminate reconciliation issues."
+        ]
+      },
+      {
+        "title": "Collect Requests",
+        "bulletPoints": [
+          "Initiate a direct collect request to a user's Virtual Payment Address (VPA), prompting an immediate authorization notification on their UPI app."
+        ]
+      }
+    ]
+  },
+  "headingAndItems": {
+    "headingBold": "Methodology",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Initiate Request",
+        "description": "The platform calls the API to generate a Payment Link, Dynamic QR, or Collect Request based on the customer's preferred checkout method."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Customer Authorization",
+        "description": "The customer completes the payment via their preferred UPI app (GPay, Paytm, PhonePe) by authorizing the transaction request."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Settlement & Callback",
+        "description": "Decentro triggers a real-time webhook confirming the transaction status (SUCCESS/FAILURE) and settles the funds instantly to the virtual account."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View API Documentation",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-upi-collections"
+  },
+  "methodData": {
+    "heading": "Process Flow",
+    "subHeading": "End-to-End Collection Lifecycle.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Validation (Optional)",
+        "description": "Verify the customer's VPA/UPI Handle before initiating a request to ensure higher success rates and reduce drop-offs."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Transaction Creation",
+        "description": "Generate a dynamic payment link or QR code. The system supports multiple attempts and holds functionality for expired requests."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Reconciliation",
+        "description": "Receive instant callbacks for terminal statuses and utilize the Get Transaction Status API for manual reconciliation if needed."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "The Need For <span class='highlighted-subsection-header'>UPI Collections</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Reduced<br/>Costs",
+        "description": "Leverage UPI's zero Merchant Discount Rate (MDR) structure to significantly lower transaction fees compared to cards or net banking."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Instant<br/>Settlement",
+        "description": "Enjoy real-time fund settlements directly into your virtual accounts, improving cash flow and reducing settlement delays."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "High Success<br/>Rates",
+        "description": "Features like VPA validation, deep-linking, and multiple attempt flows ensure minimal drop-offs and maximum conversion."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Scalable<br/>Architecture",
+        "description": "Built on a robust v3 stack capable of handling high transaction volumes with multiple backend banking partners."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent2": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-upi-collections"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Can Your Business Leverage",
+      "bold": "UPI Collection APIs"
+    },
+    "data": [
+      {
+        "headingLight": "Seamless Money Collection",
+        "headingBold": "",
+        "text": "Enable platforms to easily collect money using QR codes, payment links, and collect requests.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg",
+        "altText": "Seamless Money Collection"
+      },
+      {
+        "headingLight": "Complex Workflows",
+        "headingBold": "",
+        "text": "Support advanced use cases like Split Payments to multiple vendors and Recurring Payments via UPI Autopay.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg",
+        "altText": "Complex Workflows"
+      },
+      {
+        "headingLight": "End-to-End Compliance",
+        "headingBold": "",
+        "text": "Operate with confidence knowing the stack is backed by an RBI-certified Payment Aggregator framework.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg",
+        "altText": "End-to-End Compliance"
+      },
+      {
+        "headingLight": "Operational Efficiency",
+        "headingBold": "",
+        "text": "Utilize a comprehensive dashboard to track usage, view transaction history, and manage refunds without coding.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg",
+        "altText": "Operational Efficiency"
+      },
+      {
+        "headingLight": "Universal Reach",
+        "headingBold": "",
+        "text": "Accept payments from any UPI-enabled app (GPay, PhonePe, Paytm, BHIM) ensuring maximum customer coverage.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg",
+        "altText": "Universal Reach"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent6": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-upi-collections"
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Dynamic <br/> QR Codes",
+        "paragraph": "Generate unique QRs for every transaction to automate reconciliation and prevent payment errors.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "VPA <br/> Validation",
+        "paragraph": "Validate UPI IDs before initiating transactions to ensure the payer exists and is active.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Instant <br/>Refunds",
+        "paragraph": "Process refunds for Payment Links, QRs, or Collect Requests programmatically via API.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Smart <br/>Deep-Links",
+        "paragraph": "Trigger specific UPI apps directly on mobile devices to reduce friction and improve UX.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Status <br/>Webhooks",
+        "paragraph": "Receive up to three terminal status callbacks (Success/Failure/Expired) for robust tracking.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Hold <br/>Functionality",
+        "paragraph": "Manually capture or refund payments received after request expiry or duplicate attempts.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ],
+    "showOthers": false,
+    "tagline2": "",
+    "block2": []
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can <span class='highlighted-subsection-header'>Use It</span>",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "Lending <br/>Repayments",
+        "description": "Automate loan EMI collections using recurring mandates or simple payment links sent via SMS/WhatsApp."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "E-commerce <br/>Checkout",
+        "description": "Provide a seamless checkout experience with intent flows and deep-linking to major UPI apps."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "Wealth <br/>Management",
+        "description": "Facilitate instant investment deposits and mutual fund SIPs with verified UPI handles."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "EdTech <br/>Fees",
+        "description": "Streamline fee collection for courses and subscriptions with automated reconciliation."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "Gaming <br/>Deposits",
+        "description": "Enable real-time wallet top-ups for users with high-speed transaction processing."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "Retail <br/>Payments",
+        "description": "Deploy Dynamic QR codes at POS terminals for quick, error-free offline payments."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "UPI Collections For Your Business",
+    "headingBold": " - How Can Decentro Help?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Decentro's UPI Stack?",
+    "subheadings": true,
+    "lineHeight": "640px",
+    "bulletPoints": [
+      {
+        "heading": "Virtual Account Architecture",
+        "text": "Decentro uses a virtual account stack as a ledger to maintain collections across different modes, ensuring organized accounting."
+      },
+      {
+        "heading": "Multi-Bank Redundancy",
+        "text": "Our v3 stack supports multiple backend partners, ensuring business continuity even during banking downtimes."
+      },
+      {
+        "heading": "Developer Friendly",
+        "text": "Separate endpoints for Staging and Production, comprehensive testing data, and clear response keys."
+      },
+      {
+        "heading": "Real-Time Tracking",
+        "text": "Get transaction status updates via webhooks and check account balances instantly after every credit or debit."
+      },
+      {
+        "heading": "Zero MDR Benefits",
+        "text": "Capitalize on UPI's cost-effective structure to save significantly on transaction processing fees."
+      },
+      {
+        "heading": "Advanced Configurations",
+        "text": "Support for split payments to multiple vendors and UPI Autopay for subscription models."
+      },
+      {
+        "heading": "Reliable Support",
+        "text": "Dedicated technical support and a dashboard to monitor API hit history and transaction details."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Access our Product Guide",
+        "linkText": "API Documentation",
+        "link": "https://docs.decentro.tech/docs/collections-upi-collections"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent3": {
+    "text": "<br/><span>Ready to Integrate?</span>",
+    "ctaButtonText": "Talk to an Expert Now!",
+    "ctaButtonLink": "/signup/"
+  },
+  "textAndButtonBannerTransparent4": {
+    "text": "<span>Robust and Scalable APIs</span> for Payments",
+    "ctaButtonText": "Get Started Now",
+    "newTab": false,
+    "ctaButtonLink": "/signup/"
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "Decentro's Collections Stack ensures 99.9% uptime, handling complex workflows with features like Hold Functionality, Refunds, and Instant Settlements.",
+    "boldText": [
+      "99.9% uptime",
+      "Hold Functionality",
+      "Refunds",
+      "Instant Settlements"
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "What is the difference between Static and Dynamic QR codes?",
+      "solution": "Static QR codes are permanent and used for general payments, while Dynamic QR codes are generated for specific transactions with a fixed amount. Dynamic QRs prevent reconciliation issues as they are unique to each order."
+    },
+    {
+      "query": "Does Decentro support Split Payments via UPI?",
+      "solution": "Yes, Decentro's UPI Collections API supports split payments, allowing you to settle funds to multiple vendors or sellers simultaneously in a single transaction flow."
+    },
+    {
+      "query": "How does the 'Hold' functionality work?",
+      "solution": "For successful payments received after a request has expired or for duplicate attempts, merchants can configure a 'Hold'. This allows you to manually decide whether to capture the funds or refund them to the payer."
+    },
+    {
+      "query": "Do you provide webhooks for transaction updates?",
+      "solution": "Yes, Decentro provides real-time webhooks/callbacks for transaction statuses (SUCCESS, FAILURE, EXPIRED) and account balance updates. We trigger status callbacks up to three times to ensure delivery."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "Virtual Accounts API",
+      "description": "Create and manage virtual accounts for streamlined reconciliation.",
+      "pageLink": "/api-hub/virtual-accounts-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Penny Drop Verification",
+      "description": "Verify bank account details instantly before payouts.",
+      "pageLink": "/api-hub/penny-drop-verification-api",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ],
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>Integration Options</span>",
+    "subheading": "Choose the Flow that Fits Your Business",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Standard <br/>Collections",
+        "list": [
+          "Ideal for standard checkout flows",
+          "Payment Link Generation",
+          "Dynamic QR Codes",
+          "Basic Collect Requests"
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Advanced <br/>Collections",
+        "list": [
+          "For complex business logic",
+          "VPA/UPI Handle Validation",
+          "Split Payments & Routing",
+          "Recurring Autopay Mandates"
+        ]
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent5": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-upi-collections"
+  }
+}
