@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching API | Accurate Identity Verification",
+    "description": "Automate identity verification with Decentro's Phonetic Name Matching API. Resolve spelling variations, honorifics, and transliteration issues for KYC/AML compliance.",
+    "ogTitle": "Phonetic Name Matching API | Accurate Identity Verification"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching API</span>",
+    "tagline": "Overcome Spelling and Cultural Variations with Intelligent Matching",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Phonetic Name Matching API for business",
+    "DBackground": true
+  },
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "Phonetic Matching?",
+    "text": "Decentro's Farsight Phonetic Name Matching API utilizes advanced algorithms to understand sound-alike variations in names. It accurately verifies identities by overcoming spelling discrepancies, transliteration issues, and cultural nuances like Indian honorifics.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "Intelligent Text Analysis Framework.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Input Normalization",
+        "description": "Automatically remove titles, honorifics (e.g., 'Shri', 'Ji'), and special characters to isolate the core name."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Phonetic Analysis",
+        "description": "Apply advanced algorithms to detect sound-alike patterns and handle transliteration variations effectively."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Scoring & Match",
+        "description": "Generate a precise similarity score based on configurable thresholds to determine a confident match."
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Cultural <br/> Cognizance",
+        "paragraph": "Accurately differentiate between salutations and honorifics to handle Indian naming conventions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Configurable <br/> Precision",
+        "paragraph": "Adjust similarity thresholds to define strictness levels based on specific compliance use cases.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Real-Time <br/>Processing",
+        "paragraph": "Get instant text verification results to facilitate seamless customer onboarding experiences.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Format <br/> Flexibility",
+        "paragraph": "Handle inconsistent data entries and distinct text formats across various documents and inputs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Fraud <br/> Prevention",
+        "paragraph": "Identify suspicious patterns and inconsistencies to mitigate identity fraud and impersonation risks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Secure & <br/> Compliant",
+        "paragraph": "Ensure encrypted data handling and strict adherence to KYC and AML regulatory standards.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC Verification API",
+      "description": "Verify customer identities instantly against official government databases.",
+      "pageLink": "/api-hub/kyc-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Mule Detection API",
+      "description": "Identify Suspicious Accounts & Prevent Financial Fraud.",
+      "pageLink": "/api-hub/mule-detection-api",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
