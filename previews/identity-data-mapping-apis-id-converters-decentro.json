@@ -1,0 +1,114 @@
+{
+  "seo": {
+    "title": "Identity Data Mapping APIs | ID Converters | Decentro",
+    "description": "Streamline identity verification with Decentro's ID Converters. Map PAN to GSTIN, RC to Chassis, and more in real-time to enhance compliance and prevent fraud.",
+    "ogTitle": "Seamless Identity Mapping APIs for Tax, Logistics & Onboarding | Decentro"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Identity Data Mapping & ID Converters</span>",
+    "tagline": "Seamlessly map PAN to GSTIN, RC to Chassis, and more with a single API integration for enhanced compliance.",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg",
+    "altText": "Identity Data Mapping APIs",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Identity Formats Mapped",
+        "numberElement": "10+"
+      },
+      {
+        "textBold": " < 200ms",
+        "textLight": "Response Time"
+      },
+      {
+        "textBold": "99.9%",
+        "textLight": "Uptime"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "Precision and Speed in Identity Mapping",
+    "items": [
+      {
+        "title": "Precise Conversions",
+        "description": "Accurate PAN to GSTIN and RC to Chassis mapping using verified data sources for reliable verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Seamless Integration",
+        "description": "Easily integrate via robust APIs to automate tax compliance, merchant onboarding, and logistics.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Fraud Prevention",
+        "description": "Validate entity and vehicle details in real-time to mitigate risks and ensure regulatory adherence.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to streamline <span className='header-section-highlighted'>verification workflows?</span>",
+    "ctaDescription": "Automate your identity data mapping today. It's fast, secure, and simple.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Merchant & Vendor Compliance",
+        "headingBold": "",
+        "text": "Verify vendor GST details and merchant UDYAM registrations instantly using PAN-based mapping APIs to ensure tax compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Merchant Compliance"
+      },
+      {
+        "headingLight": "Insurance & Logistics",
+        "headingBold": "",
+        "text": "Validate vehicle details by converting RC to Chassis numbers for accurate insurance issuance and asset recovery investigations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Insurance and Logistics"
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "Talk to an Expert Now!",
+    "ctaButtonLink": "/signup/"
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Real-time <br/> Processing",
+        "paragraph": "Instant Data Retrieval.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Accelerated <br/>Operations",
+        "paragraph": "Faster Go-to-Market.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Instant Payouts",
+      "description": "Send money to any bank account or UPI ID automatically via APIs or file upload.",
+      "pageLink": "/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    }
+  ]
+}
