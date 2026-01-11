@@ -1,0 +1,369 @@
+{
+  "seo": {
+    "title": "Virtual Accounts API | Automate Reconciliation & Collections",
+    "description": "Streamline e-commerce collections with Virtual Accounts. Automate reconciliation, manage multi-currency flows, and segregate funds with Decentro's API.",
+    "ogTitle": "Virtual Accounts API | Automate Reconciliation & Collections"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Virtual Accounts API</span>",
+    "tagline": "Automate Collections with Intelligent Ledger Infrastructure",
+    "buttonText": "Start Integration",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Virtual Accounts API for E-commerce",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What are Virtual Accounts?",
+      "id": "whatAreVAs"
+    },
+    {
+      "text": "Architecture & Methodology",
+      "id": "methodologyArch"
+    },
+    {
+      "text": "Global Competitor Landscape",
+      "id": "competitorLandscape"
+    },
+    {
+      "text": "The Need for Virtual Accounts",
+      "id": "needForVAs"
+    },
+    {
+      "text": "Basic vs Advanced Tiers",
+      "id": "featureTiers"
+    },
+    {
+      "text": "Leveraging VAs in E-commerce",
+      "id": "leverageVAs"
+    },
+    {
+      "text": "Key Technical Features",
+      "id": "techFeatures"
+    },
+    {
+      "text": "Industry Use Cases",
+      "id": "industryCases"
+    },
+    {
+      "text": "Implementation Strategy",
+      "id": "implementationStrat"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "id": "faqs"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What are ",
+    "headingBold": "Virtual Accounts?",
+    "text": "Virtual accounts (VAs) have evolved from simple dummy numbers into sophisticated ledger systems that allow e-commerce businesses to automate reconciliation, manage multi-currency flows, and segregate funds without the overhead of opening hundreds of physical bank accounts. They act as shadow accounts linked to a master physical account, enabling precise tracking of incoming payments per customer or invoice.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Global Methodology",
+    "headingBold": " & Architecture",
+    "text": "Leading infrastructure providers utilize distinct architectural approaches to solve reconciliation challenges. From Stripe's unified ledger to Adyen's balance platforms, the core goal is transforming asynchronous bank transfers into identifiable, event-driven webhooks for seamless order fulfillment and automated ledger updates.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
+    "subheadings": [
+      {
+        "title": "Stripe Treasury Logic",
+        "bulletPoints": [
+          "Generates unique VBANs per customer/invoice. Matches incoming credits via API objects for automated overpayment handling and global issuing capabilities."
+        ]
+      },
+      {
+        "title": "Adyen Balance Platform",
+        "bulletPoints": [
+          "Utilizes a 'Balance Account' structure where a single entity holds thousands of sub-ledgers, enabling complex split payments for marketplaces and unified commerce."
+        ]
+      },
+      {
+        "title": "Razorpay Smart Collect",
+        "bulletPoints": [
+          "Focuses on 'Customer Identifiers' and Third-Party Validation (TPV), ensuring payments only originate from whitelisted accounts for regulated sectors."
+        ]
+      }
+    ]
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "Virtual Accounts reduce manual reconciliation time by 90%, costing significantly less than card rails while maintaining a 99.9% success rate for high-ticket transactions.",
+    "boldText": [
+      "90%",
+      "card rails",
+      "99.9%",
+      "high-ticket"
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View API Docs",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/virtual-accounts"
+  },
+  "headingAndItems": {
+    "headingBold": "Core Capabilities",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Dynamic Generation",
+        "description": "Issue unique virtual account numbers for every invoice or transaction, enabling 1:1 matching logic that eliminates manual accounting."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Real-time Webhooks",
+        "description": "Transform asynchronous bank transfers into instant notifications (e.g., virtual_account.credited) to update order status immediately."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Automated Reconciliation",
+        "description": "Reduce 'unidentified payments' and suspense accounts by over 30% through programmable logic that validates sender data instantly."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "The Value of <span class='highlighted-subsection-header'>Virtual Accounts</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Reconciliation<br/>Efficiency",
+        "description": "Achieve a 50% to 90% reduction in manual accounting hours by automating the matching of incoming credits to specific customer ledgers."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Cost<br/>Optimization",
+        "description": "Significant savings on high-ticket items (>$500) with flat fees ($0.50-$1.00) compared to percentage-based card network fees."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "High<br/>Success Rates",
+        "description": "Bank transfers to VAs boast a ~99.9% success rate, bypassing common insufficient funds or fraud block issues associated with cards."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Improved<br/>Cash Flow",
+        "description": "Real-time notifications reduce Days Sales Outstanding (DSO) by 1-2 days, allowing for immediate order fulfillment upon transfer."
+      }
+    ]
+  },
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>Feature Tiers</span>",
+    "subheading": "Comparing SME vs. Enterprise Configurations",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Basic Tier <br/>(Starter/SME)",
+        "list": [
+          {
+            "text": "Static Account Type (One VA per customer)"
+          },
+          {
+            "text": "Manual or CSV-based Reconciliation"
+          },
+          {
+            "text": "Single Local Currency Support"
+          },
+          {
+            "text": "Standard KYC Compliance"
+          }
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Advanced Tier <br/>(Enterprise/Platform)",
+        "list": [
+          {
+            "text": "Dynamic Account Type (One VA per transaction)"
+          },
+          {
+            "text": "100% Automated Real-time Webhooks"
+          },
+          {
+            "text": "Multi-currency (Receive USD, Settle EUR)"
+          },
+          {
+            "text": "TPV (Third-Party Validation) & KYCC"
+          }
+        ]
+      }
+    ]
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Your Business Can Leverage",
+      "bold": "Virtual Accounts"
+    },
+    "data": [
+      {
+        "headingLight": "Automate Refunds",
+        "text": "Trigger automated email flows to securely collect customer IBAN details when refunds are required for bank transfer payments.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg"
+      },
+      {
+        "headingLight": "Handle Overpayments",
+        "text": "Program validation rules to automatically reject incorrect amounts or move excess funds to a 'Customer Credit' ledger balance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg"
+      },
+      {
+        "headingLight": "Sandbox Simulation",
+        "text": "Utilize simulation endpoints to trigger mock credits to test VAs, verifying webhook logic without moving actual money.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg"
+      },
+      {
+        "headingLight": "Split Payments",
+        "text": "Implement complex marketplace logic to split single transactions into multiple accounts for sellers, platform fees, and taxes.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg"
+      },
+      {
+        "headingLight": "Global Rails",
+        "text": "Seamlessly issue local VBANs in 20+ countries, allowing international customers to pay via local rails while you settle globally.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Unified Ledger",
+        "paragraph": "Deep integration with customer balance logic allows for automated credit management and consolidated reporting.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "TPV Compliance",
+        "paragraph": "Third-Party Validation ensures payments only come from whitelisted accounts, critical for Gaming and Wealth sectors.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Global Rails",
+        "paragraph": "Issue local accounts in foreign jurisdictions (e.g., UK business issuing US accounts) to localize the payer experience.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Instant Webhooks",
+        "paragraph": "Replace polling with robust webhook listeners to handle the asynchronous nature of bank pushes in real-time.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Split Logic",
+        "paragraph": "Marketplace-ready architecture to divide funds instantly between vendors and platform commissions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Refund Flows",
+        "paragraph": "API-driven workflows to handle the complexity of refunding push payments where payer bank details are initially unknown.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can Use It",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "B2B SaaS",
+        "description": "Assign static VAs to enterprise clients for seamless recurring subscription collections via bank transfer."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "Marketplaces",
+        "description": "Use dynamic VAs to reconcile payments from thousands of buyers and split settlements to sellers automatically."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "Wealth Tech",
+        "description": "Implement TPV (Third Party Validation) to ensure investment funds originate only from the user's own bank account."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "High-Value Retail",
+        "description": "Reduce transaction fees on high-ticket e-commerce orders by shifting users from cards to flat-fee bank transfers."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "Gig Economy",
+        "description": "Provide workers with dedicated virtual accounts for instant wallet top-ups and salary disbursements."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "Cross-Border",
+        "description": "Allow international clients to pay in their local currency via local VAs, reducing FX friction and conversion costs."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "Technical FAQs",
+    "headingBold": " & Developer Implementation",
+    "tagline": "",
+    "bulletPointsHeader": "Implementation Considerations",
+    "subheadings": false,
+    "lineHeight": "440px",
+    "bulletPoints": [
+      {
+        "text": "Handle asynchronous 'Push' payments via robust webhook listeners."
+      },
+      {
+        "text": "Automate refunds via secure email flows to collect beneficiary details."
+      },
+      {
+        "text": "Support for both dedicated (static) and transactional (dynamic) VAs."
+      },
+      {
+        "text": "Programmatic validation rules for handling over and underpayments."
+      },
+      {
+        "text": "Simulation endpoints available for testing logic without real money."
+      },
+      {
+        "text": "Reduction of unidentified payments (suspense accounts) by >30%."
+      },
+      {
+        "text": "Flat fee cost structure ensures efficiency for high-ticket items."
+      },
+      {
+        "text": "Instant notifications reduce Days Sales Outstanding (DSO) by 1-2 days."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Access Developer Guide",
+        "linkText": "Read Documentation",
+        "link": "https://docs.decentro.tech/docs"
+      }
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "How do I handle the asynchronous nature of bank transfers?",
+      "solution": "Unlike cards, VAs rely on 'Push' payments. Developers must implement robust Webhook listeners (e.g., payment_intent.succeeded) to update order status only after funds are confirmed."
+    },
+    {
+      "query": "Can I use the same Virtual Account for multiple transactions?",
+      "solution": "It depends on the type. Dedicated VAs are mapped to a customer for life (ideal for wallets), while Transactional VAs expire after one use, ensuring 1:1 reconciliation for e-commerce."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "UPI Payment Gateway",
+      "description": "Enable seamless UPI payments for your business with deep integration and high success rates.",
+      "pageLink": "/api-hub/upi-payment-gateway/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Penny Drop Verification",
+      "description": "Verify bank account validity instantly before initiating payouts or setting up virtual accounts.",
+      "pageLink": "/api-hub/penny-drop-verification",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
