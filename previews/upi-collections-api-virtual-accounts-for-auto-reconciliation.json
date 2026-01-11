@@ -1,0 +1,372 @@
+{
+  "seo": {
+    "title": "UPI Collections API | Virtual Accounts for Auto-Reconciliation",
+    "description": "Streamline payments with Decentro's UPI Collections API. Generate dynamic QRs, payment links, and enable intent flows with integrated virtual accounts for real-time reconciliation.",
+    "ogTitle": "UPI Collections API | Virtual Accounts for Auto-Reconciliation"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>UPI Collections API</span>",
+    "tagline": "Automate Payment Collection and Reconciliation at Scale",
+    "buttonText": "Start Collecting",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "UPI Collections API for business",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What is UPI Collections?",
+      "id": "whatIsUPICollections"
+    },
+    {
+      "text": "Collection Methods & Virtual Accounts",
+      "id": "collectionMethods"
+    },
+    {
+      "text": "How It Works",
+      "id": "howItWorks"
+    },
+    {
+      "text": "The Need For UPI APIs",
+      "id": "needForUPI"
+    },
+    {
+      "text": "Types of Collection Flows",
+      "id": "collectionFlows"
+    },
+    {
+      "text": "How Can Your Business Leverage UPI",
+      "id": "leverageUPI"
+    },
+    {
+      "text": "Key Features Of Collections API",
+      "id": "keyFeatures"
+    },
+    {
+      "text": "Where You Can Use It",
+      "id": "whereToUse"
+    },
+    {
+      "text": "UPI Collections For Your Business - How can Decentro Help?",
+      "id": "howCanDecentroHelp"
+    },
+    {
+      "text": "Frequently Asked Questions?",
+      "id": "commonlyAskedQuestions"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "UPI Collections?",
+    "text": "Decentro’s UPI Collections Stack enables businesses to accept payments via the Unified Payments Interface rails with full automation. By integrating Virtual Accounts, every transaction—whether via link, QR code, or collect request—is automatically tracked and reconciled in real-time, eliminating manual ledger matching and operational overhead.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Comprehensive Collection",
+    "headingBold": " Methods & Infrastructure",
+    "text": "We provide a robust, multi-bank architecture that supports diverse payment flows suited for both online and offline models. From dynamic QR codes for retail to deep-links for app-based checkout, our infrastructure ensures high success rates and instant settlement confirmation through dedicated virtual accounts.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
+    "subheadings": [
+      {
+        "title": "Decentro empowers 3 distinct collection strategies: "
+      },
+      {
+        "title": "Intent Flow & Deep Links",
+        "bulletPoints": [
+          "Seamlessly triggers installed UPI apps (GPay, PhonePe) on the user's device for a friction-free payment experience."
+        ]
+      },
+      {
+        "title": "Dynamic QR Codes",
+        "bulletPoints": [
+          "Generates machine-scannable, one-time use codes for immediate offline POS or web-based checkout transactions."
+        ]
+      },
+      {
+        "title": "Collect Request & TPV",
+        "bulletPoints": [
+          "Initiates server-to-server payment requests and validates the source bank account for regulated sector compliance."
+        ]
+      }
+    ]
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "Our stack handles millions of API calls daily, delivering 99.9% uptime and real-time settlement notifications to keep your cash flow moving instantly.",
+    "boldText": [
+      "millions",
+      "99.9%",
+      "real-time",
+      "instantly"
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View API Reference",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/collections-new-upi-collections"
+  },
+  "headingAndItems": {
+    "headingBold": "How It Works",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Generate Request",
+        "description": "Create a dynamic UPI link, QR code, or intent flow via API, automatically associating it with a unique Virtual Account."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Capture Payment",
+        "description": "The user completes the transaction via their preferred UPI app. Our multi-bank switch ensures routing through the most stable provider."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Auto-Reconcile",
+        "description": "Funds settle instantly. The Virtual Account triggers a real-time callback to your system, updating the ledger without manual intervention."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "The Need For <span class='highlighted-subsection-header'>UPI APIs</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Operational<br/>Efficiency",
+        "description": "Eliminate the manual effort of matching bank statements with orders by using Virtual Accounts as a real-time automated ledger."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Cost<br/>Reduction",
+        "description": "Leverage UPI’s zero or low Merchant Discount Rate (MDR) structure to save significantly on transaction fees compared to cards."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "Instant<br/>Settlements",
+        "description": "Bypass the traditional T+2 settlement cycle. Receive funds immediately to improve working capital and business cash flow."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Regulated<br/>Compliance",
+        "description": "Ensure funds originate only from verified bank accounts using Third-Party Validation (TPV), essential for wealth management."
+      }
+    ]
+  },
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>Collection Flows</span>",
+    "subheading": "Choose the Integration Depth You Need",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Standard UPI <br/>Collections",
+        "list": [
+          {
+            "text": "Ideal for general e-commerce and bill payments via standard interfaces"
+          },
+          {
+            "text": "Generic Payment Links"
+          },
+          {
+            "text": "Static QR Codes"
+          },
+          {
+            "text": "Basic Virtual Accounts"
+          }
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Smart UPI <br/>Collections",
+        "list": [
+          {
+            "text": "Designed for high-growth fintechs requiring specific user experience"
+          },
+          {
+            "text": "UPI Intent (Deep-Links)"
+          },
+          {
+            "text": "Dynamic QR Codes"
+          },
+          {
+            "text": "Third-Party Validation (TPV)"
+          }
+        ]
+      }
+    ]
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Can Your Business Leverage",
+      "bold": "UPI Collections"
+    },
+    "data": [
+      {
+        "headingLight": "Reduce Payment Failures",
+        "text": "Utilize our multi-bank routing architecture to automatically switch providers during downtime, ensuring high transaction success rates.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg"
+      },
+      {
+        "headingLight": "Accelerate Checkout",
+        "text": "Implement UPI Intent flows to reduce cart abandonment by opening the user's preferred payment app automatically.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg"
+      },
+      {
+        "headingLight": "Verify Fund Source",
+        "text": "Use Third-Party Validation (TPV) to accept funds only from pre-registered bank accounts, ensuring regulatory compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg"
+      },
+      {
+        "headingLight": "Automate Accounting",
+        "text": "Map every unique customer or order to a dedicated Virtual Account for 100% accurate, automated reconciliation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg"
+      },
+      {
+        "headingLight": "Digitize Cash on Delivery",
+        "text": "Equip delivery agents with dynamic QR codes on their devices to accept digital payments instantly at the doorstep.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "UPI Intent Flow",
+        "paragraph": "Direct app-to-app linking for a smoother mobile checkout experience, reducing drop-offs significantly.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Dynamic VPA/QR",
+        "paragraph": "Create unique payment addresses or QRs for every single transaction to track payments precisely.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Multi-Bank Routing",
+        "paragraph": "Smart routing logic that bypasses bank outages to ensure your collections never stop processing.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Third-Party Validation",
+        "paragraph": "Reject payments from unauthorized accounts automatically to meet SEBI and RBI compliance norms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Payment Links",
+        "paragraph": "Send payment requests via SMS, WhatsApp, or Email that users can pay using any UPI app.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Virtual Accounts",
+        "paragraph": "A shadow ledger layer that provides real-time visibility and reconciliation for every incoming rupee.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can Use It",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "Lending",
+        "description": "Automate loan repayments and EMI collections with recurring links or intent flows."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "Wealth",
+        "description": "Enable investments in Mutual Funds with TPV to verify the source of investor funds."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "E-commerce",
+        "description": "Reduce cart abandonment with one-click UPI Intent payments and instant order confirmation."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "Neo-Banks",
+        "description": "Allow users to top-up their digital wallets or accounts instantly via UPI rails."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "Retail",
+        "description": "Replace cash at POS terminals with dynamic QR codes for hygienic, instant payments."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "Logistics",
+        "description": "Digitize COD collections by generating dynamic QRs on delivery agent devices."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "UPI Collections For Your Business",
+    "headingBold": " - How Can Decentro Help?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Choose Decentro's UPI Stack?",
+    "subheadings": false,
+    "lineHeight": "440px",
+    "bulletPoints": [
+      {
+        "text": "Comprehensive Virtual Account integration for automated reconciliation of every transaction."
+      },
+      {
+        "text": "RBI-licensed Payment Aggregator compliant infrastructure ensuring data security."
+      },
+      {
+        "text": "Multi-bank architecture guarantees high uptime even during bank server outages."
+      },
+      {
+        "text": "Support for all major flows: Intent, QR, Collect Request, and Payment Links."
+      },
+      {
+        "text": "Third-Party Validation (TPV) capabilities built for regulated capital markets."
+      },
+      {
+        "text": "Real-time webhooks and callbacks to update your internal ledgers instantly."
+      },
+      {
+        "text": "Simple, developer-friendly API documentation with sandbox testing environments."
+      },
+      {
+        "text": "Dedicated technical support and account management to scale your operations."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Explore the API",
+        "linkText": "Read Documentation",
+        "link": "https://docs.decentro.tech/docs/collections-new-upi-collections"
+      }
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "How does Third-Party Validation (TPV) work?",
+      "solution": "TPV allows you to restrict payments to a specific bank account linked to the user. If a payment is attempted from a non-registered account, Decentro's system automatically rejects it, ensuring compliance."
+    },
+    {
+      "query": "What happens if a bank's UPI node is down?",
+      "solution": "Decentro's multi-bank architecture automatically routes transactions through an alternative banking partner to ensure your collection success rates remain high, minimizing the impact of bank downtime."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "Penny Drop Verification",
+      "description": "Verify bank account validity and ownership instantly before initiating collections.",
+      "pageLink": "/api-hub/penny-drop-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Recurring Payments",
+      "description": "Automate periodic collections via UPI Autopay for subscriptions and EMIs.",
+      "pageLink": "/api-hub/upi-autopay-api",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
