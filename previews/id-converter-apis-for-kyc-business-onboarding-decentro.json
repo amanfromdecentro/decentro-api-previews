@@ -1,0 +1,163 @@
+{
+  "seo": {
+    "title": "ID Converter APIs for KYC & Business Onboarding | Decentro",
+    "description": "Seamlessly convert and validate ID formats with Decentro's ID Converter APIs. Map PAN to GSTIN, PAN to Udyam, and RC to Chassis in real-time.",
+    "ogTitle": "Interoperable Identity Verification APIs for India | Decentro"
+  },
+  "productBanner": {
+    "heading": "Seamless <span class='highlighted-heading'>ID Converter APIs</span>",
+    "tagline": "Facilitate interoperability and conversion between various identification formats for accurate verification and compliance.",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gaming.svg",
+    "altText": "ID Converter APIs",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Verified Sources",
+        "numberElement": "10+"
+      },
+      {
+        "textBold": " < 200ms",
+        "textLight": "Response Time"
+      },
+      {
+        "textBold": "99.9%",
+        "textLight": "Uptime SLA"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "Reliable Cross-Format Identity Handling",
+    "items": [
+      {
+        "title": "Fast & Accurate Conversion",
+        "description": "Rapid and precise conversion of identification data using verified sources for immediate results.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Seamless Integration",
+        "description": "Easily integrate converters into your existing flows via Decentro's dashboard or REST APIs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Secure Interoperability",
+        "description": "Facilitate seamless mapping between ID forms with secure, token-based authentication.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to streamline <span className='header-section-highlighted'>Identity Verification?</span>",
+    "ctaDescription": "Simplify data integration and improve efficiency today.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Tax Compliance",
+        "headingBold": "",
+        "text": "Leverage PAN to GSTIN APIs to verify a vendor's GST registration instantly, ensuring full tax compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Tax Compliance"
+      },
+      {
+        "headingLight": "Merchant Onboarding",
+        "headingBold": "",
+        "text": "Verify a merchant's UDYAM registration against their PAN during the onboarding process for smoother approvals.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Merchant Onboarding"
+      },
+      {
+        "headingLight": "Insurance Issuance",
+        "headingBold": "",
+        "text": "Validate vehicle details before policy issuance using RC to Chassis Number APIs to ensure accurate coverage.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Insurance Issuance"
+      },
+      {
+        "headingLight": "Asset Recovery",
+        "headingBold": "",
+        "text": "Assist repossession efforts by identifying registered vehicle details via Chassis Number to RC conversion.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Asset Recovery"
+      },
+      {
+        "headingLight": "Fraud Investigations",
+        "headingBold": "",
+        "text": "Detect inconsistencies and reduce fraudulent activities by cross-verifying identity data across formats.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Fraud Investigations"
+      },
+      {
+        "headingLight": "General KYC",
+        "headingBold": "",
+        "text": "Streamline Know Your Customer (KYC) and compliance workflows across consumer and legal entity domains.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "General KYC"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Delivering",
+    "headingBold": "Value",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Enhanced <br/> Efficiency",
+        "paragraph": "Simplify data integration across formats.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Strengthened <br/> Verification",
+        "paragraph": "Ensure authenticity of identity info.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Streamlined <br/>Workflows",
+        "paragraph": "Optimize KYC and logistics processes.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Accelerated <br/>Onboarding",
+        "paragraph": "Speed up approvals for customers.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Mitigated <br/>Risk",
+        "paragraph": "Reduce fraud with cross-checks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Regulatory <br/> Compliance",
+        "paragraph": "Meet strict industry requirements.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard users by conducting instant background verifications using CKYC, Aadhaar, and more.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    },
+    {
+      "title": "Instant Payouts",
+      "description": "Send money to verified beneficiaries instantly via IMPS, NEFT, RTGS, or UPI.",
+      "pageLink": "/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    }
+  ]
+}
