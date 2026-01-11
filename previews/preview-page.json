@@ -1,0 +1,97 @@
+[
+  {
+    "seo": {
+      "title": "Identity Converter APIs for Compliance & Onboarding | Decentro",
+      "description": "Streamline KYC and compliance with Decentro's ID Converters. Seamlessly map and verify PAN, GSTIN, RC, and Chassis numbers in real-time.",
+      "ogTitle": "Identity Converter APIs for Compliance & Onboarding | Decentro"
+    },
+    "productBanner": {
+      "heading": "Seamless <span class='highlighted-heading'>Identity Conversion</span> APIs",
+      "tagline": "Derive and fetch related identifiers instantly for KYC, compliance, and fraud prevention.",
+      "buttonText": "Explore Now",
+      "buttonLink": "/signup/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gaming.svg",
+      "metrics": true,
+      "metricList": [
+        {
+          "textBold": "1500+",
+          "textLight": "Companies Onboarded"
+        }
+      ]
+    },
+    "horizontalItemsData": {
+      "heading": "Why <span className='header-section-highlighted'>Decentro</span> ID Converters",
+      "tagline": "Fast, Accurate, and Secure Identity Mapping",
+      "items": [
+        {
+          "title": "Fast & Accurate Conversion",
+          "description": "Retrieve precise data from verified sources with minimal latency for immediate results.",
+          "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+        },
+        {
+          "title": "Seamless Interoperability",
+          "description": "Facilitate seamless data integration between different identification formats like PAN, GSTIN, and RC.",
+          "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+        },
+        {
+          "title": "Secure Access",
+          "description": "Ensure data privacy and platform integrity with robust token-based authentication.",
+          "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+        }
+      ]
+    },
+    "textAndButtonBannerData": {
+      "ctaTitle": "Ready to streamline your compliance?",
+      "ctaDescription": "Automate identity mapping and reduce operational friction today.",
+      "ctaButtonText": "Get Started",
+      "ctaButtonLink": "/signup/"
+    },
+    "adjacentData": {
+      "heading": {
+        "light": "Sector Specific",
+        "bold": "Use Cases"
+      },
+      "data": [
+        {
+          "headingLight": "Tax Compliance",
+          "text": "Verify a vendor's GST registration by instantly retrieving the GSTIN associated with a PAN number, ensuring adherence to tax regulations.",
+          "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg"
+        },
+        {
+          "headingLight": "Insurance & Logistics",
+          "text": "Validate vehicle details by mapping RC to Chassis numbers (or vice-versa) to aid in underwriting, claims, and asset recovery.",
+          "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg"
+        },
+        {
+          "headingLight": "Merchant Onboarding",
+          "text": "Strengthen verification processes by checking UDYAM registration against a merchant's PAN during onboarding.",
+          "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg"
+        }
+      ]
+    },
+    "useCases": {
+      "headingLight": "Value Driven",
+      "headingBold": "Results",
+      "block1": [
+        {
+          "heading": "Enhanced Efficiency",
+          "paragraph": "Reduce manual effort and accelerate operational processes with real-time API responses.",
+          "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+        },
+        {
+          "heading": "Fraud Prevention",
+          "paragraph": "Mitigate risk by cross-verifying identity documents against official databases.",
+          "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+        }
+      ]
+    },
+    "recommendedPages": [
+      {
+        "title": "KYC & Onboarding",
+        "description": "Comprehensive identity verification solutions for businesses.",
+        "pageLink": "/products/kyc",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+      }
+    ]
+  }
+]
