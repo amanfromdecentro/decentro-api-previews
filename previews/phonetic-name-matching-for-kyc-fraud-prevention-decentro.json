@@ -1,0 +1,162 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching for KYC & Fraud Prevention | Decentro",
+    "description": "Enhance KYC and onboarding with Decentro's Phonetic Name Matching. Accurately identify individuals despite name variations, reduce fraud, and ensure compliance.",
+    "ogTitle": "Strengthen identity verification with Decentro's Phonetic Name Matching. Improve accuracy, prevent fraud, and streamline onboarding."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching for Enhanced KYC & Onboarding</span>",
+    "tagline": "Leverage advanced phonetic algorithms to accurately verify identities, reduce fraud, and ensure robust regulatory compliance.",
+    "buttonText": "Get Started",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gaming.svg",
+    "altText": "Phonetic Name Matching for Identity Verification",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "99.9%",
+        "textLight": "Accuracy Rate"
+      },
+      {
+        "textBold": "50%+",
+        "textLight": "Fraud Reduction"
+      },
+      {
+        "textBold": "10X Faster",
+        "textLight": "Onboarding Speed"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro Farsight</span>",
+    "tagline": "Precision Identity Matching, Unmatched Fraud Prevention",
+    "items": [
+      {
+        "title": "Advanced Phonetic Algorithms",
+        "description": "Utilizes industry-standard algorithms like Soundex, Metaphone, and Double Metaphone to identify names that sound alike but are spelled differently, ensuring comprehensive coverage.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "High Accuracy & Reduced False Positives",
+        "description": "Significantly improves the precision of identity matching, minimizing errors in verification and reducing the operational burden of manual reviews.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Customizable Thresholds & Real-time Processing",
+        "description": "Allows businesses to adjust the sensitivity of name matching to suit specific risk appetites and compliance requirements, delivering instant results for swift workflows.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to enhance your <span className='header-section-highlighted'>KYC & fraud prevention?</span>",
+    "ctaDescription": "Integrate Decentro's Phonetic Name Matching API seamlessly and transform your identity verification processes.",
+    "ctaButtonText": "Book a Demo",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Industry Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Financial Services",
+        "headingBold": "",
+        "text": "Essential for KYC/AML compliance, detecting duplicate accounts, preventing financial fraud, and enhancing customer onboarding efficiency.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Financial Services"
+      },
+      {
+        "headingLight": "E-commerce & Retail",
+        "headingBold": "",
+        "text": "Identifies fraudulent transactions, prevents the creation of multiple accounts by the same individual, and secures online purchases against identity theft.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "E-commerce & Retail"
+      },
+      {
+        "headingLight": "Healthcare Providers",
+        "headingBold": "",
+        "text": "Ensures accurate patient identification, prevents duplicate medical records, and streamlines administrative processes for better data integrity.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Healthcare Providers"
+      },
+      {
+        "headingLight": "Government & Public Sector",
+        "headingBold": "",
+        "text": "Facilitates accurate voter registration, improves citizen service delivery, and helps identify individuals across various government databases.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Government & Public Sector"
+      },
+      {
+        "headingLight": "Insurance Carriers",
+        "headingBold": "",
+        "text": "Aids in fraud detection during claims processing and policy issuance, ensuring accurate customer identification and reducing risk exposure.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Insurance Carriers"
+      },
+      {
+        "headingLight": "HR & Recruitment",
+        "headingBold": "",
+        "text": "Supports thorough background checks and verifies candidate identities, enhancing the integrity of hiring processes and preventing misrepresentation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "HR & Recruitment"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Stronger <br/> Fraud Prevention",
+        "paragraph": "Proactively identifies suspicious activities and reduces financial losses across diverse industries.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Improved <br/> Regulatory Compliance",
+        "paragraph": "Helps meet stringent KYC and AML standards with greater accuracy and auditability.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Faster & <br/> Smoother Onboarding",
+        "paragraph": "Accelerates customer acquisition by reducing manual checks and verification delays.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Enhanced <br/> Operational Efficiency",
+        "paragraph": "Automates a complex aspect of identity verification, freeing up resources and reducing operational costs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Superior <br/> Customer Experience",
+        "paragraph": "Provides a seamless and secure journey for customers, building trust and loyalty.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Scalable <br/> Data Processing",
+        "paragraph": "Designed to handle high volumes of data and transactions, supporting growing business needs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard users by conducting instant background verifications with real-time biometric and document checks.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    },
+    {
+      "title": "Fraud & Risk Monitoring",
+      "description": "Implement advanced fraud detection and risk management solutions to protect your platform and users from financial crime.",
+      "pageLink": "/products/fraud-risk-monitoring",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    }
+  ]
+}
