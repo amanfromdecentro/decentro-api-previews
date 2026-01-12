@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching API | Advanced Identity Verification",
+    "description": "Decentro's Phonetic Name Matching API accurately compares and verifies names despite typos, misspellings, or regional variations, enhancing KYC, AML, and fraud detection.",
+    "ogTitle": "Phonetic Name Matching API | Advanced Identity Verification"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching API</span>",
+    "tagline": "Accurately Verify Identities Despite Name Variations",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Phonetic Name Matching API for identity verification",
+    "DBackground": true
+  },
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "Phonetic Name Matching?",
+    "text": "Phonetic Name Matching provides advanced capabilities to compare and verify names, even when they contain variations like typos, misspellings, regional differences, abbreviations, or nicknames. It's a crucial tool for robust identity verification, fraud prevention, and maintaining high data quality across financial institutions, e-commerce, and HR.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "Advanced Phonetic Algorithms.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Fuzzy Matching Algorithms",
+        "description": "Utilises sophisticated phonetic algorithms like Soundex and Metaphone to match names based on their sound, not just exact character sequences, ensuring high accuracy."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Granular Similarity Scoring",
+        "description": "Generates a precise numerical score (0-100) indicating the degree of phonetic similarity between two input names, enabling flexible thresholding for verification."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Variation Tolerance",
+        "description": "Effectively identifies matches despite common data entry errors, cultural name variations, shortened forms, and nicknames, reducing false negatives in identity checks."
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Sophisticated <br/>Phonetic Algorithms",
+        "paragraph": "Leverage advanced algorithms to match names based on how they sound, overcoming common spelling errors and regional variations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Granular <br/>Similarity Scoring",
+        "paragraph": "Receive a precise numerical score (0-100) for each match, allowing businesses to set custom thresholds for verification accuracy.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Robust <br/>Variation Handling",
+        "paragraph": "Designed to identify matches despite typos, misspellings, abbreviations, and nicknames, ensuring comprehensive identity verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Instantaneous <br/>Real-time Matching",
+        "paragraph": "Process name comparisons in real-time, supporting high-volume transactional needs for immediate identity verification and onboarding.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Minimised False <br/>Positives/Negatives",
+        "paragraph": "Engineered for high accuracy, reducing the occurrence of incorrect matches or missed legitimate matches in critical identity scenarios.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Configurable <br/>Matching Thresholds",
+        "paragraph": "Adjust the sensitivity of name matching to align with specific risk appetites and compliance requirements across different use cases.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Experian Identity & Fraud",
+      "description": "Offers comprehensive identity verification and fraud prevention solutions, including advanced name matching and data enrichment for risk assessment.",
+      "pageLink": "/api-hub/experian-identity-solutions/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "LexisNexis Risk Solutions",
+      "description": "Provides powerful identity authentication and fraud detection tools, leveraging extensive data sets for robust name matching and watchlist screening.",
+      "pageLink": "/api-hub/lexisnexis-risk-solutions/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
