@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Aadhaar Masking API | Automated Compliance for KYC Documents",
+    "description": "Automate the masking of Aadhaar numbers on documents with Decentro's API. Ensure UIDAI compliance, reduce manual effort, and enhance data privacy for KYC processes.",
+    "ogTitle": "Aadhaar Masking API | Automated Compliance for KYC Documents"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Aadhaar Masking API</span>",
+    "tagline": "Automate Aadhaar Data Masking for Regulatory Compliance",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Aadhaar Masking API for businesses",
+    "DBackground": true
+  },
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "Aadhaar Masking?",
+    "text": "The Decentro Aadhaar Masking API, a core component of the Farsight Document Forensics suite, offers an intelligent, automated solution for redacting the first 8 digits of an Aadhaar number from uploaded images. This ensures strict adherence to UIDAI and other data privacy regulations, streamlining KYC processes while safeguarding sensitive customer information.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "Secure Aadhaar Data Processing.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Image Input & Detection",
+        "description": "Securely upload Aadhaar card images (front or back). Our API intelligently detects the Aadhaar number's location and structure on the document for precise processing."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Automated Masking Logic",
+        "description": "Utilize advanced image processing and OCR to automatically identify and mask the first 8 digits of the Aadhaar number, rendering them unreadable and compliant."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Masked Image Output",
+        "description": "Receive the processed image with the Aadhaar number securely masked, ready for compliant storage and further processing within your systems."
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Automated <br/>Masking",
+        "paragraph": "Automatically detects and masks the first 8 digits of the Aadhaar number from an uploaded image, ensuring data privacy and regulatory adherence.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Image Input <br/>Flexibility",
+        "paragraph": "Accepts Aadhaar card images (front or back) in various formats, providing versatile input options for businesses across different use cases.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Compliance-Driven <br/>Output",
+        "paragraph": "Returns the processed image with the Aadhaar number securely masked, facilitating adherence to UIDAI and other data protection guidelines.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Seamless <br/>Integration",
+        "paragraph": "Offered as a simple, robust API endpoint for effortless integration into existing digital KYC and customer onboarding workflows.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Reduced Manual <br/>Effort",
+        "paragraph": "Eliminates the need for manual redaction, significantly reducing operational costs and the potential for human error in document handling.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Enhanced Data <br/>Privacy",
+        "paragraph": "Strengthens customer data protection by ensuring sensitive Aadhaar information is handled in a compliant and secure manner.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "OCR API",
+      "description": "Extract data from various documents with high accuracy using Decentro's Optical Character Recognition API for automated processing.",
+      "pageLink": "/api-hub/ocr-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Identity Verification API",
+      "description": "Verify customer identities instantly across multiple data sources to prevent fraud and ensure regulatory compliance.",
+      "pageLink": "/api-hub/identity-verification-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
