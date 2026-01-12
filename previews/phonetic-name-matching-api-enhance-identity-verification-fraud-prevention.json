@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching API | Enhance Identity Verification & Fraud Prevention",
+    "description": "Decentro's Phonetic Name Matching API accurately identifies individuals by matching names that sound alike, crucial for KYC, AML, and fraud prevention.",
+    "ogTitle": "Phonetic Name Matching API | Enhance Identity Verification & Fraud Prevention"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching API</span>",
+    "tagline": "Accurate Identity Verification with Advanced Phonetic Matching",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Phonetic Name Matching API for identity verification",
+    "DBackground": true
+  },
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "Phonetic Name Matching?",
+    "text": "Decentro's Farsight Data Forensics offers an advanced Phonetic Name Matching API designed to accurately identify individuals by matching names that sound alike but may have different spellings. This service is crucial for enhancing identity verification, fraud prevention, and compliance within KYC and onboarding processes, minimizing false negatives and improving fraud detection.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "Advanced Matching Framework.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Sophisticated Data Input",
+        "description": "Ingest diverse name data, including variations, typos, and cultural spellings, preparing it for comprehensive phonetic analysis to ensure maximum coverage."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Multi-Algorithm Processing",
+        "description": "Apply a suite of industry-standard phonetic algorithms like Soundex, Metaphone, and Double Metaphone, alongside proprietary fuzzy matching, for robust and nuanced comparisons."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Real-time Match Scoring",
+        "description": "Generate instantaneous matching results with confidence scores, enabling rapid decision-making for identity verification, fraud alerts, and compliance checks."
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Advanced Phonetic <br/> & Fuzzy Matching",
+        "paragraph": "Utilizes sophisticated algorithms to identify names that are phonetically similar, even with significant spelling variations or typos, ensuring high recall.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Multiple Algorithm <br/> Support",
+        "paragraph": "Employs various industry-standard phonetic algorithms (e.g., Soundex, Metaphone, Double Metaphone) for comprehensive and robust matching accuracy.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Real-time <br/> Processing",
+        "paragraph": "Provides instantaneous matching results, enabling quick decisions during live transactions and onboarding flows, enhancing user experience.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "High Accuracy & <br/> Fraud Detection",
+        "paragraph": "Minimizes false negatives and significantly improves the detection of potential identity fraud by linking disparate data points with precision.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Reduced Manual <br/> Intervention",
+        "paragraph": "Automates a complex and error-prone verification step, reducing the need for manual review and reconciliation, saving operational costs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Enhanced Regulatory <br/> Compliance",
+        "paragraph": "Supports stringent KYC and AML requirements by accurately identifying individuals, including PEPs or sanctioned entities, across various data sources.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Name Matching API",
+      "description": "Culturally-Intelligent Name Matching for Enhanced Identity Verification across multiple languages and scripts.",
+      "pageLink": "/api-hub/name-matching-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Mule Detection API",
+      "description": "Identify Suspicious Accounts & Prevent Financial Fraud by detecting high-risk account patterns in real-time.",
+      "pageLink": "/api-hub/mule-detection-api",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
