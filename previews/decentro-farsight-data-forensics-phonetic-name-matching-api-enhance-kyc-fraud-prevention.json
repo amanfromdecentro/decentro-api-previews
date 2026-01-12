@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Decentro Farsight Data Forensics: Phonetic Name Matching API | Enhance KYC & Fraud Prevention",
+    "description": "Decentro's Phonetic Name Matching API uses advanced algorithms to match names based on sound, not spelling, crucial for robust KYC, fraud detection, and compliance, ensuring accurate identity linking.",
+    "ogTitle": "Decentro Farsight Data Forensics: Phonetic Name Matching API | Enhance KYC & Fraud Prevention"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching API</span>",
+    "tagline": "Accurately Match Names by Sound for Enhanced Identity Verification",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Phonetic Name Matching API for identity verification",
+    "DBackground": true
+  },
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "Phonetic Name Matching?",
+    "text": "Phonetic Name Matching is a critical component of Decentro's Farsight Data Forensics, enabling businesses to compare and match names based on their sound rather than exact spelling. This capability is vital for enhancing identity verification, bolstering fraud detection, and ensuring compliance during customer onboarding and ongoing monitoring processes.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "Advanced Phonetic Matching Framework.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Phonetic Algorithms",
+        "description": "Utilise industry-standard algorithms like Soundex, Metaphone, and Double Metaphone to precisely identify phonetic similarities across diverse name datasets."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Variation Handling",
+        "description": "Effectively match names despite common misspellings, alternate spellings, nicknames, and complex transliteration differences, ensuring comprehensive coverage."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Configurable Thresholds",
+        "description": "Define the strictness of the match with adjustable thresholds, providing flexibility for various use cases and aligning with specific risk appetites."
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Advanced Phonetic <br/> Algorithms",
+        "paragraph": "Leverage industry-standard algorithms such as Soundex, Metaphone, and Double Metaphone to accurately identify phonetic similarities.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Handles Name <br/> Variations",
+        "paragraph": "Effectively match names despite common misspellings, alternate spellings, nicknames, and transliteration differences.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Configurable Matching <br/> Thresholds",
+        "paragraph": "Define the strictness of the match with adjustable thresholds, providing flexibility for diverse use cases and risk profiles.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Real-time <br/> Processing",
+        "paragraph": "Designed for quick, on-demand verification, integrating seamlessly into live onboarding flows for instant results.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Comprehensive <br/> Name Support",
+        "paragraph": "Capable of matching various parts of a name, including first name, last name, and full name, for granular control.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Enterprise <br/> Integration",
+        "paragraph": "Benefit from robust APIs designed for reliability, speed, and security, fitting perfectly into your existing technical stack.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Watchlist Screening API",
+      "description": "Automate screening against global watchlists and PEP databases to ensure AML/CFT compliance and mitigate financial crime risks.",
+      "pageLink": "/api-hub/watchlist-screening-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Identity Verification API",
+      "description": "Verify customer identities instantly across multiple data sources, reducing fraud and streamlining onboarding processes.",
+      "pageLink": "/api-hub/identity-verification-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
