@@ -1,0 +1,162 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching for KYC & AML | Decentro",
+    "description": "Enhance identity verification with Decentro's phonetic name matching. Accurately identify individuals despite spelling variations, reduce fraud, and ensure AML compliance.",
+    "ogTitle": "Boost KYC Accuracy with Phonetic Matching | Decentro"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching for KYC & Fraud Prevention</span>",
+    "tagline": "Accurately identify individuals by matching names that sound alike, overcoming spelling variations and typos to enhance data forensics and compliance.",
+    "buttonText": "Explore Solutions",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gaming.svg",
+    "altText": "Phonetic Name Matching for Identity Verification",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "90%+ ",
+        "textLight": "Accuracy in Name Matching"
+      },
+      {
+        "textBold": "50% ",
+        "textLight": "Reduction in False Positives"
+      },
+      {
+        "textBold": "Real-time ",
+        "textLight": "Verification Speed"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro's Phonetic Matching</span>",
+    "tagline": "Advanced Identity Verification for Modern Businesses",
+    "items": [
+      {
+        "title": "Advanced Phonetic Algorithms",
+        "description": "Utilizes sophisticated algorithms to identify matches between names that sound similar, regardless of spelling discrepancies, enhancing accuracy.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Fuzzy Matching Capabilities",
+        "description": "Goes beyond exact matches to account for common variations, abbreviations, and data entry errors, ensuring comprehensive identity resolution.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Customizable Matching Logic",
+        "description": "Allows businesses to tailor matching sensitivity and rules to their specific risk appetite and compliance requirements, offering flexible control.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to enhance your <span className='header-section-highlighted'>KYC accuracy?</span>",
+    "ctaDescription": "Implement advanced phonetic matching to reduce fraud, streamline onboarding, and ensure robust compliance effortlessly.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Industry Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Financial Services",
+        "headingBold": "",
+        "text": "Streamline customer onboarding, enhance AML compliance, prevent identity fraud, and accurately link customer records across banking and fintech operations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Financial Services"
+      },
+      {
+        "headingLight": "Insurance Providers",
+        "headingBold": "",
+        "text": "Verify policyholders and beneficiaries, detect fraudulent claims, and ensure accurate customer data management for robust risk assessment and compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Insurance Providers"
+      },
+      {
+        "headingLight": "E-commerce & Marketplaces",
+        "headingBold": "",
+        "text": "Onboard sellers and vendors, verify customer identities for high-value transactions, and prevent account takeovers to secure digital platforms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "E-commerce & Marketplaces"
+      },
+      {
+        "headingLight": "Gaming & Gambling",
+        "headingBold": "",
+        "text": "Ensure age verification, comply with regulatory requirements, and prevent multi-accounting fraud to maintain fair play and responsible gaming environments.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Gaming & Gambling Platforms"
+      },
+      {
+        "headingLight": "Healthcare",
+        "headingBold": "",
+        "text": "Accurately identify patients, link medical records, and prevent duplicate entries, ensuring patient safety, data integrity, and streamlined administration.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Healthcare"
+      },
+      {
+        "headingLight": "Government & Public Sector",
+        "headingBold": "",
+        "text": "Enhance citizen identity verification, improve service delivery, and prevent benefit fraud, ensuring efficient and secure public services.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "Government & Public Sector"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Driving Impact At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Enhanced <br/> Compliance Confidence",
+        "paragraph": "Meet stringent regulatory requirements (KYC, AML) with greater confidence and reduced risk exposure.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Robust <br/> Fraud Prevention",
+        "paragraph": "Proactively identify and mitigate risks associated with identity fraud and suspicious activities effectively.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Superior <br/> Customer Experience",
+        "paragraph": "Accelerate onboarding times and significantly reduce friction for legitimate customers, improving satisfaction.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Operational <br/> Efficiency Gains",
+        "paragraph": "Automate manual review processes, minimize human error, and significantly reduce operational costs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Improved <br/> Data Quality",
+        "paragraph": "Ensure cleaner, more reliable customer data across all systems, enhancing decision-making and analytics.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Real-time <br/> Verification Speed",
+        "paragraph": "Designed for instantaneous identity verification, crucial for seamless customer onboarding and transaction monitoring.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard users by conducting instant background verifications with real-time biometric and document checks.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    },
+    {
+      "title": "Fraud & Risk Management",
+      "description": "Implement advanced tools for real-time fraud detection, risk scoring, and transaction monitoring to secure your platform.",
+      "pageLink": "/products/fraud-risk-management",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    }
+  ]
+}
