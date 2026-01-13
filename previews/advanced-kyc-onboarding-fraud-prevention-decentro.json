@@ -1,0 +1,162 @@
+{
+  "seo": {
+    "title": "Advanced KYC, Onboarding & Fraud Prevention | Decentro",
+    "description": "Revolutionize identity verification with Farsight Data Forensics and Phonetic Name Matching. Mitigate fraud, ensure compliance, and accelerate customer onboarding across industries.",
+    "ogTitle": "Enhance due diligence, prevent fraud, and streamline KYC with Decentro's advanced identity verification solutions."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Enhanced KYC & Onboarding: Farsight Data Forensics & Phonetic Name Matching</span>",
+    "tagline": "Revolutionize identity verification, mitigate fraud risks, and ensure regulatory compliance with advanced data forensics and intelligent name matching.",
+    "buttonText": "Explore Solutions",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg",
+    "altText": "Advanced KYC, Onboarding, and Fraud Prevention",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "1500+",
+        "textLight": "Entities Verified"
+      },
+      {
+        "textBold": "₹200 Cr+",
+        "textLight": "Fraud Incidents Prevented Annually"
+      },
+      {
+        "textBold": "50 Cr+",
+        "textLight": "Identity Checks Performed"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro's Fraud & KYC Solutions</span>",
+    "tagline": "Intelligent Verification, Uncompromised Security",
+    "items": [
+      {
+        "title": "Phonetic Name Matching",
+        "description": "Accurately identify individuals by matching names despite spelling variations, typos, or regional differences using advanced Soundex and Metaphone algorithms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Comprehensive Data Forensics",
+        "description": "Analyze vast datasets for inconsistencies, suspicious patterns, and anomalies to proactively detect potential fraud and high-risk entities in real-time.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Dynamic Risk Scoring",
+        "description": "Assign real-time risk scores to individuals or entities based on a holistic analysis of their data, enabling informed decision-making and tailored due diligence.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to enhance security and <span className='header-section-highlighted'>streamline onboarding?</span>",
+    "ctaDescription": "Let us help you build trust and operate securely. Integrating advanced KYC and fraud prevention is simpler than you think.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Industry Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Financial Institutions",
+        "headingBold": "",
+        "text": "Streamline KYC/AML compliance, detect sophisticated financial fraud, enhance sanction screening, and accelerate secure customer onboarding for banks and fintechs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Financial Institutions"
+      },
+      {
+        "headingLight": "E-commerce & Online Marketplaces",
+        "headingBold": "",
+        "text": "Prevent fake accounts, identify fraudulent transactions, and ensure a secure environment for both buyers and sellers, protecting platform integrity and revenue.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "E-commerce & Online Marketplaces"
+      },
+      {
+        "headingLight": "Healthcare Providers",
+        "headingBold": "",
+        "text": "Ensure accurate patient identification, maintain robust data integrity, and prevent medical identity theft, safeguarding patient records and services.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Healthcare Providers"
+      },
+      {
+        "headingLight": "Government & Public Sector",
+        "headingBold": "",
+        "text": "Enhance identity verification for public services, conduct thorough background checks, and improve citizen data accuracy for critical government initiatives.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Government & Public Sector"
+      },
+      {
+        "headingLight": "Insurance Companies",
+        "headingBold": "",
+        "text": "Verify policyholders, detect fraudulent claims early, and ensure stringent regulatory compliance throughout the policy issuance and claims processing lifecycle.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Insurance Companies"
+      },
+      {
+        "headingLight": "Human Resources & Recruitment",
+        "headingBold": "",
+        "text": "Conduct reliable background checks, verify candidate identities, and ensure secure, compliant hiring processes, building trust in your workforce.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Human Resources & Recruitment"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "Delivering Unmatched Security and Efficiency",
+    "block1": [
+      {
+        "heading": "Proactive <br/> Fraud Prevention",
+        "paragraph": "Significantly reduce financial losses and reputational damage by identifying and flagging suspicious activities and identities early.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Enhanced <br/> Regulatory Compliance",
+        "paragraph": "Help organizations meet stringent KYC, AML, and other regulatory requirements with greater accuracy and efficiency, avoiding penalties.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Accelerated <br/> Onboarding",
+        "paragraph": "Automate and speed up verification processes, leading to faster customer acquisition and reduced abandonment rates without compromising security.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Reduced <br/> Operational Costs",
+        "paragraph": "Minimize manual review efforts and associated costs through intelligent automation and highly accurate matching algorithms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Scalable & <br/> Adaptable Platform",
+        "paragraph": "Provide a robust, flexible platform that can handle high volumes of checks and adapt to evolving business needs and regulatory landscapes.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Building <br/> Customer Trust",
+        "paragraph": "Empower businesses to build trust and operate securely by ensuring legitimate identities and preventing malicious actors from accessing services.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard users by conducting instant background verifications with real-time biometric and document checks, ensuring compliance.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    },
+    {
+      "title": "Identity Verification",
+      "description": "Verify PAN, Aadhaar, Udyam, and more instantly with Decentro's real-time identity verification APIs, stopping fraud and ensuring compliance.",
+      "pageLink": "/products/identity-verification",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    }
+  ]
+}
