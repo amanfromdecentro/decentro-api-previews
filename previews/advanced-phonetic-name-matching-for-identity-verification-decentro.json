@@ -1,0 +1,162 @@
+{
+  "seo": {
+    "title": "Advanced Phonetic Name Matching for Identity Verification | Decentro",
+    "description": "Overcome name variations with Decentro's AI-powered phonetic matching. Enhance KYC, prevent fraud, and accelerate onboarding across financial services, e-commerce, and healthcare.",
+    "ogTitle": "Boost Identity Accuracy & Fraud Prevention with Decentro's Phonetic Name Matching API."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>AI-Powered Phonetic Name Matching</span>",
+    "tagline": "Accurate identity verification and fraud prevention by overcoming name variations through advanced, AI-powered phonetic name matching technology.",
+    "buttonText": "Request a Demo",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gaming.svg",
+    "altText": "Phonetic Name Matching for Identity Verification",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "99.5%+",
+        "textLight": "Accuracy in Matching"
+      },
+      {
+        "textBold": "50%+",
+        "textLight": "Reduction in False Positives"
+      },
+      {
+        "textBold": "100M+",
+        "textLight": "Names Processed Monthly"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro's Phonetic Matching</span>",
+    "tagline": "Intelligent Identity Resolution for Every Business Need",
+    "items": [
+      {
+        "title": "Advanced Phonetic Algorithms",
+        "description": "Utilizes sophisticated algorithms like Soundex and Metaphone to intelligently compare and match names based on their phonetic sound, not just spelling.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Multi-Language & Cultural Support",
+        "description": "Designed to seamlessly handle diverse linguistic and cultural naming conventions, ensuring robust global applicability and reducing matching errors.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "API-Driven Integration",
+        "description": "Offers flexible, robust API integration into existing systems and workflows, enabling rapid deployment and minimal disruption to operations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to enhance identity verification and <span className='header-section-highlighted'>prevent fraud?</span>",
+    "ctaDescription": "Integrate Decentro's advanced phonetic name matching API to streamline compliance and improve customer trust.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Industry Applications"
+    },
+    "data": [
+      {
+        "headingLight": "Financial Services",
+        "headingBold": "",
+        "text": "Streamline KYC and AML compliance, enhance fraud detection, and accelerate customer onboarding by accurately matching identities despite name variations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Financial Services"
+      },
+      {
+        "headingLight": "E-commerce & Marketplaces",
+        "headingBold": "",
+        "text": "Prevent duplicate accounts, verify customer identities for secure transactions, and mitigate fraud risks by ensuring precise name matching across platforms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "E-commerce & Marketplaces"
+      },
+      {
+        "headingLight": "Healthcare Providers",
+        "headingBold": "",
+        "text": "Ensure precise patient identification, accurately link medical records, and prevent critical errors in patient care by resolving name discrepancies.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Healthcare"
+      },
+      {
+        "headingLight": "Government & Public Sector",
+        "headingBold": "",
+        "text": "Improve citizen identity verification for efficient service delivery, accurate record management, and robust public safety initiatives.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Government & Public Sector"
+      },
+      {
+        "headingLight": "HR & Workforce Management",
+        "headingBold": "",
+        "text": "Verify employee identities, prevent payroll fraud, and maintain accurate personnel records by resolving name variations during onboarding and ongoing checks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "HR & Workforce Management"
+      },
+      {
+        "headingLight": "Logistics & Supply Chain",
+        "headingBold": "",
+        "text": "Ensure accurate recipient identification for deliveries, prevent misrouting, and enhance security by precisely matching names on packages and manifests.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "Logistics & Supply Chain"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Massive <br/> Identity Checks",
+        "paragraph": "100M+ Identity Verifications processed with high precision and minimal false positives.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Significant <br/> Fraud Prevention",
+        "paragraph": "Reduced fraud incidents by up to 60% through accurate phonetic matching and anomaly detection.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "High-Throughput <br/>Processing",
+        "paragraph": "25K Daily Phonetic Matches handled with automated, real-time API responses.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Accelerated <br/>Onboarding",
+        "paragraph": "Reduced customer onboarding time by 40% through automated and accurate name verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Enterprise-Grade <br/>Reliability",
+        "paragraph": "99.9% Uptime SLA for critical identity verification and fraud prevention infrastructure.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Regulatory <br/>Compliance",
+        "paragraph": "Ensuring adherence to stringent KYC and AML regulations with robust, auditable identity matching.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard users by conducting instant background verifications, leveraging phonetic matching for enhanced accuracy in identity checks.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    },
+    {
+      "title": "Fraud & Risk Management",
+      "description": "Implement advanced fraud detection strategies, including phonetic name matching, to identify suspicious patterns and prevent financial losses.",
+      "pageLink": "/products/fraud-risk-management",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    }
+  ]
+}
