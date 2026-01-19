@@ -1,0 +1,165 @@
+{
+  "seo": {
+    "title": "Global Payments for B2B eCommerce | Cross-Border Collections & Payouts",
+    "description": "Offer local-like payment experiences in global B2B commerce with multi-currency acceptance, treasury controls, and automated trade flows.",
+    "ogTitle": "Empower B2B eCommerce with global payments, automated trade flows, and multi-currency treasury management. Go live in days with Decentro's comprehensive API stack."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Cross-Border Payments for B2B eCommerce </span>",
+    "tagline": "Collect, Hold, Convert & Move Money Across Buyers, Suppliers & Global Trade Ecosystems.",
+    "buttonText": "Explore Solutions",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/B2B_eCommerce.svg",
+    "altText": "Cross-Border Payments for B2B eCommerce",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "170+",
+        "textLight": "Countries Supported Globally",
+        "numberElement": ""
+      },
+      {
+        "textBold": "30+",
+        "textLight": "Currencies Managed in Wallets",
+        "numberElement": ""
+      },
+      {
+        "textBold": "90%",
+        "textLight": "Reduction in Manual Reconciliation",
+        "numberElement": ""
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "Built for High-Volume, Multi-Currency, Cross-Border Trade",
+    "items": [
+      {
+        "title": "Unified Global Collections",
+        "description": "Accept payments from 170+ countries using global and local rails. Collect in multiple currencies and settle into a single ledger with simplified compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Multi-Currency Trade Wallets",
+        "description": "Hold 30+ currencies in one wallet, convert when needed, and pay suppliers, manufacturers, and logistics partners without opening foreign accounts.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Automated Order-to-Cash & P2P",
+        "description": "Trigger payments from POs, shipment updates, delivery checks, credit periods, and invoices, while reducing manual work across global B2B eCommerce teams.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to Transform Your <span className='header-section-highlighted'>Cross-Border B2B Commerce?</span>",
+    "ctaDescription": "Decentro empowers B2B marketplaces, wholesalers, manufacturers, and trade platforms to move money across borders with unmatched speed, predictability, and automation.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "B2B Marketplaces",
+        "headingBold": "& Trade Platforms",
+        "text": "Enable global supplier onboarding, escrow-style settlements, multi-currency acceptance, commission deduction, credit terms, and automated payouts across markets.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "B2B Marketplaces & Trade Platforms"
+      },
+      {
+        "headingLight": "Wholesale & Distribution",
+        "headingBold": "Platforms",
+        "text": "Manage high-value, recurring orders with real-time FX handling, PO-linked payments, partial settlements, and bulk vendor disbursements.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Wholesale & Distribution Platforms"
+      },
+      {
+        "headingLight": "Manufacturing & Industrial",
+        "headingBold": "Supply Chains",
+        "text": "Handle international trade cycles with milestone-based payments (production → shipment → delivery), multi-currency cash positions, and custom financing integrations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Manufacturing & Industrial Supply Chains"
+      },
+      {
+        "headingLight": "Cross-Border Procurement",
+        "headingBold": "Platforms",
+        "text": "Enable buyers to source globally with local payment options, automated invoice matching, credit line-based settlements, and FX optimization.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Cross-Border Procurement Platforms"
+      },
+      {
+        "headingLight": "Freight, Logistics & Customs",
+        "headingBold": "Payments",
+        "text": "Pay logistics partners, freight companies, customs brokers, and last-mile networks using automated rules linked to order and shipment status.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Freight, Logistics & Customs Payments"
+      },
+      {
+        "headingLight": "High-Value SaaS + B2B",
+        "headingBold": "Subscription Commerce",
+        "text": "Support usage-based billing, renewals, invoice-based collections, and real-time reconciliation across currencies and countries.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "High-Value SaaS + B2B Subscription Commerce"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Global <br/> Payment Rails",
+        "paragraph": "Accept and pay out across 170+ countries with a single API, powering global marketplaces, export platforms, and wholesale networks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Multi-Currency <br/> Efficiency",
+        "paragraph": "Store and convert funds in 30+ currencies, optimizing FX timing and reducing conversion costs for predictable supply chain settlements.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Optimised <br/> Working Capital",
+        "paragraph": "Automated credit tracking, faster receivables, and real-time cash visibility to maintain global operational liquidity for enterprises.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "End-to-End <br/> Trade Automation",
+        "paragraph": "Automate every payment event from PO creation to supplier payout, reducing manual errors and operational overhead significantly.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Intelligent <br/> Reconciliation",
+        "paragraph": "Auto-match payments to invoices, POs, shipment IDs, and logistics events, reducing manual reconciliation work by up to 90%.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Faster, Predictable <br/> Global Settlements",
+        "paragraph": "Provide same-day settlements to suppliers and partners in major markets, ensuring predictability with multi-rail and multi-bank redundancy.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Global Payments Collections",
+      "description": "Accept payments from 170+ countries using global and local rails. Collect in multiple currencies and settle into a single ledger with simplified compliance.",
+      "pageLink": "/global/products/global-payment-collection",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "Instant Payouts",
+      "description": "Pay suppliers, manufacturers, and logistics partners without opening foreign accounts. Provide same-day settlements to partners in major markets.",
+      "pageLink": "/global/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
