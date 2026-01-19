@@ -1,0 +1,163 @@
+{
+  "seo": {
+    "title": "Advanced KYC Phonetic Name Matching | Decentro Identity Verification",
+    "description": "Leverage Decentro's Farsight Data Forensics for accurate identity verification. Our Phonetic Name Matching overcomes misspellings and variations, boosting fraud detection and compliance.",
+    "ogTitle": "Combat Fraud & Enhance KYC with Decentro's Phonetic Name Matching API. Accurate, Real-time Identity Verification for All Industries."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching for Advanced Identity Verification</span>",
+    "tagline": "Accurately identify individuals despite misspellings, variations, or transliterations, strengthening your KYC and fraud prevention strategies.",
+    "buttonText": "Explore Phonetic Matching",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gaming.svg",
+    "altText": "Phonetic Name Matching for Identity Verification",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Identities Verified",
+        "numberElement": "1500+"
+      },
+      {
+        "textBold": " ₹40,000 Cr+",
+        "textLight": "Fraud Value Prevented"
+      },
+      {
+        "textBold": "24 Cr+",
+        "textLight": "API Checks Annually"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro's Phonetic Matching</span>",
+    "tagline": "Unrivaled Accuracy in Identity Verification",
+    "items": [
+      {
+        "title": "Intelligent Phonetic Algorithms",
+        "description": "Utilize sophisticated algorithms to compare names based on their sound, effectively overcoming challenges posed by misspellings, regional variations, and transliteration differences.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Enhanced Fraud Detection",
+        "description": "Go beyond exact matches with advanced data forensics and fuzzy logic, detecting subtle anomalies and potential fraud indicators that traditional systems often miss.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Seamless Real-time Integration",
+        "description": "Designed for swift, API-driven integration into your existing KYC, onboarding, and fraud detection workflows, enabling instant checks crucial for smooth customer journeys.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to boost your fraud detection and <span className='header-section-highlighted'>KYC accuracy?</span>",
+    "ctaDescription": "Integrate Decentro's advanced phonetic matching capabilities effortlessly into your existing systems.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Industry Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Financial Services",
+        "headingBold": "",
+        "text": "Crucial for accurate KYC, Anti-Money Laundering (AML) compliance, and robust fraud detection during account opening, loan applications, and ongoing transaction monitoring.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Financial Services"
+      },
+      {
+        "headingLight": "Lending & Credit",
+        "headingBold": "",
+        "text": "Verify applicant identities precisely to prevent loan stacking and identity fraud, ensuring highly accurate credit assessments and reducing default risks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Lending & Credit Companies"
+      },
+      {
+        "headingLight": "Insurance Providers",
+        "headingBold": "",
+        "text": "Streamline policyholder onboarding, verify claims efficiently, and prevent fraudulent claims by accurately matching identities across various data sources.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Insurance Providers"
+      },
+      {
+        "headingLight": "E-commerce & Marketplaces",
+        "headingBold": "",
+        "text": "Enhance seller and buyer verification, significantly reducing chargebacks and preventing account takeovers by ensuring legitimate and consistent identities.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "E-commerce & Marketplaces"
+      },
+      {
+        "headingLight": "Gaming & Betting",
+        "headingBold": "",
+        "text": "Meet stringent regulatory requirements for player identity verification, effectively preventing underage access, multi-accounting fraud, and ensuring fair play.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Gaming & Betting Platforms"
+      },
+      {
+        "headingLight": "High-Volume Onboarding",
+        "headingBold": "",
+        "text": "Ideal for businesses with diverse customer bases where name variations are common, ensuring accurate, efficient, and scalable identity checks for rapid growth.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "High-Volume Customer Onboarding"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Massive <br/> Processing Volume",
+        "paragraph": "10M+ Identity Verifications Processed with high precision and near-zero downtime.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Substantial <br/> Risk Mitigation",
+        "paragraph": "₹70+ Crore in potential fraud value successfully mitigated for our platform partners.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "High-Frequency <br/>Identity Checks",
+        "paragraph": "27K Daily Identity Checks handled with automated high-throughput APIs for instant results.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Accelerated <br/>Time-to-Market",
+        "paragraph": "10X Faster Launch compared to traditional identity verification integrations and legacy systems.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Enterprise-Grade <br/>Reliability",
+        "paragraph": "99.9% Uptime SLA for critical identity verification and fraud detection infrastructure modules.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Regulatory <br/> Compliance",
+        "paragraph": "RBI Authorized systems ensuring your platform remains compliant with the latest directives for identity verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Instant Payouts",
+      "description": "Send money to any bank account or UPI ID automatically via APIs or file upload for instant winner settlements.",
+      "pageLink": "/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard users by conducting instant background verifications with real-time biometric and document checks.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
