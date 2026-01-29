@@ -1,0 +1,162 @@
+{
+  "seo": {
+    "title": "Virtual Accounts for Insurance Premium Collection | Decentro",
+    "description": "Automate premium collection, streamline reconciliation, and enhance cash flow for your insurance business with Decentro's advanced virtual account solutions. Reduce operational overhead and improve customer experience.",
+    "ogTitle": "Automate Insurance Premium Collection with Virtual Accounts | Decentro"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Virtual Accounts for Insurance Premium Collection </span>",
+    "tagline": "One API layer for everything your insurance business needs to scale: automated collections, real-time reconciliation & enhanced cash flow",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gaming.svg",
+    "altText": "Virtual Accounts for Insurance Premium Collection",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "90%+",
+        "textLight": "Automated Reconciliation"
+      },
+      {
+        "textBold": "Days to Seconds",
+        "textLight": "Reconciliation Time"
+      },
+      {
+        "textBold": "20%+",
+        "textLight": "Increased On-time Collections"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Virtual Accounts</span>",
+    "tagline": "One Solution, Every Insurance Collection Need",
+    "items": [
+      {
+        "title": "Automated Premium Reconciliation",
+        "description": "Eliminate manual matching errors and accelerate month-end close processes by automatically linking incoming premium payments to specific policies and policyholders with unique virtual accounts.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Real-time Cash Flow & Visibility",
+        "description": "Gain instant visibility into collected premiums, enabling better cash flow forecasting, optimized investment strategies, and improved overall financial agility for insurers with real-time updates.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Scalable & Compliant Infrastructure",
+        "description": "Leverage an API-first platform designed to handle high volumes of transactions, ensuring regulatory compliance and seamless integration with existing insurance management systems for future growth.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to save time and <span className='header-section-highlighted'>streamline premium collection?</span>",
+    "ctaDescription": "Let us help you! It's as simple as it should be to integrate advanced payment solutions into your products and achieve operational excellence.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Life Insurance Premium Collection",
+        "headingBold": "",
+        "text": "Streamline recurring premium collections for life insurance policies, ensuring accurate reconciliation and timely policy status updates for enhanced customer trust and operational efficiency.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Life Insurance Premium Collection"
+      },
+      {
+        "headingLight": "General Insurance Policy Payments",
+        "headingBold": "",
+        "text": "Automate the collection of diverse general insurance premiums, from motor to home, simplifying payment processing and reducing operational overhead across various policy types and payment frequencies.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "General Insurance Policy Payments"
+      },
+      {
+        "headingLight": "Health Insurance Premium Management",
+        "headingBold": "",
+        "text": "Efficiently manage health insurance premium payments, enabling quick policy activation and seamless renewals while providing clear audit trails for compliance and improved policyholder experience.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Health Insurance Premium Management"
+      },
+      {
+        "headingLight": "Broker & Agency Commission Reconciliation",
+        "headingBold": "",
+        "text": "Simplify the complex reconciliation of premiums collected by brokers and agents, ensuring accurate commission payouts and transparent financial reporting for all involved parties.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Broker & Agency Commission Reconciliation"
+      },
+      {
+        "headingLight": "Microinsurance & Recurring Payments",
+        "headingBold": "",
+        "text": "Facilitate high-volume, low-value premium collections for microinsurance products, supporting automated recurring payments and reducing administrative burden for widespread accessibility.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Microinsurance & Recurring Payments"
+      },
+      {
+        "headingLight": "International Premium Collections",
+        "headingBold": "",
+        "text": "Manage premium collections from global policyholders with multi-currency virtual accounts, simplifying cross-border transactions and reconciliation for international insurers and diverse markets.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "International Premium Collections"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Massive <br/> Processing Volume",
+        "paragraph": "10M+ Premium Collections Processed with high precision and near-zero downtime, ensuring reliable revenue streams for insurers.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Substantial <br/> Transaction Value",
+        "paragraph": "₹70+ Crore Premium Value successfully processed for our insurance partners, demonstrating robust handling of significant financial flows.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "High-Frequency <br/>Operations",
+        "paragraph": "27K Daily Premium Reconciliations handled with automated high-throughput APIs, ensuring real-time accuracy and operational efficiency.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Accelerated <br/>Time-to-Market",
+        "paragraph": "10X Faster Launch compared to traditional banking integrations and legacy systems, accelerating time-to-market for new insurance products.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Enterprise-Grade <br/>Reliability",
+        "paragraph": "99.9% Uptime SLA for critical premium collection and payment infrastructure modules, guaranteeing uninterrupted service for policyholders.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Regulatory <br/> Compliance",
+        "paragraph": "RBI Authorized systems ensuring your insurance platform remains compliant with the latest directives and regulatory standards.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Instant Payouts",
+      "description": "Facilitate instant claims payouts and policy refunds to any bank account or UPI ID automatically via APIs, enhancing customer satisfaction and operational speed.",
+      "pageLink": "/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard policyholders by conducting instant background verifications with real-time biometric and document checks, ensuring compliance and reducing drop-offs.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
