@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching API | Sound-Based Identity Verification",
+    "description": "Accurately identify individuals by matching names based on sound, tolerating spelling variations and regional differences for enhanced KYC and fraud prevention.",
+    "ogTitle": "Phonetic Name Matching API | Sound-Based Identity Verification"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching API</span>",
+    "tagline": "Accurate Identity Verification Beyond Exact Spelling",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Risk%20Score.svg",
+    "altText": "Phonetic Name Matching API for identity verification",
+    "DBackground": true
+  },
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "Phonetic Name Matching?",
+    "text": "The Decentro Farsight Data Forensics - Phonetic Name Matching API offers a robust solution to accurately identify individuals by matching names based on their sound, even amidst spelling variations, errors, or regional differences. This API addresses the critical challenge of identity verification where exact textual matches are frequently unreliable, ensuring precise identification across diverse datasets.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "How Phonetic Matching Works.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Phonetic Encoding",
+        "description": "Utilizes sophisticated algorithms to convert diverse names into standardized phonetic representations, enabling robust comparisons based on sound rather than exact character sequences."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Similarity Scoring",
+        "description": "Generates a precise similarity score (0-100) between two phonetically encoded names, quantifying the likelihood of a match and providing a clear metric for decision-making."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Adaptive Matching",
+        "description": "Effectively handles common typos, misspellings, abbreviations, and regional phonetic differences. Users can define custom match score thresholds to align with specific risk appetites and use cases."
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Advanced <br/>Phonetic Algorithms",
+        "paragraph": "Converts names into phonetic representations, enabling accurate comparisons based on sound rather than exact spelling, overcoming textual discrepancies.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "Precise <br/>Match Scoring",
+        "paragraph": "Provides a granular similarity score (0-100) between two names, indicating the exact likelihood of a phonetic match for informed decision-making.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Variation <br/>Tolerance",
+        "paragraph": "Intelligently handles common typos, misspellings, abbreviations, and regional phonetic differences, ensuring high accuracy in diverse data sets.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Real-time <br/>Processing",
+        "paragraph": "Offers instant name matching capabilities, critical for dynamic KYC, onboarding, and fraud detection workflows requiring immediate verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Customizable <br/>Thresholds",
+        "paragraph": "Allows users to define their own acceptable match score thresholds, tailoring sensitivity to specific risk appetites and operational use cases.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Scalable & <br/>Reliable",
+        "paragraph": "Built to handle high volumes of requests with consistent performance and availability, ensuring critical operations are never interrupted.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Global Identity Verification API",
+      "description": "Comprehensive identity verification services, often including fuzzy name matching and data cross-referencing for global compliance.",
+      "pageLink": "/api-hub/global-identity-verification-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "AML & Watchlist Screening API",
+      "description": "Automated screening against global watchlists and sanctions lists, leveraging advanced name matching to detect high-risk entities.",
+      "pageLink": "/api-hub/aml-watchlist-screening-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
