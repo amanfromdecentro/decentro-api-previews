@@ -99,9 +99,9 @@
   },
   "textAndButtonBannerTransparent": {
     "text": "",
-    "ctaButtonText": "Explore UPI Collections",
+    "ctaButtonText": "Explore QR Collections",
     "newTab": false,
-    "ctaButtonLink": "/products/upi-collections/"
+    "ctaButtonLink": "https://docs.decentro.tech/reference/payments_api-collectionsv3-dynamicqr"
   },
   "headingAndItems": {
     "headingBold": "Methodology",
@@ -109,17 +109,17 @@
     "tagline": "",
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/QR%20(1).svg",
         "title": "Generate QR Code",
         "description": "Generate a dynamic QR code via APIs or dashboard for your business, tailored for specific transactions or general use."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/QR%20header.svg",
         "title": "Customer Scans & Pays",
         "description": "Customers scan the QR using any UPI app and authorize payment securely via MPIN, ensuring a smooth process."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Bank%20(1).svg",
         "title": "Instant Credit & Track",
         "description": "Payments are instantly credited to your bank account with real-time tracking and confirmation for complete visibility."
       }
@@ -131,12 +131,12 @@
     "headingStyleThemeBlue": false,
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/payment-in.svg",
         "title": "Instant<br/>Collections",
         "description": "Accept payments in seconds via UPI QR codes with real-time confirmation and direct bank settlement, boosting cash flow."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Reduced%20Cost.svg",
         "title": "Lower<br/>Operational Overhead",
         "description": "Eliminate POS machines, cash handling, and manual reconciliation with efficient QR-based digital collections."
       },
@@ -146,7 +146,7 @@
         "description": "Reduce payment friction with scan-and-pay flows that customers already trust and use daily, improving experience."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RealTimeAnalytics.svg",
         "title": "Improved<br/>Visibility & Control",
         "description": "Track every transaction in real time with unique references, automated reconciliation, and clear audit trails."
       }
@@ -197,7 +197,7 @@
       {
         "headingLight": "Reduce Integration Complexity",
         "text": "Eliminate fragmented payment setups with a single, UPI-native QR collection flow that works across channels and use cases.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/CKYC%20Upload-LegalEntities.svg"
       },
       {
         "headingLight": "Accelerate Market Entry",
@@ -207,12 +207,12 @@
       {
         "headingLight": "Improve Cash Flow Visibility",
         "text": "Track every QR payment in real time with instant confirmations, unique references, and automated reconciliation.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Investments%20(2).svg"
       },
       {
         "headingLight": "Scale Collections Without Friction",
         "text": "Generate unlimited static or dynamic QR codes as your volumes grow, without adding operational or technical overhead.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Identify%20fraud%20(4).svg"
       },
       {
         "headingLight": "Enhance Payment Reliability",
@@ -233,24 +233,24 @@
       {
         "heading": "UPI-Native Compatibility",
         "paragraph": "Works seamlessly with all major UPI apps used by customers, ensuring broad acceptance.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(7).svg"
       },
       {
         "heading": "Real-Time Payment Tracking",
         "paragraph": "Instant confirmation and transaction visibility via APIs and dashboards for complete control.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20Data%20(2).svg"
       }
     ],
     "block1extra": [
       {
         "heading": "Automated Reconciliation",
         "paragraph": "Each payment is tagged with unique identifiers to simplify accounting and reduce manual effort.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(2).svg"
       },
       {
         "heading": "No Hardware Dependency",
         "paragraph": "Eliminates the need for POS machines, terminals, or associated maintenance costs.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(8).svg"
       },
       {
         "heading": "High Success Rates",
@@ -263,32 +263,32 @@
     "heading": "Where You Can Use It",
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20SME.svg",
         "title": "In-Store Payments",
         "description": "Display QR codes at counters for quick, touch-free checkout, enhancing customer experience."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/subscription.svg",
         "title": "Online & COD Payments",
         "description": "Replace cash-on-delivery with QR-based UPI payments at checkout or doorstep for convenience."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecom-Platform.svg",
         "title": "Marketplaces & Platforms",
         "description": "Generate dynamic QR codes per order, merchant, or transaction for seamless operations."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Field%20Agent.svg",
         "title": "Field Collections & On-Ground Sales",
         "description": "Enable agents to collect payments instantly using mobile-generated QR codes on the go."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate%20(3).svg",
         "title": "Events, Services & Subscriptions",
         "description": "Accept on-the-spot payments for bookings, renewals, and services with ease."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(2).svg",
         "title": "Invoices & B2B Collections",
         "description": "Embed QR codes on digital or printed invoices to enable faster UPI payments and reduce follow-ups."
       }
