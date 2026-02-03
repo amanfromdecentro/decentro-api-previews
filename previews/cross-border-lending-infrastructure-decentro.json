@@ -1,0 +1,163 @@
+{
+  "seo": {
+    "title": "Cross-Border Lending Infrastructure | Decentro",
+    "description": "Disburse, Collect, Reconcile & Manage Loans Across Countries, Currencies & Borrower Markets.",
+    "ogTitle": "Scale Global Lending: Disburse, Collect & Reconcile Across 170+ Countries with Decentro."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Cross-Border Lending Infrastructure</span>",
+    "tagline": "Disburse, Collect, Reconcile & Manage Loans Across Countries, Currencies & Borrower Markets.",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Cross-Border.svg",
+    "altText": "Cross-Border Lending Infrastructure",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Countries Supported",
+        "numberElement": "170+"
+      },
+      {
+        "textBold": "30+",
+        "textLight": "Currencies Managed"
+      },
+      {
+        "textBold": "90%",
+        "textLight": "Ops Effort Reduction"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "Built for Global Lending at Scale — Across Borders, Banks & Borrowers",
+    "items": [
+      {
+        "title": "Unified Global Loan Disbursements",
+        "description": "Disburse loans to borrowers across 170+ countries using local and international rails. Support instant, scheduled, and milestone-based disbursements with full visibility.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Loan.svg"
+      },
+      {
+        "title": "Multi-Currency Lending Wallets",
+        "description": "Hold, convert, and manage 30+ currencies in a single treasury layer. Optimise FX timing and eliminate the need for multiple foreign bank accounts.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/LoanProcessing.svg"
+      },
+      {
+        "title": "Automated Repayments & Collections",
+        "description": "Collect EMIs, bullet repayments, interest, and fees via local payment methods, auto-debits, and global rails, all mapped directly to loan accounts.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/LoanRepayments.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to <span className='header-section-highlighted'>Scale Your Cross-Border Lending Operations?</span>",
+    "ctaDescription": "Decentro enables lenders, fintechs, and credit platforms to run global lending programs with speed, compliance, and control.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Global Digital Lending Platforms",
+        "headingBold": "",
+        "text": "Launch and scale lending products across geographies with localised disbursements, repayment rails, FX handling, and centralised treasury control.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Working%20Capital.svg",
+        "altText": "Global Digital Lending Platforms"
+      },
+      {
+        "headingLight": "Cross-Border SME & Trade Finance",
+        "headingBold": "",
+        "text": "Enable working capital loans, invoice financing, and trade-linked credit with milestone-based disbursements and repayment automation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Invoice%20Financing.svg",
+        "altText": "Cross-Border SME & Trade Finance"
+      },
+      {
+        "headingLight": "BNPL & Embedded Credit Providers",
+        "headingBold": "",
+        "text": "Offer cross-border BNPL and short-term credit for global commerce with seamless borrower collections and merchant settlements.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Advances.svg",
+        "altText": "BNPL & Embedded Credit Providers"
+      },
+      {
+        "headingLight": "Remittance-Backed & Diaspora Lending",
+        "headingBold": "",
+        "text": "Support diaspora-focused lending products that span multiple countries and currencies, serving borrowers and repayment sources across different regions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gov.svg",
+        "altText": "Remittance-Backed & Diaspora Lending"
+      },
+      {
+        "headingLight": "Education & Study-Abroad Financing",
+        "headingBold": "",
+        "text": "Disburse tuition and living expense loans globally while collecting repayments from borrowers or sponsors across regions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Education.svg",
+        "altText": "Education & Study-Abroad Financing"
+      },
+      {
+        "headingLight": "Marketplace & Seller Financing",
+        "headingBold": "",
+        "text": "Power seller and merchant financing for global marketplaces with automated loan disbursements, sales-linked repayments, commission net-offs, and real-time reconciliation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Services.svg",
+        "altText": "Marketplace & Seller Financing"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Global <br/> Lending Rails",
+        "paragraph": "Disburse and collect across 170+ countries using a single API that covers banks, wallets, and local payment methods.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gov.svg"
+      },
+      {
+        "heading": "Multi-Currency <br/> Efficiency",
+        "paragraph": "Hold and convert 30+ currencies, reduce FX leakage, and maintain predictable repayment and settlement cycles.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/multi-currency.svg"
+      },
+      {
+        "heading": "Optimised Capital <br/> Utilisation",
+        "paragraph": "Faster disbursements, automated collections, and real-time visibility into outstanding principal and repayments.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/MoneyFetching.svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "End-to-End <br/> Loan Automation",
+        "paragraph": "From disbursement to final repayment, every transaction is linked to loan logic, schedules, and borrower profiles.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated.svg"
+      },
+      {
+        "heading": "Intelligent <br/> Reconciliation",
+        "paragraph": "Auto-map payments to loan IDs, EMIs, interest components, fees, and penalties, thereby reducing ops effort by up to 90%.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202099%20%E2%80%93%201.svg"
+      },
+      {
+        "heading": "Reliable, Predictable <br/> Settlements",
+        "paragraph": "Multi-bank, multi-rail architecture ensures high uptime and consistent lending operations even during outages.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Global Payment Collections",
+      "description": "Collect EMIs, bullet repayments, interest, and fees via local payment methods, auto-debits, and global rails, all mapped directly to loan accounts.",
+      "pageLink": "https://decentro.tech/global/products/global-payment-collection",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/GlobalCollections.svg"
+    },
+    {
+      "title": "Instant Payouts",
+      "description": "Disburse loans to borrowers across 170+ countries using local and international rails. Support instant, scheduled, and milestone-based disbursements with full visibility.",
+      "pageLink": "https://decentro.tech/global/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/InstantPayouts.svg"
+    }
+  ]
+}
