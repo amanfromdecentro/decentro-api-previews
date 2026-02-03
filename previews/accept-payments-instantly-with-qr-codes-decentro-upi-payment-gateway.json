@@ -7,9 +7,9 @@
   "productBanner": {
     "heading": "<span class='highlighted-heading'>QR Code Payments</span>",
     "tagline": "Accept Payments Instantly With QR Codes",
-    "buttonText": "Talk to an Expert",
+    "buttonText": "Explore Now",
     "newTab": false,
-    "buttonLink": "/contact-us/",
+    "buttonLink": "https://decentro.tech/signup",
     "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/QR%20header.svg",
     "altText": "UPI QR Code Payments for business",
     "DBackground": true
@@ -330,8 +330,8 @@
     "textInBoxList": [
       {
         "textInBox": "Ready to Accept Payments via QR Codes?",
-        "linkText": "Talk to an Expert",
-        "link": "/contact-us/"
+        "linkText": "API Documentation",
+        "link": "https://docs.decentro.tech/reference/payments_api-collectionsv3-dynamicqr"
       }
     ]
   },
