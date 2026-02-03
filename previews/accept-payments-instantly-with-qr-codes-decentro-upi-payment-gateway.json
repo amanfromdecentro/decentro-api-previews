@@ -1,0 +1,362 @@
+{
+  "seo": {
+    "title": "Accept Payments Instantly With QR Codes | Decentro UPI Payment Gateway",
+    "description": "Collect UPI payments anywhere with Decentro’s UPI Payment Gateway. Generate dynamic QR codes for instant, secure, and real-time tracked payments.",
+    "ogTitle": "Accept Payments Instantly With QR Codes | Decentro UPI Payment Gateway"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>QR Code Payments</span>",
+    "tagline": "Accept Payments Instantly With QR Codes",
+    "buttonText": "Talk to an Expert",
+    "newTab": false,
+    "buttonLink": "/contact-us/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/UPI%20Autopay.svg",
+    "altText": "UPI QR Code Payments for business",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What is a QR Code for Payments?",
+      "id": "whatIsQrCode"
+    },
+    {
+      "text": "Why QR Codes are Preferred?",
+      "id": "whyQrPreferred"
+    },
+    {
+      "text": "Methodology",
+      "id": "methodologySection"
+    },
+    {
+      "text": "How QR Code Collections Help Your Business",
+      "id": "howHelpBusiness"
+    },
+    {
+      "text": "Leveraging QR Code Payments",
+      "id": "leveragingQrPayments"
+    },
+    {
+      "text": "Key Features",
+      "id": "keyFeatures"
+    },
+    {
+      "text": "Where You Can Use It",
+      "id": "whereToUse"
+    },
+    {
+      "text": "How Can Decentro Help?",
+      "id": "howDecentroHelp"
+    },
+    {
+      "text": "Ready to Accept Payments?",
+      "id": "readyToAccept"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "id": "commonlyAskedQuestions"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What is a ",
+    "headingBold": "QR Code for Payments?",
+    "text": "A QR code for payments is a scannable code that lets customers make instant digital payments using any UPI-enabled app. Instead of entering bank details or handling cash, users simply scan the QR code, confirm the amount, and complete the payment.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(4).svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Why QR Codes are the",
+    "headingBold": "Preferred Payment Method",
+    "text": "QR codes have become the preferred payment method across India because they are fast and contactless, compatible with all major UPI apps, and easy to deploy across online and offline use cases. For businesses, QR codes eliminate hardware dependency while offering real-time payment visibility and reconciliation.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
+    "subheadings": [
+      {
+        "title": "QR codes are preferred due to their:"
+      },
+      {
+        "title": "Customer Convenience",
+        "bulletPoints": [
+          "Fast and contactless payment experience.",
+          "Compatible with all major UPI apps."
+        ]
+      },
+      {
+        "title": "Operational Efficiency",
+        "bulletPoints": [
+          "Easy to deploy across online and offline use cases.",
+          "Eliminates hardware dependency for businesses."
+        ]
+      }
+    ]
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "Decentro’s UPI Payment Gateway enables instant collections, eliminating hardware dependency while offering real-time payment visibility and reconciliation.",
+    "boldText": [
+      "Instant Collections",
+      "Real-time Tracking",
+      "3 Simple Steps",
+      "Unlimited QR"
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "Explore UPI Collections",
+    "newTab": false,
+    "ctaButtonLink": "/products/upi-collections/"
+  },
+  "headingAndItems": {
+    "headingBold": "Methodology",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Generate QR Code",
+        "description": "Generate a dynamic QR code via APIs or dashboard for your business, tailored for specific transactions or general use."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Customer Scans & Pays",
+        "description": "Customers scan the QR using any UPI app and authorize payment securely via MPIN, ensuring a smooth process."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Instant Credit & Track",
+        "description": "Payments are instantly credited to your bank account with real-time tracking and confirmation for complete visibility."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "How Can UPI QR Code Collections <span class='highlighted-subsection-header'>Help Your Business</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Instant<br/>Collections",
+        "description": "Accept payments in seconds via UPI QR codes with real-time confirmation and direct bank settlement, boosting cash flow."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Lower<br/>Operational Overhead",
+        "description": "Eliminate POS machines, cash handling, and manual reconciliation with efficient QR-based digital collections."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "Faster Checkout,<br/>Higher Conversions",
+        "description": "Reduce payment friction with scan-and-pay flows that customers already trust and use daily, improving experience."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Improved<br/>Visibility & Control",
+        "description": "Track every transaction in real time with unique references, automated reconciliation, and clear audit trails."
+      }
+    ]
+  },
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>QR Code Types</span>",
+    "subheading": "Explore the Two QR Code Variants Available",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Static <br/>QR Codes",
+        "list": [
+          {
+            "text": "Reusable for multiple payments, ideal for fixed amounts or general collections."
+          },
+          {
+            "text": "Easy to display at physical locations like counters or storefronts."
+          },
+          {
+            "text": "Simple to generate and deploy without complex integration."
+          }
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Dynamic <br/>QR Codes",
+        "list": [
+          {
+            "text": "Generated per transaction with specific amount and reference for accuracy."
+          },
+          {
+            "text": "Enables automated reconciliation and real-time tracking for each payment."
+          },
+          {
+            "text": "Ideal for online checkouts, marketplaces, and field collections."
+          }
+        ]
+      }
+    ]
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Can Your Business Leverage",
+      "bold": "QR Code Payments"
+    },
+    "data": [
+      {
+        "headingLight": "Reduce Integration Complexity",
+        "text": "Eliminate fragmented payment setups with a single, UPI-native QR collection flow that works across channels and use cases.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg"
+      },
+      {
+        "headingLight": "Accelerate Market Entry",
+        "text": "Launch QR-based payment acceptance faster using ready infrastructure. No hardware, no lengthy bank integrations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg"
+      },
+      {
+        "headingLight": "Improve Cash Flow Visibility",
+        "text": "Track every QR payment in real time with instant confirmations, unique references, and automated reconciliation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg"
+      },
+      {
+        "headingLight": "Scale Collections Without Friction",
+        "text": "Generate unlimited static or dynamic QR codes as your volumes grow, without adding operational or technical overhead.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg"
+      },
+      {
+        "headingLight": "Enhance Payment Reliability",
+        "text": "Leverage UPI’s always-on infrastructure to ensure consistent payment acceptance with high success rates. Even during peak volumes.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Unlimited QR Code Generation",
+        "paragraph": "Create static or dynamic QR codes on demand without any usage caps, supporting all business scales.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "UPI-Native Compatibility",
+        "paragraph": "Works seamlessly with all major UPI apps used by customers, ensuring broad acceptance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Real-Time Payment Tracking",
+        "paragraph": "Instant confirmation and transaction visibility via APIs and dashboards for complete control.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Automated Reconciliation",
+        "paragraph": "Each payment is tagged with unique identifiers to simplify accounting and reduce manual effort.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "No Hardware Dependency",
+        "paragraph": "Eliminates the need for POS machines, terminals, or associated maintenance costs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "High Success Rates",
+        "paragraph": "Optimized routing ensures reliable collections even at scale, minimizing failed transactions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can Use It",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "In-Store Payments",
+        "description": "Display QR codes at counters for quick, touch-free checkout, enhancing customer experience."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "Online & COD Payments",
+        "description": "Replace cash-on-delivery with QR-based UPI payments at checkout or doorstep for convenience."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "Marketplaces & Platforms",
+        "description": "Generate dynamic QR codes per order, merchant, or transaction for seamless operations."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "Field Collections & On-Ground Sales",
+        "description": "Enable agents to collect payments instantly using mobile-generated QR codes on the go."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "Events, Services & Subscriptions",
+        "description": "Accept on-the-spot payments for bookings, renewals, and services with ease."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "Invoices & B2B Collections",
+        "description": "Embed QR codes on digital or printed invoices to enable faster UPI payments and reduce follow-ups."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "QR Code Payments for Your Business",
+    "headingBold": " – How Can Decentro Help?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Decentro QR-Based Collections?",
+    "subheadings": false,
+    "lineHeight": "440px",
+    "bulletPoints": [
+      {
+        "text": "API-first QR code generation for seamless integration into existing systems."
+      },
+      {
+        "text": "Dynamic QR flows for accurate, automated reconciliation and tracking."
+      },
+      {
+        "text": "Designed for platforms, SaaS, marketplaces, and enterprises requiring scale."
+      },
+      {
+        "text": "Faster go-live with minimal operational complexity and setup time."
+      },
+      {
+        "text": "Multi-bank infrastructure to ensure high availability and transaction success."
+      },
+      {
+        "text": "Unified UPI Collections and Payment Gateway for comprehensive solutions."
+      },
+      {
+        "text": "Built-in speed, reliability, and compliance for secure transactions."
+      },
+      {
+        "text": "Enterprise-grade reliability and real-time visibility for all payments."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Ready to Accept Payments via QR Codes?",
+        "linkText": "Talk to an Expert",
+        "link": "/contact-us/"
+      }
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "What is a QR code generator?",
+      "solution": "A QR code generator creates scannable codes that customers can use to initiate UPI payments securely and instantly."
+    },
+    {
+      "query": "Is there any hardware required to accept QR payments?",
+      "solution": "No. QR codes eliminate the need for POS machines or card terminals, reducing operational costs and complexity."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "UPI Collections",
+      "description": "Streamline your UPI payment acceptance with Decentro's robust and scalable collections infrastructure.",
+      "pageLink": "/products/upi-collections/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Payment Gateway",
+      "description": "Integrate a comprehensive payment gateway for all your online and offline transaction needs.",
+      "pageLink": "/products/payment-gateway/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
