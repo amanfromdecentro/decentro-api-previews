@@ -10,7 +10,7 @@
     "buttonText": "Explore Solutions",
     "newTab": false,
     "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg",
     "altText": "Global Payments for B2B eCommerce",
     "DBackground": true,
     "metrics": true,
@@ -36,17 +36,17 @@
       {
         "title": "Unified Global Collections",
         "description": "Accept payments from over 170 countries using global and local rails, collecting in multiple currencies and settling into a single ledger with simplified compliance.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/International%20cooperation-rafiki.svg"
       },
       {
         "title": "Multi-Currency Trade Wallets",
         "description": "Hold and manage 30+ currencies in a single wallet, allowing for strategic currency conversion and seamless payouts to global partners without needing multiple foreign accounts.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency-rafiki.svg"
       },
       {
         "title": "Automated Trade Workflows",
         "description": "Automate order-to-cash and P2P processes by triggering payments based on purchase orders, shipment updates, delivery checks, credit periods, and invoices.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20extraction-rafiki.svg"
       }
     ]
   },
@@ -66,42 +66,42 @@
         "headingLight": "B2B Marketplaces & Trade Platforms",
         "headingBold": "",
         "text": "Facilitate global supplier onboarding, escrow-style settlements, multi-currency acceptance, commission deductions, credit terms, and automated payouts for complex marketplace operations.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
         "altText": "B2B Marketplaces & Trade Platforms"
       },
       {
         "headingLight": "Wholesale & Distribution Platforms",
         "headingBold": "",
         "text": "Manage high-value, recurring orders with real-time FX handling, PO-linked payments, partial settlements, and bulk vendor disbursements across international supply chains.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
         "altText": "Wholesale & Distribution Platforms"
       },
       {
         "headingLight": "Manufacturing & Industrial Supply Chains",
         "headingBold": "",
         "text": "Handle international trade cycles with milestone-based payments (production, shipment, delivery), multi-currency cash positions, and custom financing integrations.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
         "altText": "Manufacturing & Industrial Supply Chains"
       },
       {
         "headingLight": "Cross-Border Procurement Platforms",
         "headingBold": "",
         "text": "Enable global sourcing with local payment options, automated invoice matching, credit line-based settlements, and FX optimization for efficient procurement.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.altText",
         "altText": "Cross-Border Procurement Platforms"
       },
       {
         "headingLight": "Freight, Logistics & Customs Payments",
         "headingBold": "",
         "text": "Automate payments to logistics partners, freight companies, and customs brokers based on order and shipment status, streamlining global trade operations.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
         "altText": "Freight, Logistics & Customs Payments"
       },
       {
         "headingLight": "High-Value SaaS + B2B Subscription Commerce",
         "headingBold": "",
         "text": "Support usage-based billing, renewals, invoice-based collections, and real-time reconciliation across currencies and countries for global B2B SaaS models.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
         "altText": "High-Value SaaS + B2B Subscription Commerce"
       }
     ]
@@ -112,50 +112,50 @@
     "tagline": "",
     "block1": [
       {
-        "heading": "Global <br/> Transaction Volume",
-        "paragraph": "Millions of cross-border transactions processed annually, ensuring seamless money movement for B2B enterprises.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+        "heading": "Global Payment <br/> Rails",
+        "paragraph": "Accept and pay out across 170+ countries with a single API. Ideal for marketplaces, export platforms, wholesale networks, and manufacturing ecosystems.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/global.svg"
       },
       {
-        "heading": "Optimized <br/> FX Savings",
-        "paragraph": "Significant reduction in foreign exchange conversion costs through intelligent timing and competitive rates.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+        "heading": "Multi-Currency <br/> Efficiency",
+        "paragraph": "Store and convert funds in 30+ currencies, optimize FX timing, reduce conversion costs, and provide predictable settlement cycles for supply chains.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204240%20%E2%80%93%206.svg"
       },
       {
-        "heading": "Rapid <br/> Settlement Cycles",
-        "paragraph": "Same-day settlements to suppliers and partners in major markets, enhancing operational liquidity and trust.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+        "heading": "Optimised Working <br/> Capital",
+        "paragraph": "Automated credit period tracking, faster receivables, and real-time cash visibility help enterprises maintain operational liquidity globally.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204241%20%E2%80%93%201.svg"
       }
     ],
     "block1extra": [
       {
-        "heading": "Accelerated <br/> Receivables",
-        "paragraph": "Faster collection of funds from international buyers, improving working capital and cash flow visibility.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+        "heading": "End-to-End Trade <br/> Automation",
+        "paragraph": "From PO creation to supplier payout, every payment event ties back to commerce logic, reducing manual errors and operational overhead.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/automation.svg"
       },
       {
-        "heading": "Enterprise-Grade <br/> Security",
-        "paragraph": "Robust security protocols and global compliance standards protecting every cross-border transaction.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+        "heading": "Intelligent <br/> Reconciliation",
+        "paragraph": "Auto-match all payments to invoices, POs, shipment IDs, supplier accounts, and logistics events, thereby reducing manual work by up to 90%.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data.svg"
       },
       {
-        "heading": "Multi-Rail <br/> Redundancy",
-        "paragraph": "Resilient infrastructure with multi-bank and multi-rail support, ensuring uninterrupted payment processing.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+        "heading": "Faster, Predictable <br/> Global Settlements",
+        "paragraph": "Provide same-day settlements to suppliers and partners in major markets with multi-rail, multi-bank redundancy.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/settlement.svg"
       }
     ]
   },
   "recommendedPages": [
     {
-      "title": "Instant Payouts",
-      "description": "Automate high-value, recurring payouts to global suppliers and partners with real-time tracking and predictable settlement cycles.",
-      "pageLink": "/products/instant-payouts",
+      "title": "Global Collections",
+      "description": "Accept payments from 170+ countries using global and local rails, settling into a single ledger with simplified compliance.",
+      "pageLink": "/products/global-collections",
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
     },
     {
-      "title": "KYC & Onboarding",
-      "description": "Streamline global supplier and buyer onboarding with automated identity verification and compliance checks across multiple jurisdictions.",
-      "pageLink": "/products/kyc-onboarding",
+      "title": "Supplier Payouts",
+      "description": "Pay suppliers, manufacturers, and logistics partners across 170+ countries without opening foreign accounts, with multi-currency efficiency.",
+      "pageLink": "/products/supplier-payouts",
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
     }
   ]
