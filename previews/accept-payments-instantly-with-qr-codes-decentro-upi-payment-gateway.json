@@ -101,7 +101,7 @@
     "text": "",
     "ctaButtonText": "Explore QR Collections",
     "newTab": false,
-    "ctaButtonLink": "https://docs.decentro.tech/reference/payments_api-collectionsv3-dynamicqr"
+    "ctaButtonLink": "https://docs.decentro.tech/docs/payments-collections-v3#generate-dynamic-qr-code"
   },
   "headingAndItems": {
     "headingBold": "Methodology",
@@ -114,7 +114,7 @@
         "description": "Generate a dynamic QR code via APIs or dashboard for your business, tailored for specific transactions or general use."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/QR%20header.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/scan.svg",
         "title": "Customer Scans & Pays",
         "description": "Customers scan the QR using any UPI app and authorize payment securely via MPIN, ensuring a smooth process."
       },
@@ -349,13 +349,13 @@
     {
       "title": "UPI Collections",
       "description": "Streamline your UPI payment acceptance with Decentro's robust and scalable collections infrastructure.",
-      "pageLink": "/products/upi-collections/",
+      "pageLink": "/products/virtual-accounts",
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
     },
     {
       "title": "Payment Gateway",
       "description": "Integrate a comprehensive payment gateway for all your online and offline transaction needs.",
-      "pageLink": "/products/payment-gateway/",
+      "pageLink": "/products/upi-payment-gateway",
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
     }
   ]
