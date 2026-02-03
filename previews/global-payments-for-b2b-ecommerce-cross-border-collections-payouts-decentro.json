@@ -16,16 +16,19 @@
     "metrics": true,
     "metricList": [
       {
-        "textBold": "170+",
-        "textLight": "Countries Supported"
+        "textBold": "",
+        "textLight": "Countries Supported",
+        "numberElement": "170+"
       },
       {
-        "textBold": "30+",
-        "textLight": "Currencies Managed"
+        "textBold": "",
+        "textLight": "Currencies Managed",
+        "numberElement": "30+"
       },
       {
-        "textBold": "90%",
-        "textLight": "Reduced Manual Work"
+        "textBold": "",
+        "textLight": "Reduced Manual Work",
+        "numberElement": "90%"
       }
     ]
   },
@@ -87,7 +90,7 @@
         "headingLight": "Cross-Border Procurement Platforms",
         "headingBold": "",
         "text": "Enable global sourcing with local payment options, automated invoice matching, credit line-based settlements, and FX optimization for efficient procurement.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.altText",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
         "altText": "Cross-Border Procurement Platforms"
       },
       {
