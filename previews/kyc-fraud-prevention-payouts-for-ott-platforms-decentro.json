@@ -1,0 +1,163 @@
+{
+  "seo": {
+    "title": "KYC, Fraud Prevention & Payouts for OTT Platforms | Decentro",
+    "description": "Verify subscribers, prevent fraud, and automate creator payouts with APIs built for high-frequency OTT transactions.",
+    "ogTitle": "Get KYC, fraud prevention & payouts in one API stack with Decentro. Go live in days across OTT platforms, streaming & digital media."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>KYC, Fraud Detection & Payout APIs for OTT Platforms </span>",
+    "tagline": "One API layer for everything: Subscriber Verification, Fraud Prevention, Creator Payouts & Compliance.",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/OTT.svg",
+    "altText": "KYC, Fraud Detection & Payout APIs for OTT Platforms",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Verification & Payout Events",
+        "numberElement": "Millions+"
+      },
+      {
+        "textBold": "99.9%",
+        "textLight": "Uptime for Streaming Events"
+      },
+      {
+        "textBold": "Weeks",
+        "textLight": "Time to Go Live"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "One Platform, Every OTT Need",
+    "items": [
+      {
+        "title": "Subscriber KYC & Identity Verification APIs",
+        "description": "Streamline subscriber verification with our automated KYC solutions for OTT platforms, reducing fake accounts and ensuring compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Creator, Studio & Partner Payout APIs",
+        "description": "Automate revenue-sharing payouts to creators, studios, and partners with verified onboarding, built-in reconciliation, and comprehensive audit trails for compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Account Sharing & Fraud Detection APIs",
+        "description": "Detect fraudulent transactions, prevent account sharing abuse, and reduce chargebacks with real-time behavioural and identity fraud signals.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to save time and <span className='header-section-highlighted'>launch 10X faster?</span>",
+    "ctaDescription": "Let us help you! It's as simple as it should be to integrate banking into your products.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Subscriber Onboarding & Verification",
+        "headingBold": "",
+        "text": "Verify users during signup and high-value actions to prevent fake accounts, misuse, and payment abuse, ensuring a secure and compliant subscriber base for your platform.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Subscriber Onboarding & Verification"
+      },
+      {
+        "headingLight": "Subscription & Pay-Per-View Platforms",
+        "headingBold": "",
+        "text": "Detect fraudulent transactions, reduce chargebacks, and ensure compliant subscriber onboarding for subscription and pay-per-view models, protecting your revenue and user trust.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Subscription & Pay-Per-View Platforms"
+      },
+      {
+        "headingLight": "Creator & Studio Payouts",
+        "headingBold": "",
+        "text": "Automate revenue-sharing payouts to creators, studios, and partners with verified onboarding, built-in reconciliation, and comprehensive audit trails for full transparency and compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Creator & Studio Payouts"
+      },
+      {
+        "headingLight": "Live Streaming & Events Platforms",
+        "headingBold": "",
+        "text": "Enable secure creator onboarding, real-time fraud checks, and automated settlements for live streaming and events platforms, ensuring smooth operations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Live Streaming & Events Platforms"
+      },
+      {
+        "headingLight": "Ad-Supported OTT Platforms",
+        "headingBold": "",
+        "text": "Verify publishers, prevent impression fraud, and automate payouts to content partners for ad-supported OTT platforms, optimizing ad revenue and trust.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Ad-Supported OTT Platforms"
+      },
+      {
+        "headingLight": "Global OTT Expansion",
+        "headingBold": "",
+        "text": "Support compliant onboarding and payouts across regions with scalable verification workflows, enabling seamless global OTT expansion and market entry.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "Global OTT Expansion"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "High-Frequency <br/> Transactions",
+        "paragraph": "Millions of verification and payout events processed monthly with high precision and speed.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Automated Revenue <br/> Distribution",
+        "paragraph": "Accurate creator and studio payouts with reconciliation, audit trails, and compliance controls.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Subscriber Fraud <br/> Prevention",
+        "paragraph": "Reduced fake accounts, payment abuse, and account misuse, protecting your platform and users.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Fast <br/> Integrations",
+        "paragraph": "Go live in weeks with API-first architecture, significantly reducing your time-to-market.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Reliable <br/> Infrastructure",
+        "paragraph": "99.9% uptime supporting peak streaming events without latency or verification failures.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Compliance & <br/> Audit Trails",
+        "paragraph": "Ensure compliant subscriber onboarding and payouts across regions with built-in audit trails.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Instant Payouts",
+      "description": "Send money to any bank account or UPI ID automatically via APIs or file upload for instant winner settlements.",
+      "pageLink": "/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard users by conducting instant background verifications with real-time biometric and document checks.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
