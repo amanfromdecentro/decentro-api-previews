@@ -1,0 +1,165 @@
+{
+  "seo": {
+    "title": "User Verification & Payouts for Dating Platforms | Decentro",
+    "description": "Enable user verification, abuse prevention, and automated monetisation payouts without impacting signup speed. Get started with Decentro today.",
+    "ogTitle": "Get KYC, fraud detection, payouts & compliance in one API stack with Decentro. Go live in days across dating platforms & social discovery apps."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>KYC, Fraud Detection & Payout APIs for Online Dating Sites</span>",
+    "tagline": "One API layer for everything your dating app needs to scale: user verification, fraud prevention & creator payouts",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Dating.svg",
+    "altText": "User Verification & Payouts for Dating Platforms",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "User Verifications",
+        "numberElement": "Millions+"
+      },
+      {
+        "textBold": "99.9%",
+        "textLight": "Uptime Reliability",
+        "numberElement": ""
+      },
+      {
+        "textBold": "Sub-second",
+        "textLight": "Onboarding Speed",
+        "numberElement": ""
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "One Platform, Every Dating & Social Discovery Need",
+    "items": [
+      {
+        "title": "User KYC & Identity Verification APIs",
+        "description": "Streamline user verification with our automated KYC solutions for dating platforms, reducing drop-offs and ensuring regulatory compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Fraud, Impersonation & Abuse Detection APIs",
+        "description": "Detect fake profiles, synthetic identities, and impersonation attempts with real-time fraud signals, securing your platform from abuse.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Creator, Affiliate & Partner Payout APIs",
+        "description": "Automate compliant earnings payouts for hosts, influencers, and partners with built-in fraud checks and real-time reconciliation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to save time and <span className='header-section-highlighted'>launch 10X faster?</span>",
+    "ctaDescription": "Let us help you! It's as simple as it should be to integrate verification and payouts into your products.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "User & Profile Verification",
+        "headingBold": "",
+        "text": "Prevent fake profiles with instant identity checks, age verification, selfie matching, and document verification at signup and high-risk actions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "User & Profile Verification"
+      },
+      {
+        "headingLight": "Subscription & Premium User Platforms",
+        "headingBold": "",
+        "text": "Verify high-value users, reduce chargebacks, detect fraudulent upgrades, and automate refunds and payouts for premium subscription models.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Subscription & Premium User Platforms"
+      },
+      {
+        "headingLight": "Creator-Led & Influencer Dating Platforms",
+        "headingBold": "",
+        "text": "Enable compliant onboarding of creators, automated earnings payouts, identity checks, and fraud-resistant monetisation for your platform.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Creator-Led & Influencer Dating Platforms"
+      },
+      {
+        "headingLight": "Live Dating, Audio & Video Platforms",
+        "headingBold": "",
+        "text": "Secure real-time interactions with continuous fraud monitoring, impersonation checks, and payout automation for hosts and live streamers.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Live Dating, Audio & Video Platforms"
+      },
+      {
+        "headingLight": "Niche & Community Dating Apps",
+        "headingBold": "",
+        "text": "Ensure trust in smaller communities with lightweight KYC, abuse prevention, and verified user badges for enhanced safety.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Niche & Community Dating Apps"
+      },
+      {
+        "headingLight": "Global Dating Platforms",
+        "headingBold": "",
+        "text": "Support compliant onboarding, fraud prevention, and payouts across geographies with scalable verification workflows for global reach.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "Global Dating Platforms"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "High-Volume <br/> Identity Verification",
+        "paragraph": "Millions of user verification checks processed across consumer-facing platforms with high precision.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Fraud Reduction <br/> at Source",
+        "paragraph": "Detection of fake profiles, synthetic identities, impersonation attempts, and payment abuse at scale.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Automated <br/> Monetisation Payouts",
+        "paragraph": "Reliable creator and affiliate payouts with real-time reconciliation for seamless financial operations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Fast User <br/> Onboarding",
+        "paragraph": "Sub-second verification flows optimised for consumer UX, ensuring minimal drop-offs during signup.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Enterprise-Grade <br/> Reliability",
+        "paragraph": "99.9% uptime with compliance-ready audit trails for robust and secure platform operations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Risk-Based <br/> Verification at Scale",
+        "paragraph": "Dynamic KYC and fraud rules applied in real time based on user behaviour and transaction risk.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Instant Payouts",
+      "description": "Automate creator, affiliate, and partner payouts via APIs for instant and reliable money transfers.",
+      "pageLink": "/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "KYC & Onboarding",
+      "description": "Verify users instantly with real-time identity checks, selfie matching, and document verification for compliant onboarding.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
