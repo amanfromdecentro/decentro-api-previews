@@ -104,7 +104,7 @@
     "text": "",
     "ctaButtonText": "View Product Guide",
     "newTab": true,
-    "ctaButtonLink": "https://docs.decentro.tech/docs/merchant-onboarding-solutions"
+    "ctaButtonLink": "https://docs.decentro.tech/docs/payments-collections-pa-onboarding"
   },
   "headingAndItems": {
     "headingBold": "Methodology",
@@ -149,7 +149,7 @@
         "description": "Automation minimizes repetitive reviews and post-activation corrections, helping teams focus on higher-value decision-making and optimizing resource allocation."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Alert.svg",
         "title": "Proactive Fraud<br/>& Risk Awareness",
         "description": "Early onboarding intelligence helps identify potential high-risk merchants before services are enabled, proactively mitigating fraud and financial risks."
       }
