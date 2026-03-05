@@ -225,34 +225,34 @@
       {
         "heading": "Intelligent Website & Digital Footprint Analysis",
         "paragraph": "Automated scanning of merchant websites and linked digital properties generates comprehensive onboarding insights.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data%20(1).svg"
       },
       {
         "heading": "MCC Validation & Merchant Tagging",
         "paragraph": "Structured classification helps banks and PSPs assign accurate merchant categories during onboarding, ensuring compliance.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/API%20Doc%20(6).svg"
       },
       {
         "heading": "Domain & Digital Analytics",
         "paragraph": "Analyze domain history, traffic signals, and online presence to support onboarding decisions.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20Data%20(3).svg"
       }
     ],
     "block1extra": [
       {
         "heading": "Maker-Checker Workflow Controls",
         "paragraph": "Role-based access ensures oversight for relationship managers, branch managers, and operations teams throughout onboarding.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/1-1%20match%20(1).svg"
       },
       {
         "heading": "API-First Integration",
         "paragraph": "Integrate seamlessly with CRMs and internal onboarding infrastructure using flexible APIs.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(9).svg"
       },
       {
         "heading": "Secure & Compliant Architecture",
         "paragraph": "Cloud-native infrastructure designed to align with local regulatory requirements and enterprise security standards.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(4).svg"
       }
     ]
   },
@@ -260,32 +260,32 @@
     "heading": "Where You Can Use It",
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Bank%20(2).svg",
         "title": "Merchant Current Account Onboarding",
         "description": "Validate merchant activity and classification before enabling banking services, ensuring compliance and reducing risk."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20SME%20(1).svg",
         "title": "PSP Merchant Risk Evaluation",
         "description": "Strengthen onboarding workflows for aggregators managing high merchant volumes, enhancing risk evaluation processes."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/subscription%20(1).svg",
         "title": "UPI & Payment Acceptance Enablement",
         "description": "Ensure merchants are categorized correctly before granting payment infrastructure access, mitigating payment-related risks."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance%20(1).svg",
         "title": "Compliance & Risk Operations",
         "description": "Support internal teams with structured onboarding intelligence that reduces manual investigations."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate%20(4).svg",
         "title": "Platform & Marketplace Onboarding",
         "description": "Verify sellers and partners at scale with intelligent merchant analysis."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/lending_home.svg",
         "title": "Lending & Credit Underwriting for Merchants",
         "description": "Use onboarding intelligence to assess merchant business activity accurately before extending working capital or credit."
       }
@@ -328,7 +328,7 @@
       {
         "textInBox": "Ready to Build Smarter Merchant Onboarding Workflows?",
         "linkText": "API Documentation",
-        "link": "https://docs.decentro.tech/docs/merchant-onboarding-solutions"
+        "link": "https://docs.decentro.tech/docs/payments-collections-pa-onboarding"
       }
     ]
   },
@@ -346,13 +346,13 @@
     {
       "title": "Scanner",
       "description": "Decentro's Scanner module provides comprehensive user intelligence and verification solutions.",
-      "pageLink": "/api-hub/scanner/",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+      "pageLink": "https://decentro.tech/products/scanner",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Scanner.svg"
     },
     {
       "title": "KYC & Onboarding",
       "description": "Streamline customer onboarding and identity verification with robust KYC solutions.",
-      "pageLink": "/api-hub/kyc-onboarding/",
+      "pageLink": "https://decentro.tech/products/kyc-onboarding",
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
     }
   ]
