@@ -1,0 +1,359 @@
+{
+  "seo": {
+    "title": "Merchant Onboarding Solutions for Banks & PSPs | Decentro",
+    "description": "Streamline merchant onboarding with OmniScan. Enable accurate MCC validation, risk insights, and faster merchant activation for banks and PSPs.",
+    "ogTitle": "Merchant Onboarding Solutions for Banks & PSPs | Decentro"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Merchant Onboarding Solutions</span>",
+    "tagline": "Classify Merchants Accurately With OmniScan",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Merchant%20Onboarding.svg",
+    "altText": "Merchant Onboarding Solutions for business",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What Are Merchant Onboarding Solutions?",
+      "id": "whatAreMerchantOnboarding"
+    },
+    {
+      "text": "Why Intelligent Merchant Onboarding Matters",
+      "id": "whyIntelligentOnboarding"
+    },
+    {
+      "text": "Methodology",
+      "id": "methodology"
+    },
+    {
+      "text": "The Need For Intelligent Merchant Onboarding",
+      "id": "needFor"
+    },
+    {
+      "text": "How Merchant Onboarding Solutions Help Banks & PSPs",
+      "id": "howHelpBanksPSPs"
+    },
+    {
+      "text": "How Can Your Business Leverage OmniScan",
+      "id": "leverageOmniScan"
+    },
+    {
+      "text": "Key Features",
+      "id": "keyFeatures"
+    },
+    {
+      "text": "Where You Can Use It",
+      "id": "whereToUseIt"
+    },
+    {
+      "text": "Merchant Onboarding APIs – How Can Decentro Help?",
+      "id": "howCanDecentroHelp"
+    },
+    {
+      "text": "Frequently Asked Questions?",
+      "id": "faq"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What are ",
+    "headingBold": "Merchant Onboarding Solutions?",
+    "text": "Merchant onboarding solutions help banks and payment service providers onboard merchants faster while ensuring accurate classification, compliance readiness, and risk visibility. Modern onboarding infrastructure uses digital intelligence to understand a merchant’s real business activity, validating MCC categories, identifying fraud indicators, and reducing operational friction. For banks and PSPs, onboarding is the foundation for risk monitoring, compliance alignment, and long-term merchant lifecycle management.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Merchant%20Onboarding%20Solutions.svg"
+  },
+  "inlineImageAndParagraph2": {
+    "headingLight": "Why Intelligent Merchant Onboarding",
+    "headingBold": "Matters",
+    "text": "Merchant acquisition volumes are increasing across UPI, current accounts, and payment infrastructure. At the same time, inaccurate merchant classification and delayed risk identification can create operational and regulatory challenges. Institutions today need onboarding infrastructure that goes beyond document collection.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Intelligent%20Onboarding.svg",
+    "subheadings": [
+      {
+        "title": "Intelligent Merchant Onboarding offers:"
+      },
+      {
+        "title": "Accurate Merchant Classification From Day One",
+        "bulletPoints": [
+          "Incorrect MCC tagging or incomplete merchant understanding can lead to monitoring gaps and downstream operational complexity."
+        ]
+      },
+      {
+        "title": "Reduced Manual Intervention",
+        "bulletPoints": [
+          "Traditional onboarding workflows rely heavily on manual reviews. Intelligent analysis helps onboarding teams move faster while maintaining oversight."
+        ]
+      },
+      {
+        "title": "Stronger Compliance Alignment",
+        "bulletPoints": [
+          "Early-stage intelligence enables banks and PSPs to monitor merchant behavior more effectively and maintain structured onboarding processes."
+        ]
+      }
+    ]
+  },
+  "subBanner": {
+    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
+    "text": "OmniScan delivers accurate MCC validation, risk insights, and faster merchant activation for banks and PSPs, combining automated analysis to categorise merchants into actionable levels:",
+    "boldText": [
+      "Accurate MCC Validation",
+      "Risk Insights",
+      "Faster Activation"
+    ]
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/merchant-onboarding-solutions"
+  },
+  "headingAndItems": {
+    "headingBold": "Methodology",
+    "headingLight": "",
+    "tagline": "",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "title": "Merchant Input & Discovery",
+        "description": "Initiate onboarding by providing key merchant identifiers such as live website URLs or ownership details to trigger automated analysis."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "title": "Digital Intelligence & Classification",
+        "description": "OmniScan analyzes website content, domain signals, and linked media properties to understand merchant activity and support MCC validation."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "title": "Guided Review & Approval",
+        "description": "Role-based maker-checker workflows allow onboarding teams, relationship managers, and operations teams to review insights and finalize decisions confidently."
+      }
+    ]
+  },
+  "descriptiveItemListFour": {
+    "heading": "The Need For <span class='highlighted-subsection-header'>Intelligent Merchant Onboarding</span>",
+    "tagline": "",
+    "headingStyleThemeBlue": false,
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "title": "Faster<br/>Onboarding Timelines",
+        "description": "Automated analysis reduces dependency on manual checks, accelerating merchant activation without compromising diligence and streamlining operational workflows for teams."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "title": "Improved<br/>MCC Accuracy",
+        "description": "Structured classification ensures merchants are tagged correctly based on actual business activity, improving monitoring and reducing regulatory risks from day one."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "title": "Reduced<br/>Operational Overhead",
+        "description": "Automation minimizes repetitive reviews and post-activation corrections, helping teams focus on higher-value decision-making and optimizing resource allocation."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
+        "title": "Proactive Fraud<br/>& Risk Awareness",
+        "description": "Early onboarding intelligence helps identify potential high-risk merchants before services are enabled, proactively mitigating fraud and financial risks."
+      }
+    ]
+  },
+  "horizontalComparisonData": {
+    "heading": "<span class='highlighted-text'>How Can Your Business Leverage OmniScan</span>",
+    "subheading": "Key Benefits for Banks & PSPs",
+    "items": [
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "subheading": "Standardize Merchant <br/>Classification",
+        "list": [
+          {
+            "text": "Brings consistency to MCC validation and merchant tagging across all onboarding workflows."
+          },
+          {
+            "text": "Ensures accurate and consistent merchant categorization from day one."
+          }
+        ]
+      },
+      {
+        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "subheading": "Accelerate Digital <br/>Merchant Acquisition",
+        "list": [
+          {
+            "text": "Enables faster onboarding journeys for current accounts, UPI, and payment infrastructure without increasing operational load."
+          },
+          {
+            "text": "Reduces manual intervention and speeds up merchant activation."
+          }
+        ]
+      }
+    ]
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Can Your Business Leverage",
+      "bold": "OmniScan"
+    },
+    "data": [
+      {
+        "headingLight": "Strengthen Risk Frameworks",
+        "text": "Introduce intelligence at the onboarding stage rather than relying solely on post-activation monitoring, strengthening overall risk frameworks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg"
+      },
+      {
+        "headingLight": "Improve Decision Confidence",
+        "text": "Provide structured insights that help relationship managers and operations teams make faster, data-backed decisions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg"
+      },
+      {
+        "headingLight": "Scale Merchant Programs",
+        "text": "Deploy onboarding intelligence as an infrastructure layer that grows with merchant volumes without additional complexity.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg"
+      },
+      {
+        "headingLight": "Ensure Compliance Readiness",
+        "text": "Early-stage intelligence enables banks and PSPs to monitor merchant behavior more effectively and maintain structured onboarding processes.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg"
+      },
+      {
+        "headingLight": "Reduce Operational Friction",
+        "text": "Modern onboarding infrastructure uses digital intelligence to understand a merchant’s real business activity and reduce operational friction.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Intelligent Website & Digital Footprint Analysis",
+        "paragraph": "Automated scanning of merchant websites and linked digital properties generates comprehensive onboarding insights.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "MCC Validation & Merchant Tagging",
+        "paragraph": "Structured classification helps banks and PSPs assign accurate merchant categories during onboarding, ensuring compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Domain & Digital Analytics",
+        "paragraph": "Analyze domain history, traffic signals, and online presence to support onboarding decisions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Maker-Checker Workflow Controls",
+        "paragraph": "Role-based access ensures oversight for relationship managers, branch managers, and operations teams throughout onboarding.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "API-First Integration",
+        "paragraph": "Integrate seamlessly with CRMs and internal onboarding infrastructure using flexible APIs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Secure & Compliant Architecture",
+        "paragraph": "Cloud-native infrastructure designed to align with local regulatory requirements and enterprise security standards.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "descriptiveItemList": {
+    "heading": "Where You Can Use It",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "Merchant Current Account Onboarding",
+        "description": "Validate merchant activity and classification before enabling banking services, ensuring compliance and reducing risk."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
+        "title": "PSP Merchant Risk Evaluation",
+        "description": "Strengthen onboarding workflows for aggregators managing high merchant volumes, enhancing risk evaluation processes."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
+        "title": "UPI & Payment Acceptance Enablement",
+        "description": "Ensure merchants are categorized correctly before granting payment infrastructure access, mitigating payment-related risks."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
+        "title": "Compliance & Risk Operations",
+        "description": "Support internal teams with structured onboarding intelligence that reduces manual investigations."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
+        "title": "Platform & Marketplace Onboarding",
+        "description": "Verify sellers and partners at scale with intelligent merchant analysis."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
+        "title": "Lending & Credit Underwriting for Merchants",
+        "description": "Use onboarding intelligence to assess merchant business activity accurately before extending working capital or credit."
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "Merchant Onboarding APIs For Your Business",
+    "headingBold": " - How Can Decentro Help?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Decentro’s Merchant Onboarding APIs?",
+    "subheadings": false,
+    "lineHeight": "440px",
+    "bulletPoints": [
+      {
+        "text": "API-first merchant onboarding intelligence designed for banks and PSPs."
+      },
+      {
+        "text": "Automated MCC validation powered by digital footprint analysis through OmniScan."
+      },
+      {
+        "text": "Structured maker-checker workflows ensure accurate and compliant onboarding decisioning."
+      },
+      {
+        "text": "Real-time insights empower institutions to classify merchants confidently and efficiently."
+      },
+      {
+        "text": "Cloud-native infrastructure built for enterprise-grade scalability, reliability, and compliance."
+      },
+      {
+        "text": "Seamless integration into existing onboarding systems without operational disruption."
+      },
+      {
+        "text": "Simple, automated APIs to integrate OmniScan intelligence directly into your onboarding stack."
+      },
+      {
+        "text": "24x7 Multi-Channel Priority Support designed for banks and PSPs operating at scale."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Ready to Build Smarter Merchant Onboarding Workflows?",
+        "linkText": "API Documentation",
+        "link": "https://docs.decentro.tech/docs/merchant-onboarding-solutions"
+      }
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "What are merchant onboarding solutions?",
+      "solution": "Merchant onboarding solutions help banks and PSPs verify, classify, and activate merchants efficiently while maintaining compliance and risk visibility."
+    },
+    {
+      "query": "What is OmniScan?",
+      "solution": "OmniScan is Decentro’s intelligent onboarding utility that analyzes merchant digital signals to support MCC validation, classification, and onboarding decision-making."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "Scanner",
+      "description": "Decentro's Scanner module provides comprehensive user intelligence and verification solutions.",
+      "pageLink": "/api-hub/scanner/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "KYC & Onboarding",
+      "description": "Streamline customer onboarding and identity verification with robust KYC solutions.",
+      "pageLink": "/api-hub/kyc-onboarding/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
