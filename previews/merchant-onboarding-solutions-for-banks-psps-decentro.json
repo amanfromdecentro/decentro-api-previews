@@ -10,7 +10,7 @@
     "buttonText": "Explore Now",
     "newTab": false,
     "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Merchant%20Onboarding.svg",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Merchant%20Onboard.svg",
     "altText": "Merchant Onboarding Solutions for business",
     "DBackground": true
   },
@@ -60,13 +60,13 @@
     "headingLight": "What are ",
     "headingBold": "Merchant Onboarding Solutions?",
     "text": "Merchant onboarding solutions help banks and payment service providers onboard merchants faster while ensuring accurate classification, compliance readiness, and risk visibility. Modern onboarding infrastructure uses digital intelligence to understand a merchant’s real business activity, validating MCC categories, identifying fraud indicators, and reducing operational friction. For banks and PSPs, onboarding is the foundation for risk monitoring, compliance alignment, and long-term merchant lifecycle management.",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Merchant%20Onboarding%20Solutions.svg"
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(9).svg"
   },
   "inlineImageAndParagraph2": {
     "headingLight": "Why Intelligent Merchant Onboarding",
     "headingBold": "Matters",
     "text": "Merchant acquisition volumes are increasing across UPI, current accounts, and payment infrastructure. At the same time, inaccurate merchant classification and delayed risk identification can create operational and regulatory challenges. Institutions today need onboarding infrastructure that goes beyond document collection.",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Intelligent%20Onboarding.svg",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%205.svg",
     "subheadings": [
       {
         "title": "Intelligent Merchant Onboarding offers:"
@@ -112,39 +112,39 @@
     "tagline": "",
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/PForm.svg",
         "title": "Merchant Input & Discovery",
         "description": "Initiate onboarding by providing key merchant identifiers such as live website URLs or ownership details to trigger automated analysis."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Document%20Search.svg",
         "title": "Digital Intelligence & Classification",
         "description": "OmniScan analyzes website content, domain signals, and linked media properties to understand merchant activity and support MCC validation."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/reconciliation.svg",
         "title": "Guided Review & Approval",
         "description": "Role-based maker-checker workflows allow onboarding teams, relationship managers, and operations teams to review insights and finalize decisions confidently."
       }
     ]
   },
   "descriptiveItemListFour": {
-    "heading": "The Need For <span class='highlighted-subsection-header'>Intelligent Merchant Onboarding</span>",
+    "heading": "How Merchant Onboarding Solutions <span class='highlighted-subsection-header'>Help Banks and PSPs</span>",
     "tagline": "",
     "headingStyleThemeBlue": false,
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/boost%20(1).svg",
         "title": "Faster<br/>Onboarding Timelines",
         "description": "Automated analysis reduces dependency on manual checks, accelerating merchant activation without compromising diligence and streamlining operational workflows for teams."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/REG-Udyam.svg",
         "title": "Improved<br/>MCC Accuracy",
         "description": "Structured classification ensures merchants are tagged correctly based on actual business activity, improving monitoring and reducing regulatory risks from day one."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Reduced%20Cost%20(1).svg",
         "title": "Reduced<br/>Operational Overhead",
         "description": "Automation minimizes repetitive reviews and post-activation corrections, helping teams focus on higher-value decision-making and optimizing resource allocation."
       },
@@ -160,7 +160,7 @@
     "subheading": "Key Benefits for Banks & PSPs",
     "items": [
       {
-        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
+        "img": "https://dxeyonoqmp66q.cloudfront.net/CKYC%20Upload-LegalEntities%20(1).svg",
         "subheading": "Standardize Merchant <br/>Classification",
         "list": [
           {
@@ -172,7 +172,7 @@
         ]
       },
       {
-        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
+        "img": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(7).svg",
         "subheading": "Accelerate Digital <br/>Merchant Acquisition",
         "list": [
           {
@@ -194,17 +194,17 @@
       {
         "headingLight": "Strengthen Risk Frameworks",
         "text": "Introduce intelligence at the onboarding stage rather than relying solely on post-activation monitoring, strengthening overall risk frameworks.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding%20(2).svg"
       },
       {
         "headingLight": "Improve Decision Confidence",
         "text": "Provide structured insights that help relationship managers and operations teams make faster, data-backed decisions.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Identify%20fraud%20(5).svg"
       },
       {
         "headingLight": "Scale Merchant Programs",
         "text": "Deploy onboarding intelligence as an infrastructure layer that grows with merchant volumes without additional complexity.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/CashFlow.svg"
       },
       {
         "headingLight": "Ensure Compliance Readiness",
