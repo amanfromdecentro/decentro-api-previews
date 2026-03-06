@@ -10,15 +10,15 @@
     "buttonText": "Explore Now",
     "newTab": false,
     "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance.svg",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20Header.svg",
     "altText": "Insurance KYC, Fraud Detection & Payout APIs",
     "DBackground": true,
     "metrics": true,
     "metricList": [
       {
         "textBold": "",
-        "textLight": "Policy Verifications",
-        "numberElement": "Millions+"
+        "textLight": "Data Points Fetched",
+        "numberElement": "1Mn+"
       },
       {
         "textBold": "₹50,000 Cr+",
@@ -37,7 +37,7 @@
       {
         "title": "Policyholder & Agent KYC APIs",
         "description": "Streamline policyholder and agent verification with automated KYC solutions, reducing onboarding drop-offs and ensuring IRDAI compliance.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Loan.svg"
       },
       {
         "title": "Claims Fraud Detection APIs",
@@ -47,7 +47,7 @@
       {
         "title": "Claim Payout & Reconciliation APIs",
         "description": "Automate claims payouts to policyholders, hospitals, garages, and partners with real-time tracking and reconciliation for faster settlements.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Payouts.svg"
       }
     ]
   },
@@ -67,42 +67,42 @@
         "headingLight": "Policyholder Onboarding",
         "headingBold": "",
         "text": "Instantly verify policyholders with identity, address, and document checks during policy issuance, ensuring a smooth and compliant onboarding experience.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Working%20Capital-2.svg",
         "altText": "Policyholder Onboarding"
       },
       {
         "headingLight": "Agent & Broker Verification",
         "headingBold": "",
         "text": "Onboard agents and intermediaries with compliant KYC and background checks, streamlining the verification process and ensuring regulatory adherence.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gov.svg",
         "altText": "Agent & Broker Verification"
       },
       {
         "headingLight": "Claims Fraud Prevention",
         "headingBold": "",
         "text": "Detect duplicate claims, identity mismatches, forged documents, and suspicious activity in real-time to prevent fraud and protect insurer assets.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204236%20%E2%80%93%208.svg",
         "altText": "Claims Fraud Prevention"
       },
       {
         "headingLight": "Claims & Settlement Payouts",
         "headingBold": "",
         "text": "Automate payouts to policyholders, hospitals, garages, and partners with built-in reconciliation for faster, error-free claims settlement.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Reconcile.svg",
         "altText": "Claims & Settlement Payouts"
       },
       {
         "headingLight": "Insurtech & Embedded Insurance",
         "headingBold": "",
         "text": "Enable fast, API-driven onboarding and payouts for digital-first insurance products, accelerating time-to-market for innovative Insurtech solutions.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki-2.svg",
         "altText": "Insurtech & Embedded Insurance"
       },
       {
         "headingLight": "Regulated Insurance Providers",
         "headingBold": "",
         "text": "Ensure IRDAI-aligned onboarding, reporting, and audit trails, maintaining full regulatory compliance for all insurance operations.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification-2.svg",
         "altText": "Regulated Insurance Providers"
       }
     ]
@@ -115,12 +115,12 @@
       {
         "heading": "High-Volume <br/> Verifications",
         "paragraph": "Millions of policy verifications processed for large insurance providers with high precision.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RealTime-Verification-2.svg"
       },
       {
         "heading": "Faster Claims <br/> Settlement",
         "paragraph": "Reduced TAT with automated payout flows, processing substantial claim values efficiently.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/MoneyFetching-2.svg"
       },
       {
         "heading": "Claims Fraud <br/> Reduction",
