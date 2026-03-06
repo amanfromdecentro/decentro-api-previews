@@ -150,13 +150,13 @@
     {
       "title": "Instant Payouts",
       "description": "Automate payouts to policyholders, hospitals, and partners via APIs or file upload for instant claims settlement.",
-      "pageLink": "/products/instant-payouts",
+      "pageLink": "https://decentro.tech/products/instant-payouts",
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
     },
     {
       "title": "KYC & Onboarding",
       "description": "Digitally onboard policyholders and agents with instant identity, address, and document verification checks.",
-      "pageLink": "/products/kyc-onboarding",
+      "pageLink": "https://decentro.tech/products/kyc-onboarding",
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
     }
   ]
