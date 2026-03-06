@@ -1,0 +1,165 @@
+{
+  "seo": {
+    "title": "Investor Onboarding, Fraud Checks & Payout APIs | Decentro",
+    "description": "Streamline trading platform onboarding using SEBI-ready KYC, real-time risk checks, and payout automation designed for brokers and wealth apps.",
+    "ogTitle": "Get SEBI-ready KYC, fraud detection & payout APIs in one stack with Decentro. Go live in days across broking, trading & wealth platforms."
+  },
+  "productBanner": {
+    "heading": "KYC, Fraud Detection & Payout APIs for <span class='highlighted-heading'>Broking Platforms</span>",
+    "tagline": "One API layer for everything: Investor Onboarding, Compliance, Risk Checks & Payouts.",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Broking.svg",
+    "altText": "KYC, Fraud Detection & Payout APIs for Broking Platforms",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Investor Verifications",
+        "numberElement": "Millions+"
+      },
+      {
+        "textBold": "",
+        "textLight": "Onboarding Time Reduced",
+        "numberElement": "90%+"
+      },
+      {
+        "textBold": "",
+        "textLight": "Payouts Automated",
+        "numberElement": "100%"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "One Platform, Every Broking & Wealth Need",
+    "items": [
+      {
+        "title": "Investor KYC & Identity Verification APIs",
+        "description": "Instantly verify PAN, Aadhaar, and address details for investors, ensuring SEBI-ready compliance and reducing onboarding drop-offs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Fraud, Risk & Duplicate Detection APIs",
+        "description": "Prevent duplicate accounts, identity misuse, and suspicious activities with real-time risk checks and advanced fraud detection.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Payout & Reconciliation APIs",
+        "description": "Automate payouts to brokers, advisors, and affiliates with full reconciliation, real-time tracking, and compliance-ready records.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to streamline investor onboarding and <span className='header-section-highlighted'>ensure compliance?</span>",
+    "ctaDescription": "Let us help you! It's as simple as it should be to integrate banking into your products.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Retail Investor Onboarding",
+        "headingBold": "",
+        "text": "Instantly onboard retail investors with PAN, Aadhaar, address verification, and comprehensive AML-ready checks for rapid account activation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Retail Investor Onboarding"
+      },
+      {
+        "headingLight": "Trading & Investment Platforms",
+        "headingBold": "",
+        "text": "Prevent duplicate accounts, identity misuse, and suspicious activity with real-time risk checks and advanced fraud detection across all transactions.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Trading & Investment Platforms"
+      },
+      {
+        "headingLight": "Wealth & Advisory Platforms",
+        "headingBold": "",
+        "text": "Enable compliant onboarding for investors, advisors, and partners with audit-ready flows and robust identity verification for seamless experience.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Wealth & Advisory Platforms"
+      },
+      {
+        "headingLight": "Margin Trading & Advanced Products",
+        "headingBold": "",
+        "text": "Apply enhanced KYC and fraud checks for high-risk trading activities, derivatives, or large transaction volumes, ensuring full compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Margin Trading & Advanced Products"
+      },
+      {
+        "headingLight": "Partner & Referral Payouts",
+        "headingBold": "",
+        "text": "Automate payouts to brokers, advisors, and affiliates with full reconciliation, real-time tracking, and compliance-ready settlement records.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Partner & Referral Payouts"
+      },
+      {
+        "headingLight": "Regulated Broking Entities",
+        "headingBold": "",
+        "text": "Ensure SEBI-compliant onboarding, reporting, and verification workflows with comprehensive audit trails required by regulatory bodies.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "Regulated Broking Entities"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Regulatory-Grade <br/>KYC",
+        "paragraph": "Millions of investor verifications processed securely with audit trails and robust compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Fraud & Risk <br/>Detection",
+        "paragraph": "Prevention of duplicate accounts, identity misuse, and suspicious activity with real-time checks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Fast Account <br/>Activation",
+        "paragraph": "Reduced onboarding time from days to minutes through API-first PAN, Aadhaar, and address verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Automated <br/>Payouts",
+        "paragraph": "Accurate settlements with real-time tracking and compliance-ready settlement records for partners.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Enterprise-Grade <br/>Reliability",
+        "paragraph": "Built for regulated financial institutions, ensuring 99.9% uptime and robust security for operations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Regulatory <br/>Compliance",
+        "paragraph": "Ensuring SEBI-compliant onboarding, reporting, and verification workflows with full audit trails.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Instant Payouts",
+      "description": "Automate payouts to brokers, advisors, and affiliates with real-time tracking and full reconciliation via APIs.",
+      "pageLink": "/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard investors by conducting instant PAN, Aadhaar, and address verifications with AML checks.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
