@@ -1,0 +1,231 @@
+{
+  "seo": {
+    "title": "Decentro Farsight: AI Phonetic Name Matching for KYC & AML Compliance",
+    "description": "Decentro's Farsight offers advanced AI/ML-driven phonetic name matching to enhance KYC, AML, and fraud detection, accurately linking identities despite variations and transliterations for global compliance.",
+    "ogTitle": "Strengthen KYC & AML with Decentro's AI Phonetic Name Matching: Combat Fraud Globally."
+  },
+  "productBanner": {
+    "heading": "Decentro Farsight: <span className='highlighted-heading'>Phonetic Name Matching</span>",
+    "tagline": "An AI/ML-driven solution for superior identity verification, fraud detection, and regulatory compliance across global markets.",
+    "buttonText": "Explore Solution",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg",
+    "altText": "AI-Powered Phonetic Name Matching for KYC",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Fraud Risk Reduction",
+        "numberElement": "70%+"
+      },
+      {
+        "textBold": "",
+        "textLight": "Compliance Accuracy",
+        "numberElement": "99%"
+      },
+      {
+        "textBold": "",
+        "textLight": "Onboarding Time Saved",
+        "numberElement": "50%+"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro Farsight</span>",
+    "tagline": "Superior Identity Verification in a Complex Global Landscape",
+    "items": [
+      {
+        "title": "AI/ML-powered Phonetic Matching",
+        "description": "Utilizes advanced algorithms to identify matches beyond exact string comparison, understanding the sound and structure of names across diverse linguistic origins.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/International%20cooperation-rafiki.svg"
+      },
+      {
+        "title": "Tolerance for Global Variations",
+        "description": "Effectively handles common challenges like misspellings, typos, abbreviations, and transliteration differences across various languages and scripts, crucial for global operations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency-rafiki.svg"
+      },
+      {
+        "title": "Configurable Sensitivity & Real-time",
+        "description": "Allows businesses to adjust matching thresholds and confidence scores based on their specific risk appetite and compliance requirements, with quick, efficient verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20extraction-rafiki.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to enhance your <span className='header-section-highlighted'>KYC and fraud detection?</span>",
+    "ctaDescription": "Leverage Decentro's AI/ML-driven phonetic matching for unparalleled accuracy and compliance in a competitive global market.",
+    "ctaButtonText": "Request a Demo",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Industry Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Financial Services",
+        "headingBold": "",
+        "text": "Enhancing KYC/AML compliance, preventing fraud, and streamlining customer onboarding by accurately linking identities to watchlists or existing records, even with minor discrepancies.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
+        "altText": "Financial Services"
+      },
+      {
+        "headingLight": "E-commerce & Marketplaces",
+        "headingBold": "",
+        "text": "Mitigating fraud from duplicate accounts, ensuring accurate customer profiles, and verifying identities for secure transactions and personalized services across platforms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
+        "altText": "E-commerce & Marketplaces"
+      },
+      {
+        "headingLight": "Insurance Providers",
+        "headingBold": "",
+        "text": "Verifying policyholder identities, preventing fraudulent claims, and ensuring data accuracy across policy management systems for robust risk assessment.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
+        "altText": "Insurance Providers"
+      },
+      {
+        "headingLight": "Gaming & Betting Platforms",
+        "headingBold": "",
+        "text": "Enforcing age restrictions, preventing multi-accounting, and complying with stringent regulatory requirements by accurately identifying users globally.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
+        "altText": "Gaming & Betting Platforms"
+      },
+      {
+        "headingLight": "Healthcare & Government",
+        "headingBold": "",
+        "text": "Ensuring accurate patient or citizen identification, preventing identity fraud, and maintaining data integrity across large, sensitive databases.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
+        "altText": "Healthcare & Government"
+      },
+      {
+        "headingLight": "Global Enterprises & Supply Chains",
+        "headingBold": "",
+        "text": "Verifying vendor and partner identities for cross-border transactions, ensuring compliance with international sanctions and trade regulations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
+        "altText": "Global Enterprises & Supply Chains"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Unmatched",
+    "headingBold": "Value",
+    "tagline": "Transforming Identity Verification & Compliance",
+    "block1": [
+      {
+        "heading": "Fraud & Financial <br/> Crime Reduction",
+        "paragraph": "Significantly reduce the risk of fraud and financial crime by accurately identifying suspicious entities, ensuring robust regulatory compliance (e.g., KYC, AML).",
+        "imageSrc": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/global-white.svg"
+      },
+      {
+        "heading": "Streamlined Onboarding <br/> & User Experience",
+        "paragraph": "Accelerate customer onboarding through faster, more accurate identity verification, leading to a superior user experience and reduced abandonment rates.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204240%20%E2%80%93%206.svg"
+      },
+      {
+        "heading": "Operational Efficiency <br/> & Cost Savings",
+        "paragraph": "Benefit from enhanced data accuracy, lower operational costs associated with manual verification and error correction, and mitigated reputational risk.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204241%20%E2%80%93%201.svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Enhanced Data <br/> Integrity",
+        "paragraph": "Maintain accurate customer and entity profiles across all systems, ensuring reliable data for analytics, reporting, and strategic decision-making.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/automation.svg"
+      },
+      {
+        "heading": "Global Compliance <br/> Assurance",
+        "paragraph": "Meet stringent KYC, AML, and sanctions screening requirements across diverse jurisdictions, adapting to evolving regulatory landscapes with ease.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data.svg"
+      },
+      {
+        "heading": "Competitive Edge in <br/> Verification",
+        "paragraph": "Outperform traditional, rigid matching methods by adapting to real-world name variations, providing a distinct advantage in identity verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/settlement.svg"
+      }
+    ]
+  },
+  "headingWithImageFlow": {
+    "title": "<span className='header-section-highlighted'>How</span> It Works",
+    "steps": [
+      {
+        "id": 1,
+        "title": "<span>Data Input</span>",
+        "subTitle": "(Customer/Entity Data Submitted)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Onboarding.svg",
+        "alt": "Data Input Icon"
+      },
+      {
+        "id": 2,
+        "title": "<span>Phonetic Analysis</span>",
+        "subTitle": "(AI/ML Processes Names)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Verified+SME.svg",
+        "alt": "Phonetic Analysis Icon"
+      },
+      {
+        "id": 3,
+        "title": "<span>Match & Score</span>",
+        "subTitle": "(Compares Against Databases)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Component+4240+%E2%80%93+8.svg",
+        "alt": "Match & Score Icon"
+      },
+      {
+        "id": 4,
+        "title": "<span>Configurable Output</span>",
+        "subTitle": "(Thresholds & Confidence Scores)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/currency+management.svg",
+        "alt": "Configurable Output Icon"
+      },
+      {
+        "id": 5,
+        "title": "<span>Decision & Action</span>",
+        "subTitle": "(Verify, Flag, Onboard)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Automate.svg",
+        "alt": "Decision & Action Icon"
+      }
+    ],
+    "showArrows": true,
+    "containerClassName": "",
+    "titleClassName": "",
+    "stepClassName": "",
+    "iconSize": {
+      "width": 40,
+      "height": 40
+    }
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "How does Decentro handle name variations and misspellings?",
+      "solution": "Decentro's AI/ML-powered phonetic matching algorithms understand the sound and structure of names, effectively matching identities despite common misspellings, typos, abbreviations, and transliteration differences across languages."
+    },
+    {
+      "query": "What industries benefit most from phonetic name matching?",
+      "solution": "Financial services, e-commerce, insurance, gaming, healthcare, and government sectors significantly benefit by enhancing KYC/AML, fraud detection, and data accuracy in identity verification processes."
+    },
+    {
+      "query": "How does this solution aid in regulatory compliance (KYC/AML)?",
+      "solution": "It ensures robust compliance by accurately linking identities to watchlists and existing records, reducing false negatives and positives, and providing configurable sensitivity for risk appetite alignment."
+    },
+    {
+      "query": "Is the solution real-time and easy to integrate?",
+      "solution": "Yes, Decentro's Farsight offers real-time processing for quick verification and is designed for seamless API integration into existing systems and workflows, ensuring a scalable and robust solution."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding",
+      "description": "Streamline customer onboarding and identity verification with comprehensive, AI-driven solutions for enhanced compliance and user experience.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "Fraud & Risk Management",
+      "description": "Detect and prevent financial crime, identity fraud, and other risks with advanced data forensics and real-time monitoring capabilities.",
+      "pageLink": "/products/fraud-risk",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
