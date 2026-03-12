@@ -1,0 +1,231 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching for KYC & Fraud Prevention | Decentro Farsight",
+    "description": "Decentro Farsight's Phonetic Name Matching enhances KYC accuracy, detects fraud, and streamlines onboarding by identifying individuals despite spelling variations, ensuring global compliance.",
+    "ogTitle": "Boost KYC Accuracy & Combat Fraud with Decentro's Phonetic Name Matching API."
+  },
+  "productBanner": {
+    "heading": "<span className='highlighted-heading'>Phonetic Name Matching</span> for KYC & Fraud",
+    "tagline": "Leverage advanced phonetic algorithms to accurately identify individuals, prevent fraud, and ensure robust identity verification across all onboarding processes.",
+    "buttonText": "Explore Farsight API",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg",
+    "altText": "Phonetic Name Matching for KYC and Fraud",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Fraud Reduction",
+        "numberElement": "40%+"
+      },
+      {
+        "textBold": "",
+        "textLight": "KYC Accuracy",
+        "numberElement": "99%"
+      },
+      {
+        "textBold": "",
+        "textLight": "Onboarding Speed",
+        "numberElement": "70%+"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro Farsight</span>",
+    "tagline": "Precision Identity Verification for a Global Landscape",
+    "items": [
+      {
+        "title": "Advanced Phonetic Algorithms",
+        "description": "Utilize sophisticated sound-based matching to overcome spelling discrepancies, typos, and regional name variations, ensuring accurate identity resolution.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/International%20cooperation-rafiki.svg"
+      },
+      {
+        "title": "Fuzzy Matching & Custom Sensitivity",
+        "description": "Handle minor inconsistencies and partial matches with robust fuzzy logic, allowing businesses to fine-tune matching strictness to meet specific risk and compliance needs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency-rafiki.svg"
+      },
+      {
+        "title": "Global Name & Real-time Support",
+        "description": "Designed to process diverse naming conventions and linguistic nuances worldwide, providing instant matching results via a seamless API for quick decision-making.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20extraction-rafiki.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to enhance your <span className='header-section-highlighted'>identity verification?</span>",
+    "ctaDescription": "Implement Decentro Farsight's Phonetic Name Matching to streamline KYC, prevent fraud, and ensure regulatory compliance with unparalleled accuracy.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Industry Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Financial Services",
+        "headingBold": "",
+        "text": "Streamline KYC/AML checks, sanction screening, and fraud prevention for account opening, loan applications, and claims processing in banks, fintechs, and insurers.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
+        "altText": "Financial Services"
+      },
+      {
+        "headingLight": "E-commerce & Marketplaces",
+        "headingBold": "",
+        "text": "Verify user identities, prevent duplicate accounts, detect fraudulent transactions, and ensure compliance for digital payments and online platforms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
+        "altText": "E-commerce & Marketplaces"
+      },
+      {
+        "headingLight": "Healthcare Providers",
+        "headingBold": "",
+        "text": "Ensure accurate patient identification, link medical records reliably, and prevent identity theft within complex healthcare systems.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
+        "altText": "Healthcare Providers"
+      },
+      {
+        "headingLight": "Government & Public Services",
+        "headingBold": "",
+        "text": "Enhance identity verification for citizen services, benefit disbursements, and public record management, ensuring integrity and accuracy.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
+        "altText": "Government & Public Services"
+      },
+      {
+        "headingLight": "Travel & Hospitality",
+        "headingBold": "",
+        "text": "Verify guest identities for bookings, check-ins, and compliance with international travel regulations, minimizing risks and enhancing security.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
+        "altText": "Travel & Hospitality"
+      },
+      {
+        "headingLight": "Telecommunications",
+        "headingBold": "",
+        "text": "Efficiently onboard new subscribers, prevent SIM card fraud, and maintain accurate customer databases for regulatory adherence and service quality.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
+        "altText": "Telecommunications"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Driving Value",
+    "headingBold": "Across Industries",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Enhanced Fraud <br/> Prevention",
+        "paragraph": "Proactively identify and mitigate risks associated with identity fraud, synthetic identities, and money laundering by linking suspicious patterns despite name variations.",
+        "imageSrc": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/global-white.svg"
+      },
+      {
+        "heading": "Strengthened Regulatory <br/> Compliance",
+        "paragraph": "Help businesses meet stringent global KYC, AML, and CTF standards by providing a robust and auditable mechanism for accurate identity verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204240%20%E2%80%93%206.svg"
+      },
+      {
+        "heading": "Reduced Operational <br/> Costs",
+        "paragraph": "Automate and accelerate identity verification processes, significantly minimizing the need for manual reviews and reducing associated operational overhead.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204241%20%E2%80%93%201.svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Improved Customer <br/> Experience",
+        "paragraph": "Enable faster, smoother, and more reliable onboarding journeys for legitimate customers, reducing friction and enhancing satisfaction.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/automation.svg"
+      },
+      {
+        "heading": "Global <br/> Scalability",
+        "paragraph": "Provide a flexible and powerful tool for businesses operating across diverse international markets, effectively handling varied naming conventions and linguistic nuances.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data.svg"
+      },
+      {
+        "heading": "Superior Identity <br/> Accuracy",
+        "paragraph": "Significantly improve the accuracy and efficiency of KYC and onboarding processes, ensuring that individuals are correctly identified even with complex name data.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/settlement.svg"
+      }
+    ]
+  },
+  "headingWithImageFlow": {
+    "title": "<span className='header-section-highlighted'>How</span> Phonetic Matching Works",
+    "steps": [
+      {
+        "id": 1,
+        "title": "<span>Customer Data</span>",
+        "subTitle": "(Input for Verification)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Onboarding.svg",
+        "alt": "Customer Data Input Icon"
+      },
+      {
+        "id": 2,
+        "title": "<span>Phonetic Algorithm</span>",
+        "subTitle": "(Sound-based Analysis)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Verified+SME.svg",
+        "alt": "Phonetic Algorithm Icon"
+      },
+      {
+        "id": 3,
+        "title": "<span>Fuzzy Matching</span>",
+        "subTitle": "(Handle Variations)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Component+4240+%E2%80%93+8.svg",
+        "alt": "Fuzzy Matching Icon"
+      },
+      {
+        "id": 4,
+        "title": "<span>Match Score & Rules</span>",
+        "subTitle": "(Customizable Sensitivity)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/currency+management.svg",
+        "alt": "Match Score Rules Icon"
+      },
+      {
+        "id": 5,
+        "title": "<span>Identity Verified</span>",
+        "subTitle": "(Fraud Detected / KYC Complete)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Automate.svg",
+        "alt": "Identity Verified Icon"
+      }
+    ],
+    "showArrows": true,
+    "containerClassName": "",
+    "titleClassName": "",
+    "stepClassName": "",
+    "iconSize": {
+      "width": 40,
+      "height": 40
+    }
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "What makes Decentro's phonetic matching superior to basic string matching?",
+      "solution": "Decentro's solution uses advanced phonetic algorithms and fuzzy matching to identify individuals based on sound, overcoming spelling errors, typos, and regional name variations that string matching misses."
+    },
+    {
+      "query": "How does phonetic name matching aid in fraud detection?",
+      "solution": "It helps link individuals across different databases even if their names are intentionally misspelled or have minor variations, revealing suspicious patterns and preventing identity fraud and money laundering."
+    },
+    {
+      "query": "Can the matching sensitivity be adjusted for different risk profiles?",
+      "solution": "Yes, Decentro's Phonetic Name Matching offers customizable sensitivity settings, allowing businesses to fine-tune the strictness of the algorithm to align with their specific risk appetite and compliance requirements."
+    },
+    {
+      "query": "Is Decentro's phonetic matching suitable for global operations?",
+      "solution": "Absolutely. The solution is designed with global name support, handling diverse naming conventions and linguistic nuances across various geographies, making it ideal for international businesses."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding Solutions",
+      "description": "Streamline customer onboarding and enhance identity verification with comprehensive KYC solutions, ensuring compliance and reducing friction.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "Fraud & Risk Management",
+      "description": "Implement robust fraud detection and risk mitigation strategies to protect your business and customers from financial crime and identity theft.",
+      "pageLink": "/products/fraud-risk-management",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
