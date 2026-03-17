@@ -9,7 +9,7 @@
     "tagline": "One API layer for comprehensive cross-border collections, multi-currency management, and automated payouts for dating platforms.",
     "buttonText": "Explore Solutions",
     "newTab": false,
-    "buttonLink": "/signup/",
+    "buttonLink": "https://decentro.tech/global/signup",
     "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Online%20dating.svg",
     "altText": "Global Payments for Online Dating Sites",
     "DBackground": true,
@@ -90,21 +90,21 @@
         "headingLight": "Live Dating, Audio & Video Matchmaking Apps",
         "headingBold": "",
         "text": "Handle real-time monetisation for live sessions, tipping, gifting, and session-based billing. Automate settlements for dynamic content and interactive user experiences.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Live%20Session.svg",
         "altText": "Live Dating, Audio & Video Matchmaking Apps"
       },
       {
         "headingLight": "White-Label Dating & SaaS Platforms",
         "headingBold": "",
         "text": "Power multiple dating brands from a single infrastructure. Offer isolated wallets, configurable pricing, and unified reconciliation for white-label and SaaS platforms.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/White%20Label.svg",
         "altText": "White-Label Dating & SaaS Platforms"
       },
       {
         "headingLight": "International Expansion for Dating Startups",
         "headingBold": "",
         "text": "Enter new geographies without rebuilding payment stacks, renegotiating banks, or managing FX complexity. Accelerate international expansion for dating startups.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Invoice%20Financing.svg",
         "altText": "International Expansion for Dating Startups"
       }
     ]
@@ -117,34 +117,34 @@
       {
         "heading": "Global Payment <br/> Rails",
         "paragraph": "Accept payments and send payouts across 170+ countries using a single API covering cards, banks, wallets, and local methods.",
-        "imageSrc": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/global-white.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/global.svg"
       },
       {
         "heading": "Multi-Currency <br/> Efficiency",
         "paragraph": "Hold and convert 30+ currencies, reduce FX leakage, and maintain predictable revenue realisation cycles. Optimise FX timing for global user bases.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204240%20%E2%80%93%206.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/multi-currency.svg"
       },
       {
         "heading": "Subscription-Ready <br/> Infrastructure",
         "paragraph": "Designed for high-frequency recurring billing, retries, proration, refunds, and chargeback handling. Ensure seamless subscription management at scale.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204241%20%E2%80%93%201.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/API%20Doc.svg"
       }
     ],
     "block1extra": [
       {
         "heading": "End-to-End Monetisation <br/> Automation",
         "paragraph": "From user payment to creator payout, every transaction is linked to platform logic and user activity. Automate end-to-end monetisation workflows.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/automation.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated.svg"
       },
       {
         "heading": "Intelligent <br/> Reconciliation",
         "paragraph": "Auto-map collections, refunds, chargebacks, subscriptions, and payouts to user IDs, plans, SKUs, campaigns, and cohorts, reducing ops effort by up to 90%.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202099%20%E2%80%93%202.svg"
       },
       {
         "heading": "Reliable, Predictable <br/> Settlements",
         "paragraph": "Multi-bank, multi-rail architecture ensures high uptime and consistent revenue flows even during regional outages.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/settlement.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data.svg"
       }
     ]
   },
@@ -222,10 +222,10 @@
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
     },
     {
-      "title": "Instant Payouts",
+      "title": "Global Payouts",
       "description": "Automate payouts to influencers, affiliates, matchmakers, and content creators across 170+ countries using rule-based settlements and multi-currency efficiency.",
-      "pageLink": "/global/products/instant-payouts",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+      "pageLink": "https://decentro.tech/global/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts.svg"
     }
   ]
 }
