@@ -218,8 +218,8 @@
     {
       "title": "Global Payment Collections",
       "description": "Accept payments from 170+ countries using global and local rails, settling into a single ledger with simplified compliance.",
-      "pageLink": "/global/products/global-payment-collection",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+      "pageLink": "https://decentro.tech/global/products/global-payment-collection",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Global%20Payments.svg"
     },
     {
       "title": "Global Payouts",
