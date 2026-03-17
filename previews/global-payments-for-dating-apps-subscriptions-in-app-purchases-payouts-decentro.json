@@ -10,7 +10,7 @@
     "buttonText": "Explore Solutions",
     "newTab": false,
     "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Dating%20App.svg",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Online%20dating.svg",
     "altText": "Global Payments for Online Dating Sites",
     "DBackground": true,
     "metrics": true,
@@ -39,7 +39,7 @@
       {
         "title": "Global Collections",
         "description": "Accept payments from users across 170+ countries using local and international rails. Support cards, bank transfers, wallets, and local methods for subscriptions, boosts, and in-app purchases.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/International%20cooperation-rafiki.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Online%20connection.svg"
       },
       {
         "title": "Multi-Currency Wallets",
@@ -47,9 +47,9 @@
         "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency-rafiki.svg"
       },
       {
-        "title": "Automated In-App Monetisation",
+        "title": "Power In-App Purchases",
         "description": "Enable recurring subscriptions, pay-per-use features, boosts, super-likes, and premium upgrades with automated billing, retries, refunds, and proration logic.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20extraction-rafiki.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency.svg"
       }
     ]
   },
@@ -57,33 +57,33 @@
     "ctaTitle": "Ready to scale your <span className='header-section-highlighted'>dating platform globally?</span>",
     "ctaDescription": "Decentro enables dating platforms to monetise globally with speed, control, and operational clarity. Get started today.",
     "ctaButtonText": "Get Started",
-    "ctaButtonLink": "/signup/"
+    "ctaButtonLink": "https://decentro.tech/global/signup"
   },
   "adjacentData": {
     "heading": {
-      "light": "",
-      "bold": "Use Cases"
+      "light": "Where You Can",
+      "bold": "Use It"
     },
     "data": [
       {
         "headingLight": "Global Dating Apps & Matchmaking Platforms",
         "headingBold": "",
         "text": "Launch and scale subscriptions, premium tiers, and in-app monetisation globally. Facilitate localised payment methods, centralised treasury control, and seamless user experiences across borders.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions%20(1).svg",
         "altText": "Global Dating Apps & Matchmaking Platforms"
       },
       {
         "headingLight": "Creator-Led & Influencer Dating Platforms",
         "headingBold": "",
         "text": "Enable automated payouts for creators, hosts, and community leaders. Link payouts to user activity, subscriptions, or engagement milestones with rule-based settlements across currencies and countries.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Creator%20led.svg",
         "altText": "Creator-Led & Influencer Dating Platforms"
       },
       {
         "headingLight": "Niche & Community-Based Dating Platforms",
         "headingBold": "",
         "text": "Support regional, cultural, or interest-based dating platforms. Provide local payment acceptance, global backend infrastructure, and tailored monetisation for diverse communities.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202313%20%E2%80%93%202.svg",
         "altText": "Niche & Community-Based Dating Platforms"
       },
       {
