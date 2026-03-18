@@ -1,0 +1,231 @@
+{
+  "seo": {
+    "title": "Fintech for Dating Platforms: Secure Global Monetization, Subscriptions & Fraud Prevention | Decentro",
+    "description": "Decentro provides robust financial infrastructure for dating applications, enabling secure global payment processing, subscription management, and advanced fraud prevention to maximize revenue and user trust.",
+    "ogTitle": "Maximize Dating App Revenue with Decentro's Global Fintech Solutions: Payments, Subscriptions & Fraud."
+  },
+  "productBanner": {
+    "heading": "<span className='highlighted-heading'>Fintech for Dating Platforms</span>",
+    "tagline": "One API layer for secure global payment processing, flexible subscription management, and advanced fraud prevention tailored for dating applications.",
+    "buttonText": "Explore Solutions",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg",
+    "altText": "Fintech for Dating Platforms",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "Increased",
+        "textLight": "Auth Rates",
+        "numberElement": "99.9%"
+      },
+      {
+        "textBold": "Reduced",
+        "textLight": "Fraud Incidents",
+        "numberElement": "90%"
+      },
+      {
+        "textBold": "Global",
+        "textLight": "Payment Reach",
+        "numberElement": "170+"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "Secure Global Monetization for Dating Applications",
+    "items": [
+      {
+        "title": "Unified Global Monetization",
+        "description": "Accept subscriptions and in-app purchases from users worldwide, supporting diverse payment methods and currencies while simplifying global financial operations and compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/International%20cooperation-rafiki.svg"
+      },
+      {
+        "title": "Enhanced User Experience",
+        "description": "Provide a seamless, secure, and localized payment experience, offering preferred local payment methods and currencies to build trust and boost conversion rates for your global user base.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency-rafiki.svg"
+      },
+      {
+        "title": "Robust Fraud & Risk Management",
+        "description": "Protect your platform and users from scams and fraudulent transactions with AI-powered fraud detection, customizable rules, and chargeback protection, ensuring a safe environment.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20extraction-rafiki.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to elevate your <span className='header-section-highlighted'>dating platform's monetization?</span>",
+    "ctaDescription": "Experience unmatched security, scalability, and global reach for your payment infrastructure. Get started today to optimize revenue and user trust.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Subscription Management",
+        "headingBold": "",
+        "text": "Implement flexible recurring billing models, manage trials, promotions, and automate dunning processes to maximize subscriber retention and reduce involuntary churn effectively.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
+        "altText": "Subscription Management"
+      },
+      {
+        "headingLight": "In-App Purchases & Virtual Goods",
+        "headingBold": "",
+        "text": "Process one-time purchases for boosts, virtual gifts, or premium features seamlessly, ensuring a frictionless user experience and efficient revenue capture within your application.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
+        "altText": "In-App Purchases & Virtual Goods"
+      },
+      {
+        "headingLight": "Global Payment Acceptance",
+        "headingBold": "",
+        "text": "Accept payments from users across 170+ countries, supporting major credit cards, digital wallets, and local payment methods to expand your market reach and boost conversion rates.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
+        "altText": "Global Payment Acceptance"
+      },
+      {
+        "headingLight": "Advanced Fraud Prevention",
+        "headingBold": "",
+        "text": "Leverage AI/ML-powered fraud detection, customizable rules, and 3D Secure 2.0 to combat scams, prevent chargebacks, and protect your platform's integrity and user base.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
+        "altText": "Advanced Fraud Prevention"
+      },
+      {
+        "headingLight": "Payouts for Partners & Creators",
+        "headingBold": "",
+        "text": "Facilitate secure and timely payouts to matchmakers, content creators, or other partners within your dating ecosystem, simplifying financial operations and fostering collaboration.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
+        "altText": "Payouts for Partners & Creators"
+      },
+      {
+        "headingLight": "Data-Driven Monetization Insights",
+        "headingBold": "",
+        "text": "Access detailed analytics on payment performance, customer lifetime value, and churn prediction, enabling informed decisions to optimize your monetization strategies and growth.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
+        "altText": "Data-Driven Monetization Insights"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Global Payment <br/> Rails",
+        "paragraph": "Accept payments and manage subscriptions across 170+ countries with a single API, ensuring seamless monetization for your international dating app users.",
+        "imageSrc": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/global-white.svg"
+      },
+      {
+        "heading": "Multi-Currency <br/> Efficiency",
+        "paragraph": "Process transactions in 30+ currencies, optimize foreign exchange, and reduce conversion costs, providing predictable revenue streams from your global user base.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204240%20%E2%80%93%206.svg"
+      },
+      {
+        "heading": "Optimised Revenue <br/> Predictability",
+        "paragraph": "Automated dunning management, faster receivables, and real-time cash visibility help dating platforms maintain operational liquidity and forecast revenue globally.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204241%20%E2%80%93%201.svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "End-to-End <br/> Monetization Automation",
+        "paragraph": "From subscription activation to recurring billing and payout, every payment event is automated, reducing manual errors and operational overhead for your platform.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/automation.svg"
+      },
+      {
+        "heading": "Intelligent <br/> Reconciliation",
+        "paragraph": "Automatically match all payments to subscriptions, in-app purchases, and user accounts, thereby reducing manual reconciliation work by up to 90%.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data.svg"
+      },
+      {
+        "heading": "Faster, Predictable <br/> Global Settlements",
+        "paragraph": "Provide same-day settlements for revenue in major markets with multi-rail, multi-bank redundancy, ensuring quick access to your earnings.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/settlement.svg"
+      }
+    ]
+  },
+  "headingWithImageFlow": {
+    "title": "<span className='header-section-highlighted'>How</span> It Works",
+    "steps": [
+      {
+        "id": 1,
+        "title": "<span>User Subscribes</span>",
+        "subTitle": "(Via Dating App)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Onboarding.svg",
+        "alt": "User Icon"
+      },
+      {
+        "id": 2,
+        "title": "<span>Platform Collects</span>",
+        "subTitle": "(Global Payment Gateway)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Verified+SME.svg",
+        "alt": "Dating Platform Icon"
+      },
+      {
+        "id": 3,
+        "title": "<span>Funds Managed</span>",
+        "subTitle": "(Secure Ledger + Multi-Currency)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Component+4240+%E2%80%93+8.svg",
+        "alt": "Currency Hold Convert Icon"
+      },
+      {
+        "id": 4,
+        "title": "<span>Payments Processed</span>",
+        "subTitle": "(Subscriptions • In-App • Payouts)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/currency+management.svg",
+        "alt": "Payments Processed Icon"
+      },
+      {
+        "id": 5,
+        "title": "<span>Revenue Realized</span>",
+        "subTitle": "(With Fraud Protection)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Automate.svg",
+        "alt": "Revenue Realized Icon"
+      }
+    ],
+    "showArrows": true,
+    "containerClassName": "",
+    "titleClassName": "",
+    "stepClassName": "",
+    "iconSize": {
+      "width": 40,
+      "height": 40
+    }
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "How does Decentro ensure secure handling of recurring payments for dating apps?",
+      "solution": "Decentro utilizes tokenization, adheres to PCI DSS compliance, and offers robust subscription billing engines with webhooks for secure lifecycle management, eliminating sensitive card data storage."
+    },
+    {
+      "query": "What integration options are available for mobile and web dating applications?",
+      "solution": "Decentro provides comprehensive native mobile SDKs for iOS/Android, client-side JavaScript libraries, and server-side API wrappers, all supported by extensive documentation for rapid and flexible integration."
+    },
+    {
+      "query": "How does Decentro help dating platforms prevent fraud and manage chargebacks?",
+      "solution": "Decentro offers AI/ML-powered fraud detection, customizable rule engines, AVS/CVV checks, 3D Secure 2.0 implementation, and streamlined dispute resolution workflows to combat scams and minimize chargebacks."
+    },
+    {
+      "query": "Can Decentro support a global user base with diverse currencies and local payment methods?",
+      "solution": "Yes, Decentro supports multi-currency transactions, dynamic currency conversion, and a wide array of local payment methods across 170+ countries, facilitating seamless global expansion and localized user experiences."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "Global Collections",
+      "description": "Accept subscriptions and in-app purchases from 170+ countries using global and local rails, settling into a single ledger with simplified compliance for dating apps.",
+      "pageLink": "/products/global-collections",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "Subscription & Payouts",
+      "description": "Manage recurring billing, automate dunning, and facilitate payouts to partners or creators across 170+ countries with multi-currency efficiency for dating platforms.",
+      "pageLink": "/products/supplier-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
