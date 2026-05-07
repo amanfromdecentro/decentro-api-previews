@@ -1,0 +1,96 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching API | Verify Identities by Sound",
+    "description": "Decentro's Phonetic Name Matching API accurately verifies identities by matching names that sound alike, overcoming spelling variations, typos, and regional transliterations for enhanced KYC and fraud prevention.",
+    "ogTitle": "Phonetic Name Matching API | Verify Identities by Sound"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching API</span>",
+    "tagline": "Verify Identities by Sound, Not Just Spelling",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Phonetic%20Name%20Matching.svg",
+    "altText": "Phonetic Name Matching API for identity verification",
+    "DBackground": true
+  },
+  "inlineImageAndParagraph": {
+    "headingLight": "What is ",
+    "headingBold": "Phonetic Name Matching?",
+    "text": "Phonetic Name Matching is an advanced API that verifies identities by identifying names that sound similar, even with significant spelling discrepancies, typos, or diverse regional transliterations. It leverages sophisticated algorithms to convert names into phonetic codes, drastically improving the accuracy of identity verification and reducing false negatives in critical processes like KYC and onboarding.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20Phonetic%20Name%20Matching.svg"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "How Decentro's Phonetic Matching Works.",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "header": "Phonetic Encoding",
+        "description": "Names are processed using advanced phonetic algorithms like Soundex, Metaphone, and Double Metaphone, converting them into standardized phonetic codes for robust comparison, irrespective of spelling variations."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "header": "Intelligent Comparison",
+        "description": "The generated phonetic codes are then intelligently compared against target names. This process identifies high-probability matches that might otherwise be missed due to common misspellings or data entry errors."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "header": "Customizable Thresholds",
+        "description": "Users can define specific matching thresholds to control the sensitivity of the comparison. This allows businesses to tailor the API's behavior to their unique risk appetite and operational requirements, ensuring optimal accuracy."
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "block1": [
+      {
+        "heading": "Advanced Phonetic <br/> Algorithms",
+        "paragraph": "Utilizes industry-standard algorithms such as Soundex, Metaphone, and Double Metaphone to convert names into phonetic codes for highly accurate and robust comparisons.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+      },
+      {
+        "heading": "High Accuracy <br/> Matching",
+        "paragraph": "Significantly reduces false negatives and improves overall match rates by intelligently identifying similar-sounding names, crucial for precise identity verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+      },
+      {
+        "heading": "Customizable <br/> Thresholds",
+        "paragraph": "Allows users to precisely define the sensitivity of the name matching process, enabling tailored results that align with specific business requirements and risk policies.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Real-time <br/> Processing",
+        "paragraph": "Delivers instant matching results, ensuring seamless integration into live workflows and enabling immediate decision-making for onboarding and verification processes.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+      },
+      {
+        "heading": "Enterprise <br/> Scalability",
+        "paragraph": "Built to efficiently handle high volumes of name matching requests, providing reliable performance for businesses of all sizes without compromising speed or accuracy.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+      },
+      {
+        "heading": "Global Language <br/> Support",
+        "paragraph": "Designed to accommodate diverse languages and regional naming conventions, ensuring comprehensive coverage and accuracy across a wide range of global identities.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC API",
+      "description": "Streamline customer onboarding and identity verification with comprehensive, real-time KYC checks, ensuring compliance and reducing manual effort.",
+      "pageLink": "/api-hub/kyc-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+    },
+    {
+      "title": "Fraud Detection API",
+      "description": "Proactively identify and prevent fraudulent activities across transactions and user accounts with advanced analytics and real-time risk assessment.",
+      "pageLink": "/api-hub/fraud-detection-api",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+    }
+  ]
+}
