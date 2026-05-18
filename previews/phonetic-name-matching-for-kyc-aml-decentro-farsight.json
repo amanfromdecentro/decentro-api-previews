@@ -1,0 +1,162 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching for KYC & AML | Decentro Farsight",
+    "description": "Enhance KYC and AML with Decentro's Farsight Phonetic Name Matching. Accurately verify identities, prevent fraud, and streamline onboarding despite name variations.",
+    "ogTitle": "Advanced Phonetic Matching for KYC & Fraud Prevention | Decentro"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching for Enhanced KYC</span>",
+    "tagline": "Accurately verify identities, prevent fraud, and streamline onboarding with advanced phonetic algorithms.",
+    "buttonText": "Request a Demo",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Gaming.svg",
+    "altText": "Phonetic Name Matching for KYC and AML",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "99.5%+",
+        "textLight": "Matching Accuracy"
+      },
+      {
+        "textBold": "60%+",
+        "textLight": "Fraud Reduction"
+      },
+      {
+        "textBold": "80%+",
+        "textLight": "Onboarding Time Saved"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro's Phonetic Matching</span>",
+    "tagline": "Advanced Identity Verification for Modern Challenges",
+    "items": [
+      {
+        "title": "Sophisticated Phonetic Algorithms",
+        "description": "Utilizes advanced Soundex and proprietary algorithms to convert names into phonetic codes, ensuring accurate matches despite misspellings, regional variations, or transliteration differences.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "High Accuracy & Fraud Prevention",
+        "description": "Significantly improves identity verification precision, minimizing false negatives while proactively identifying suspicious name patterns indicative of identity fraud or money laundering attempts.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "Seamless Integration & Compliance",
+        "description": "Designed for effortless integration into existing KYC and AML workflows, enabling businesses to efficiently meet stringent regulatory requirements and reduce compliance burdens with ease.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to enhance identity verification and <span className='header-section-highlighted'>combat fraud effectively?</span>",
+    "ctaDescription": "Integrate Decentro's Farsight Phonetic Matching to secure your onboarding process and ensure robust compliance.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Financial Services",
+        "headingBold": "",
+        "text": "Streamline KYC and AML checks for banks, fintechs, and lending platforms, accurately identifying individuals, PEPs, and sanctioned entities to prevent account fraud.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Financial Services"
+      },
+      {
+        "headingLight": "E-commerce & Marketplaces",
+        "headingBold": "",
+        "text": "Verify customer identities to prevent duplicate accounts, combat payment fraud, and ensure the legitimacy of transactions across online retail and marketplace platforms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "E-commerce & Marketplaces"
+      },
+      {
+        "headingLight": "Healthcare Providers",
+        "headingBold": "",
+        "text": "Ensure accurate patient identification, prevent medical identity theft, and facilitate correct record linkage across disparate healthcare systems for improved patient safety.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Healthcare Providers"
+      },
+      {
+        "headingLight": "Government & Public Sector",
+        "headingBold": "",
+        "text": "Enhance citizen identity verification for public services, improve data accuracy in national records, and combat identity fraud within social welfare programs.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Government & Public Sector"
+      },
+      {
+        "headingLight": "Insurance & Lending",
+        "headingBold": "",
+        "text": "Accelerate and secure the onboarding process for new policyholders and loan applicants, reducing manual review and improving overall customer experience while mitigating risk.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Insurance & Lending"
+      },
+      {
+        "headingLight": "Cross-Border Operations",
+        "headingBold": "",
+        "text": "Overcome complexities of transliteration and regional name variations in international transactions, ensuring consistent and accurate identity verification for global compliance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "Cross-Border Operations"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "High-Volume <br/> Identity Checks",
+        "paragraph": "Millions of identity verifications processed with superior accuracy and minimal latency, ensuring robust system performance.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Critical <br/> Fraud Prevention",
+        "paragraph": "Significant reduction in fraud attempts and financial crime incidents, safeguarding assets and maintaining platform integrity.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Real-Time <br/> Verification",
+        "paragraph": "Instantaneous phonetic matching and identity verification, enabling rapid onboarding and seamless user experiences.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Rapid Onboarding <br/> Acceleration",
+        "paragraph": "Expedite customer onboarding by eliminating manual review for name variations, boosting conversion rates significantly.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Uninterrupted <br/> Compliance",
+        "paragraph": "Maintain continuous adherence to KYC and AML regulations with a highly reliable and always-on verification infrastructure.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Robust AML & <br/> KYC Adherence",
+        "paragraph": "Ensure comprehensive compliance with global anti-money laundering and know-your-customer directives, mitigating regulatory risks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "KYC & Onboarding",
+      "description": "Digitally onboard users by conducting instant background verifications with real-time biometric and document checks.",
+      "pageLink": "/products/kyc-onboarding",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    },
+    {
+      "title": "Fraud & Risk Management",
+      "description": "Implement advanced fraud detection and risk assessment tools to protect your platform from financial crimes and identity theft.",
+      "pageLink": "/products/fraud-risk-management",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    }
+  ]
+}
