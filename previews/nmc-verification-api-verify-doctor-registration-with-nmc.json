@@ -1,43 +1,43 @@
 {
   "seo": {
     "title": "NMC Verification API | Verify Doctor Registration with NMC",
-    "description": "Verify medical professional registration with the National Medical Commission (NMC) instantly using Decentro's API for real-time lookup and compliant healthcare onboarding.",
+    "description": "Verify if a medical professional is registered with the National Medical Commission (NMC) instantly using Decentro's NMC Verification API — real-time lookup for compliant healthcare onboarding.",
     "ogTitle": "NMC Verification API | Verify Doctor Registration with NMC"
   },
   "productBanner": {
     "heading": "<span class='highlighted-heading'>NMC Verification API</span>",
-    "tagline": "Instantly Verify Medical Professional Registration in Real Time",
+    "tagline": "Instantly Verify Medical Professional Registration",
     "buttonText": "Explore Now",
     "newTab": false,
     "buttonLink": "/signup/",
     "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/NMC%20Verification.svg",
-    "altText": "NMC Verification API for business",
+    "altText": "NMC Verification API for healthcare",
     "DBackground": true
   },
   "inlineImageAndParagraph": {
     "headingLight": "What is ",
     "headingBold": "NMC Verification?",
-    "text": "NMC Verification confirms if a medical professional is registered with India's National Medical Commission (NMC), the body regulating medical education and practice. Decentro's NMC Verification API instantly validates a doctor's credentials by querying their NMC registration number against the official registry, returning name, qualification, and status in real time, without document uploads or manual review.",
+    "text": "NMC Verification confirms if a medical professional is registered with India's National Medical Commission (NMC), the statutory body regulating medical education and practice. Decentro's API instantly validates a doctor's credentials by querying their NMC registration number against the official registry, returning name, qualification, and status in real time, enabling compliant healthcare onboarding with unparalleled speed and accuracy.",
     "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20NMC%20Verification.svg"
   },
   "methodData": {
     "heading": "Methodology",
-    "subHeading": "Verification Process Flow.",
+    "subHeading": "Real-Time Verification Flow.",
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
-        "header": "Input Collection",
-        "description": "Initiate the verification process by securely providing the NMC registration number of the medical professional, ensuring accurate input for the subsequent validation against the official registry."
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Collect%20Input.svg",
+        "header": "Collect Registration Input",
+        "description": "Collect the NMC registration number of the medical professional to be verified. This single input initiates the verification process, streamlining data collection and reducing manual entry errors for efficient onboarding."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
-        "header": "Real-Time Validation",
-        "description": "Decentro queries the official NMC database in real time, extracting the doctor's name, qualification, registration date, and current status directly from the source registry."
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Validate%20Registry.svg",
+        "header": "Validate Against the Registry",
+        "description": "Decentro's API queries the official National Medical Commission (NMC) database in real time, ensuring direct access to the most current and authoritative practitioner records without relying on cached or stale data."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
-        "header": "Data Retrieval",
-        "description": "Receive a structured, comprehensive response with verification status and complete practitioner data, enabling instant, informed decision-making for onboarding workflows."
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Extract%20Details.svg",
+        "header": "Extract & Return Practitioner Details",
+        "description": "The API extracts and returns comprehensive practitioner details, including the doctor's full name, qualification, registration date, and current status, providing a structured response for immediate use and record-keeping."
       }
     ]
   },
@@ -46,51 +46,51 @@
     "headingBold": "Features",
     "block1": [
       {
-        "heading": "Real-Time <br/> Registry Access",
-        "paragraph": "Queries the official NMC database in real time, ensuring no cached or stale data is used for verification, providing up-to-date practitioner information.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+        "heading": "Instant Registry <br/> Lookup",
+        "paragraph": "Queries the official NMC database directly in real time, ensuring access to the most current and authoritative practitioner records without relying on cached or stale data for verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Registry%20Lookup.svg"
       },
       {
-        "heading": "Simplicity",
-        "paragraph": "Only the NMC registration number is required for verification, eliminating the need for document uploads or additional manual details.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+        "heading": "Qualification & <br/> Specialisation Return",
+        "paragraph": "Retrieves the doctor's degree, specialisation, and registration details directly from the official NMC record, providing granular insights into their professional qualifications and status.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Qualification%20Return.svg"
       },
       {
-        "heading": "High-Volume <br/> Scalability",
-        "paragraph": "Designed to efficiently handle high-volume verification flows with consistent uptime and low latency for seamless operation.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+        "heading": "Single-Field <br/> Input",
+        "paragraph": "Only the NMC registration number is needed for verification, eliminating document uploads, OCR processing, or additional details, simplifying the input process for faster onboarding.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Single%20Field%20Input.svg"
       }
     ],
     "block1extra": [
       {
-        "heading": "Detailed <br/> Qualification",
-        "paragraph": "Retrieves the doctor's degree, specialisation, and registration details directly from the official NMC record for comprehensive insights.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+        "heading": "Regex-Based <br/> Pre-Validation",
+        "paragraph": "Ensures the input format matches NMC's standard registration number pattern through regex-based pre-validation, reducing errors and optimising query efficiency.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Regex%20Pre-Validation.svg"
       },
       {
-        "heading": "Secure, Compliant <br/> Infrastructure",
-        "paragraph": "Built on robust KYC, AML, and data protection standards applicable across regulated healthcare and fintech industries.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+        "heading": "Secure & <br/> Compliant Infrastructure",
+        "paragraph": "Built on KYC, AML, and data protection standards applicable across regulated healthcare and fintech industries.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Secure%20Compliant%20Infrastructure.svg"
       },
       {
-        "heading": "Regex <br/> Pre-Validation",
-        "paragraph": "Ensures the input format matches NMC's standard registration number pattern before querying the official database.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+        "heading": "Scalable & <br/> High-Performance",
+        "paragraph": "Designed to handle high-volume verification flows with consistent uptime and low latency, ensuring robust performance and scalability for enterprise-level healthcare platforms.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Scalable%20High%20Performance.svg"
       }
     ]
   },
   "recommendedPages": [
     {
       "title": "ICAI Verification API",
-      "description": "Verify membership status and professional credentials of Chartered Accountants with the ICAI.",
-      "pageLink": "/api-hub/icai-verification-api/",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/icai-verification/ICAI-Verification.svg"
+      "description": "Verify Chartered Accountant credentials with ICAI Verification API for professional onboarding and compliance checks.",
+      "pageLink": "/icai-verification-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ICAI%20Verification.svg"
     },
     {
       "title": "Employment Verification API",
-      "description": "Instantly verify an individual's employment status and history directly from official, reliable sources.",
-      "pageLink": "/api-hub/employment-verification-api/",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/employment-verification/Employment-Verification.svg"
+      "description": "Instantly verify an individual's employment status and history for secure onboarding, lending decisions, and background checks.",
+      "pageLink": "/employment-verification-api/",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Employment%20Verification.svg"
     }
   ]
 }
