@@ -65,7 +65,7 @@
   "inlineImageAndParagraph2": {
     "headingLight": "What Makes Decentro's NMC Verification API",
     "headingBold": " Different?",
-    "text": "Decentro's NMC Verification API connects directly to the official National Medical Commission registry to return verified practitioner credentials in under 2 seconds — no document uploads, no OCR, no manual review. Unlike basic verification tools that rely on scraped databases or cached records, our API queries the source registry in real time, returning the doctor's full name, registration number, qualification, date of registration, and current status in a single structured response.",
+    "text": "Decentro's NMC Verification API connects directly to the official National Medical Commission registry to return verified practitioner credentials in under 2 seconds — no document uploads, no OCR, no manual review. Unlike basic verification tools that rely on scraped databases or cached records, our API queries the source registry in real time, returning the doctor's full name, registration number, qualification, date of registration, and current status in a single structured response.Built within Decentro's unified professional verification framework, it integrates seamlessly alongside other KYC and professional verification APIs for end-to-end healthcare and workforce onboarding workflows.",
     "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
     "subheadings": [
       {
