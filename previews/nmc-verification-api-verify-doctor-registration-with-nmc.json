@@ -10,160 +10,76 @@
     "buttonText": "Explore Now",
     "newTab": false,
     "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/NMC%20Verification.svg",
-    "altText": "NMC Verification API for healthcare onboarding",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/CIN.svg",
+    "altText": "NMC Verification API",
     "DBackground": true
   },
   "tableOfContents": [
     {
-      "text": "What is NMC Verification?",
-      "id": "upiAutopayForBusiness"
-    },
-    {
-      "text": "How NMC Verification Works with Decentro",
-      "id": "upiAutopayForBusiness2"
+      "text": "What Makes Our NMC Verification Different?",
+      "id": "whatIsSection"
     },
     {
       "text": "Methodology",
       "id": "methodSection"
     },
     {
-      "text": "The Need For NMC Verification APIs",
-      "id": "needFor"
+      "text": "Why Verify Medical Professionals Through NMC?",
+      "id": "leverageSection"
     },
     {
-      "text": "Types of APIs",
-      "id": "horizontalComparison"
-    },
-    {
-      "text": "How Can Your Business Leverage NMC Verification APIs",
-      "id": "upiAutopayLeveraging"
-    },
-    {
-      "text": "Key Features Of NMC Verification API",
-      "id": "KeyFeatures"
+      "text": "Key Features of NMC Verification API",
+      "id": "keyFeatures"
     },
     {
       "text": "Where You Can Use It",
       "id": "whereToUse"
     },
     {
-      "text": "NMC Verification APIs For Your Business - How can Decentro Help?",
+      "text": "Why Use Decentro's NMC Verification API",
       "id": "howCanDecentroHelp"
     },
     {
-      "text": "Frequently Asked Questions?",
+      "text": "Frequently Asked Questions",
       "id": "commonlyAskedQuestions"
     }
   ],
   "inlineImageAndParagraph": {
-    "headingLight": "What is ",
-    "headingBold": "NMC Verification?",
-    "text": "NMC Verification is the process of confirming whether a medical professional — typically a doctor or physician — is registered with the National Medical Commission (NMC) of India, the statutory body that regulates and maintains standards of medical education and practice under the National Medical Commission Act, 2019. Every qualified medical practitioner in India must hold a valid NMC registration number to practice medicine legally.<br/><br/>Decentro's NMC Verification API enables businesses and healthcare platforms to instantly validate a doctor's credentials by querying their NMC registration number against the official NMC registry — returning the practitioner's name, registration number, qualification, and registration status in real time, without any document uploads or manual verification.",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20NMC%20Verification.svg"
-  },
-  "inlineImageAndParagraph2": {
-    "headingLight": "What Makes Decentro's NMC Verification API",
-    "headingBold": " Different?",
-    "text": "Decentro's NMC Verification API connects directly to the official National Medical Commission registry to return verified practitioner credentials in under 2 seconds — no document uploads, no OCR, no manual review. Unlike basic verification tools that rely on scraped databases or cached records, our API queries the source registry in real time, returning the doctor's full name, registration number, qualification, date of registration, and current status in a single structured response.Built within Decentro's unified professional verification framework, it integrates seamlessly alongside other KYC and professional verification APIs for end-to-end healthcare and workforce onboarding workflows.",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202138%20%E2%80%93%202.svg",
-    "subheadings": [
-      {
-        "title": "Built within Decentro's unified professional verification framework, it integrates seamlessly alongside other KYC and professional verification APIs for end-to-end healthcare and workforce onboarding workflows."
-      },
-      {
-        "title": "Real-Time Source Registry Access",
-        "bulletPoints": [
-          "Queries the official NMC database directly in real time — no intermediaries, no cached or stale data — ensuring every verification reflects the most current registration status of the medical professional."
-        ]
-      },
-      {
-        "title": "Structured Single-Response Output",
-        "bulletPoints": [
-          "Returns the doctor's full name, registration number, qualification, date of registration, affiliated state medical council, and current status in a single structured JSON response for seamless downstream processing."
-        ]
-      },
-      {
-        "title": "Unified Professional Verification Framework",
-        "bulletPoints": [
-          "Integrates seamlessly alongside Decentro's ICAI, ICSI, Employment Verification, and other professional verification APIs — enabling end-to-end healthcare and workforce onboarding from a single platform."
-        ]
-      }
-    ]
-  },
-  "headingAndItems": {
-    "headingBold": "Methodology",
-    "headingLight": "",
-    "tagline": "",
-    "items": [
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/data-analysis.svg",
-        "title": "Collect Registration Input",
-        "description": "Pass the NMC registration number of the medical professional to be verified. Only a single input field is required — no document uploads or additional personal details needed."
-      },
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/intelligent-scoring.svg",
-        "title": "Validate Against the Registry",
-        "description": "Decentro queries the official NMC database in real time, matching the provided registration number against the National Medical Register maintained by the National Medical Commission."
-      },
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/risk-categorization.svg",
-        "title": "Get Verified Results",
-        "description": "Receive a structured response containing the doctor's name, qualification, registration date, affiliated state medical council, and current registration status — all verified and ready for downstream processing."
-      }
-    ]
+    "headingLight": "What Makes Our",
+    "headingBold": "NMC Verification Different?",
+    "text": "Decentro's NMC Verification API connects directly to the official National Medical Commission registry to return verified practitioner credentials in under 2 seconds — no document uploads, no OCR, no manual review. Unlike basic verification tools that rely on scraped databases or cached records, our API queries the source registry in real time, returning the doctor's full name, registration number, qualification, date of registration, and current status in a single structured response.<br/><br/>Built within Decentro's unified professional verification framework, the NMC Verification API integrates seamlessly alongside other KYC and professional verification APIs for end-to-end healthcare and workforce onboarding workflows. Every qualified medical practitioner in India must hold a valid NMC registration number to practice medicine legally, and our API enables businesses and healthcare platforms to instantly validate a doctor's credentials by querying their NMC registration number against the official NMC registry — returning the practitioner's name, registration number, qualification, and registration status in real time, without any document uploads or manual verification.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(8).svg",
+    "altText": "What Makes Our NMC Verification Different?"
   },
   "textAndButtonBannerTransparent": {
     "text": "",
     "ctaButtonText": "View Product Guide",
     "newTab": true,
-    "ctaButtonLink": "https://docs.decentro.tech/docs/nmc-verification-api"
+    "ctaButtonLink": "https://docs.decentro.tech/docs/kyc-and-onboarding-identities-verification-services-customer-verification"
   },
   "methodData": {
     "heading": "Methodology",
-    "subHeading": "NMC Verification Workflow.",
+    "subHeading": "Verifying a medical professional's credentials is simple with Decentro's NMC Verification API",
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Request%20Verification%20(1).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Group%2050206.svg",
         "header": "Collect Registration Input",
-        "description": "Pass the NMC registration number of the medical professional to be verified. The API requires only a single input field — no document uploads, no OCR, and no additional personal details."
+        "description": "Pass the NMC registration number of the medical professional to be verified."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification%20(1).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integrate.svg",
         "header": "Validate Against the Registry",
-        "description": "Decentro queries the official NMC database in real time, matching the provided registration number against the National Medical Register to extract and validate practitioner credentials."
+        "description": "Decentro queries the official NMC database in real time to authenticate the registration number."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20Retrieval.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification.svg",
+        "header": "Extract & Return Practitioner Details",
+        "description": "Fetch the doctor's name, qualification, registration date, and current status from the NMC record."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BusinessCertificate.svg",
         "header": "Get Verified Results",
-        "description": "Receive a structured JSON response containing the doctor's full name, qualification, registration date, affiliated state medical council, and current registration status — verified and timestamped."
-      }
-    ]
-  },
-  "descriptiveItemListFour": {
-    "heading": "Why Verify Medical Professionals <span class='highlighted-subsection-header'>Through NMC?</span>",
-    "tagline": "",
-    "headingStyleThemeBlue": false,
-    "items": [
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Report.svg",
-        "title": "Credential<br/>Authenticity",
-        "description": "Confirm that a doctor or medical professional holds a valid, active NMC registration — protecting your platform from fraudulent or unqualified practitioners during onboarding or engagement."
-      },
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RCpmpliance.svg",
-        "title": "Patient Safety &<br/>Healthcare Compliance",
-        "description": "Healthcare platforms, telemedicine services, and hospitals are obligated to engage only NMC-registered practitioners. Automated verification ensures regulatory compliance without reliance on manual checks or self-declarations."
-      },
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automate.svg",
-        "title": "Faster Medical<br/>Professional Onboarding",
-        "description": "Eliminate manual credential collection and verification bottlenecks by validating NMC registration instantly via API — reducing onboarding TAT from days to seconds."
-      },
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/guranteed.svg",
-        "title": "Fraud & Risk<br/>Mitigation",
-        "description": "Detect and reject invalid, fabricated, or expired NMC registration numbers before a medical professional is onboarded to a clinical, advisory, or telehealth role."
+        "description": "Receive a structured response with verification status and full practitioner data instantly."
       }
     ]
   },
@@ -171,56 +87,43 @@
     "text": "",
     "ctaButtonText": "View Product Guide",
     "newTab": true,
-    "ctaButtonLink": "https://docs.decentro.tech/docs/nmc-verification-api"
+    "ctaButtonLink": "https://docs.decentro.tech/docs/kyc-and-onboarding-identities-verification-services-customer-verification"
   },
   "adjacentData": {
     "heading": {
-      "light": "Why Use Decentro's",
-      "bold": "NMC Verification API?"
+      "light": "Why Verify Medical Professionals",
+      "bold": "Through NMC?"
     },
     "data": [
       {
-        "headingLight": "Real-Time Registry Access",
+        "headingLight": "Credential Authenticity",
         "headingBold": "",
-        "text": "Query the official NMC database directly — no intermediaries, no stale data. Every verification reflects the most current registration status from the National Medical Commission.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(3).svg",
-        "altText": "Real-Time Registry Access"
+        "text": "Confirm that a doctor or medical professional holds a valid, active NMC registration — protecting your platform from fraudulent or unqualified practitioners during onboarding or engagement.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(5).svg",
+        "altText": "Credential Authenticity"
       },
       {
-        "headingLight": "Instant Credential Confirmation",
+        "headingLight": "Patient Safety & Healthcare Compliance",
         "headingBold": "",
-        "text": "Verify registration status and qualification details in under 2 seconds, enabling rapid onboarding of medical professionals without manual review delays.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(5).svg",
-        "altText": "Instant Credential Confirmation"
+        "text": "Healthcare platforms, telemedicine services, and hospitals are obligated to engage only NMC-registered practitioners. Automated verification ensures regulatory compliance without reliance on manual checks or self-declarations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ID%20Verification.svg",
+        "altText": "Patient Safety & Healthcare Compliance"
       },
       {
-        "headingLight": "Fraud Prevention",
+        "headingLight": "Faster Medical Professional Onboarding",
         "headingBold": "",
-        "text": "Reject invalid, fabricated, or lapsed NMC registration numbers before onboarding begins — safeguarding your platform from unqualified or fraudulent practitioners.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliance.svg",
-        "altText": "Fraud Prevention"
+        "text": "Eliminate manual credential collection and verification bottlenecks by validating NMC registration instantly via API — reducing onboarding TAT from days to seconds.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant.svg",
+        "altText": "Faster Medical Professional Onboarding"
       },
       {
-        "headingLight": "Seamless Integration",
+        "headingLight": "Fraud & Risk Mitigation",
         "headingBold": "",
-        "text": "Works within Decentro's unified professional and identity verification framework alongside ICSI, ICAI, Employment Verification, and other APIs for end-to-end onboarding workflows.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Decision%20making.svg",
-        "altText": "Seamless Integration"
-      },
-      {
-        "headingLight": "Regulatory Confidence",
-        "headingBold": "",
-        "text": "Stay audit-ready with verified, timestamped verification records for every NMC check — ensuring full compliance with healthcare regulations and data protection standards.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/collection%20(2).svg",
-        "altText": "Regulatory Confidence"
+        "text": "Detect and reject invalid, fabricated, or expired NMC registration numbers before a medical professional is onboarded to a clinical, advisory, or telehealth role.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Identify%20fraud%20(3).svg",
+        "altText": "Fraud & Risk Mitigation"
       }
     ]
-  },
-  "textAndButtonBannerTransparent6": {
-    "text": "",
-    "ctaButtonText": "View Product Guide",
-    "newTab": true,
-    "ctaButtonLink": "https://docs.decentro.tech/docs/nmc-verification-api"
   },
   "useCases": {
     "headingLight": "Key",
@@ -228,74 +131,64 @@
     "tagline": "",
     "block1": [
       {
-        "heading": "Instant Registry <br/> Lookup",
-        "paragraph": "Queries the official NMC database in real time — no cached or stale data — ensuring every verification reflects the latest registration status.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/001-cascade-rectangular-rellena.svg"
+        "heading": "Instant<br/>Registry Lookup",
+        "paragraph": "Queries the official NMC database in real time — no cached or stale data, ensuring every verification reflects the latest registry status.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RealTime-Verification%20(1).svg"
       },
       {
-        "heading": "Qualification & <br/> Specialisation Return",
-        "paragraph": "Retrieves the doctor's degree, specialisation, and registration details directly from the NMC record for comprehensive credential validation.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Omniscore%20(1).svg"
+        "heading": "Qualification &<br/>Specialisation Return",
+        "paragraph": "Retrieves the doctor's degree, specialisation, and registration details directly from the NMC record in a single structured response.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(2).svg"
       },
       {
-        "heading": "Single-Field <br/> Input",
-        "paragraph": "Only the NMC registration number is needed — no document uploads, no OCR, and no additional personal details required to initiate verification.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Compliant%20(6).svg"
+        "heading": "Single-Field<br/>Input",
+        "paragraph": "Only the NMC registration number is needed — no document uploads or additional details required for instant verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20Data%20(1).svg"
       }
     ],
     "block1extra": [
       {
-        "heading": "Regex-Based <br/> Pre-Validation",
-        "paragraph": "Ensures input format matches NMC's standard registration number pattern before querying, reducing unnecessary API calls and improving accuracy.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(3).svg"
+        "heading": "Regex-Based<br/>Pre-Validation",
+        "paragraph": "Ensures input format matches NMC's standard registration number pattern before querying, reducing unnecessary API calls and errors.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(5).svg"
       },
       {
-        "heading": "Secure & Compliant <br/> Infrastructure",
-        "paragraph": "Built on KYC, AML, and data protection standards applicable across regulated healthcare and fintech industries for enterprise-grade security.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/api-hub/mule-detection/RealTime-Verification.svg"
+        "heading": "Secure &<br/>Compliant Infrastructure",
+        "paragraph": "Built on KYC, AML, and data protection standards applicable across regulated healthcare and fintech industries for maximum trust.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Secured%20(1).svg"
       },
       {
-        "heading": "Scalable & <br/> High-Performance",
-        "paragraph": "Designed to handle high-volume verification flows with consistent uptime and low latency — suitable for large-scale healthcare onboarding.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(1).svg"
+        "heading": "Scalable &<br/>High-Performance",
+        "paragraph": "Designed to handle high-volume verification flows with consistent uptime and low latency for enterprise-grade healthcare onboarding.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202099%20%E2%80%93%208.svg"
       }
     ],
     "showOthers": false,
     "tagline2": "",
     "block2": []
   },
-  "descriptiveItemList": {
+  "descriptiveItemListFour": {
     "heading": "Where You Can <span class='highlighted-subsection-header'>Use It</span>",
     "items": [
       {
         "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
-        "title": "Healthcare Platforms <br/>& Hospitals",
-        "description": "Verify NMC registration before onboarding doctors, consultants, or visiting practitioners to clinical roles — ensuring only qualified professionals are engaged."
+        "title": "Healthcare Platforms & Hospitals",
+        "description": "Verify NMC registration before onboarding doctors, consultants, or visiting practitioners to clinical roles across hospital networks"
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Lending%20(3).svg",
-        "title": "Telemedicine & <br/>Digital Health",
-        "description": "Ensure all practitioners on your platform hold valid NMC credentials before they can consult patients — critical for regulatory compliance in virtual care."
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20SME.svg",
+        "title": "Telemedicine & Digital Health",
+        "description": "Ensure all practitioners on your platform hold valid NMC credentials before they can consult patients remotely or in-person"
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(1).svg",
-        "title": "Health-tech & <br/>Insurance",
-        "description": "Validate medical professional credentials for claim processing, policy issuance, or panel empanelment to prevent fraudulent claims and ensure network integrity."
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Investment.svg",
+        "title": "Health-tech & Insurance",
+        "description": "Validate medical professional credentials for claim processing, policy issuance, or panel empanelment across insurance workflows"
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ecom.svg",
-        "title": "Staffing & <br/>Recruitment",
-        "description": "Automate pre-hire credential checks for medical roles across hospitals, clinics, and healthcare organisations — reducing onboarding time from days to seconds."
-      },
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Market.svg",
-        "title": "Pharma & <br/>Medical Devices",
-        "description": "Confirm the credentials of Key Opinion Leaders (KOLs) and medical advisors engaged for product launches, clinical trials, or advisory panels."
-      },
-      {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BillPayment%20(1).svg",
-        "title": "BFSI & <br/>Fintech",
-        "description": "Verify doctor credentials for healthcare-linked lending, medical insurance onboarding, or professional loan applications to mitigate risk and ensure compliance."
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fund%20Management.svg",
+        "title": "Staffing, Recruitment & BFSI",
+        "description": "Automate pre-hire credential checks for medical roles and verify doctor credentials for healthcare-linked lending or professional loan applications"
       }
     ]
   },
@@ -305,143 +198,86 @@
     "tagline": "",
     "bulletPointsHeader": "Why Use Decentro's NMC Verification API?",
     "subheadings": true,
-    "lineHeight": "640px",
+    "lineHeight": "610px",
     "bulletPoints": [
       {
         "heading": "Real-Time Registry Access",
-        "text": "Query the official NMC database directly with zero intermediaries, ensuring every verification reflects the most current and accurate registration status from the National Medical Commission."
+        "text": "Query the official NMC database directly — no intermediaries, no stale data, and no dependency on scraped or cached records."
       },
       {
         "heading": "Instant Credential Confirmation",
-        "text": "Verify registration status, qualification details, and affiliated state medical council in under 2 seconds — enabling rapid onboarding without manual review bottlenecks."
+        "text": "Verify registration status and qualification details in under 2 seconds for rapid healthcare onboarding."
       },
       {
         "heading": "Fraud Prevention",
-        "text": "Reject invalid, fabricated, or lapsed NMC registration numbers before a medical professional is onboarded to any clinical, advisory, or telehealth role on your platform."
+        "text": "Reject invalid, fabricated, or lapsed NMC registration numbers before onboarding begins, protecting your platform from unqualified practitioners."
       },
       {
         "heading": "Seamless Integration",
-        "text": "Works within Decentro's unified professional and identity verification framework alongside ICSI, ICAI, Employment Verification, and other APIs for comprehensive onboarding workflows."
+        "text": "Works within Decentro's unified professional and identity verification framework alongside ICSI, ICAI, and other professional verification APIs."
       },
       {
         "heading": "Regulatory Confidence",
-        "text": "Stay audit-ready with verified, timestamped verification records for every NMC check — ensuring full compliance with healthcare regulations and data protection standards."
-      },
-      {
-        "heading": "Scalable High-Volume Processing",
-        "text": "Handle bulk NMC verification requests with consistent uptime and low latency — suitable for large hospital networks and health-tech platforms onboarding hundreds of doctors simultaneously."
+        "text": "Stay audit-ready with verified, timestamped verification records for every NMC check performed through the API."
       },
       {
         "heading": "Uninterrupted Operations",
-        "text": "Leverage Decentro's robust multi-layered infrastructure in the backend so unexpected downtimes, volume spikes, or peak onboarding periods will not impact your verification workflows."
+        "text": "Leverage a multi-source architecture in the backend so that unexpected downtimes, black swan events, or volume spikes will not impact your business or verification workflows."
       }
     ],
     "textInBoxList": [
       {
         "textInBox": "Access our Product Guide",
         "linkText": "API Documentation",
-        "link": "https://docs.decentro.tech/docs/nmc-verification-api"
+        "link": "https://docs.decentro.tech/reference/kyc-and-onboarding-api-reference-identities-verification-services-customer-verification-validate-api"
       }
-    ]
-  },
-  "textAndButtonBannerTransparent3": {
-    "text": "<br/><span>Got Questions?</span>",
-    "ctaButtonText": "Talk to an Expert Now!",
-    "ctaButtonLink": "/signup/"
-  },
-  "textAndButtonBannerTransparent4": {
-    "text": "<span>Robust and Efficient APIs</span> to Verify Medical Professionals",
-    "ctaButtonText": "Get Started Now",
-    "newTab": false,
-    "ctaButtonLink": "/signup/"
-  },
-  "subBanner": {
-    "logo": "https://dxeyonoqmp66q.cloudfront.net/Scanner%20Module.svg",
-    "text": "Decentro's NMC Verification API enables real-time validation of medical practitioners against the National Medical Commission registry, delivering verified results in under 500ms with comprehensive details including Registration Number, Qualification, and State Medical Council affiliation.",
-    "boldText": [
-      "NMC Verification API",
-      "real-time",
-      "500ms",
-      "Registration Number",
-      "Qualification",
-      "State Medical Council"
     ]
   },
   "frequentlyAskedQuestions": [
     {
-      "query": "What is NMC Verification?",
-      "solution": "NMC Verification is the process of validating a medical practitioner's credentials against the National Medical Commission (formerly MCI) database. It confirms the authenticity of a doctor's registration number, qualifications, and license status, ensuring that only legitimate and authorized medical professionals are onboarded onto healthcare platforms, insurance networks, and telemedicine services."
+      "query": "What does Decentro's NMC Verification API check?",
+      "solution": "The API validates a medical professional's NMC registration number against the official National Medical Commission registry and returns the practitioner's name, qualification, registration date, current status, and affiliated state medical council in real time."
     },
     {
-      "query": "Why is NMC Verification important for businesses?",
-      "solution": "NMC Verification is critical for healthcare platforms, insurance companies, hospital chains, and telemedicine providers to ensure regulatory compliance and patient safety. It helps prevent fraudulent practitioners from entering the ecosystem, reduces liability risks, and builds trust with end consumers by guaranteeing that listed doctors hold valid and recognized medical credentials."
+      "query": "Does the user need to upload any documents?",
+      "solution": "No. Only the NMC registration number is required. The API fetches all details directly from the official NMC registry — no document uploads, no OCR, and no manual intervention needed."
     },
     {
-      "query": "Who can use Decentro's NMC Verification API?",
-      "solution": "Healthtech platforms, telemedicine providers, insurance companies, hospital management systems, pharmacy networks, corporate wellness platforms, and any business that needs to verify the credentials of medical professionals can leverage Decentro's NMC Verification API for seamless and automated doctor verification at scale."
+      "query": "What is the difference between NMC and state medical council registration?",
+      "solution": "The NMC maintains the National Medical Register, which aggregates records from all state medical councils across India. A doctor is registered with their respective state council first — this data is then reflected in the central NMC registry. Decentro's API queries the NMC's central database to return verified, consolidated records."
     },
     {
-      "query": "How is Decentro's NMC Verification API different from manual verification?",
-      "solution": "Unlike manual verification, which involves time-consuming searches on government portals and is prone to human error, Decentro's NMC Verification API automates the entire process via a single API call. It delivers real-time, accurate results in milliseconds, supports bulk verification, and integrates seamlessly into existing onboarding and compliance workflows."
+      "query": "Can this API be used for bulk verification during large-scale medical staff onboarding?",
+      "solution": "Yes. Decentro's API is built for high-volume flows and can handle bulk NMC verification requests with consistent uptime and low latency — suitable for large hospital networks and health-tech platforms onboarding hundreds of doctors simultaneously."
+    },
+    {
+      "query": "Is this API compliant with data protection and healthcare regulations?",
+      "solution": "Yes. Decentro follows strict regulatory standards for data security, privacy, and compliance — including applicable healthcare data handling requirements — across all professional verification flows."
     }
   ],
+  "textAndButtonBannerTransparent3": {
+    "text": "<br/><span>Got Questions?</span>",
+    "ctaButtonText": "Talk to Our Experts Now!",
+    "ctaButtonLink": "/signup/"
+  },
+  "textAndButtonBannerTransparent4": {
+    "text": "<span>Ready to streamline your medical professional verification process?<br/></span>",
+    "ctaButtonText": "Get Started Now",
+    "newTab": false,
+    "ctaButtonLink": "/signup/"
+  },
   "recommendedPages": [
     {
       "title": "ICAI Verification API",
-      "description": "Verify Chartered Accountant membership credentials instantly with Decentro's ICAI Verification API.",
-      "pageLink": "/api-hub/icai-verification-api/",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204390%20%E2%80%93%203.svg"
+      "description": "Instantly verify ICAI membership credentials for chartered accountants and financial professionals.",
+      "pageLink": "/resources/icai-verification-api/",
+      "imageSrc": "/images/resources/gst.svg"
     },
     {
       "title": "Employment Verification API",
       "description": "Automate employment history and credential verification for seamless workforce onboarding.",
-      "pageLink": "/api-hub/employment-verification-api/",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204391%20%E2%80%93%203.svg"
+      "pageLink": "/resources/employment-verification-api/",
+      "imageSrc": "/images/resources/pan-verification/banner.svg"
     }
-  ],
-  "textAndButtonBannerTransparent5": {
-    "text": "",
-    "ctaButtonText": "View Product Guide",
-    "newTab": true,
-    "ctaButtonLink": "https://docs.decentro.tech/docs/nmc-verification-api"
-  },
-  "horizontalComparisonData": {
-    "heading": "<span class='highlighted-text'>API Types</span>",
-    "subheading": "Explore the Two API Variants Available",
-    "items": [
-      {
-        "img": "https://dxeyonoqmp66q.cloudfront.net/Basic.svg",
-        "subheading": "NMC Verification <br/>Basic API",
-        "list": [
-          {
-            "text": "Validates core practitioner details against the National Medical Commission registry in real time"
-          },
-          {
-            "text": "Registration Number Verification"
-          },
-          {
-            "text": "Doctor Name & Qualification Validation"
-          },
-          {
-            "text": "State Medical Council Affiliation Check"
-          }
-        ]
-      },
-      {
-        "img": "https://dxeyonoqmp66q.cloudfront.net/Advanced.svg",
-        "subheading": "NMC Verification <br/>Advanced API",
-        "list": [
-          {
-            "text": "Extends the Basic variant with enriched practitioner intelligence and deeper compliance insights"
-          },
-          {
-            "text": "License Validity & Renewal Status"
-          },
-          {
-            "text": "Specialization & Practice History Analysis"
-          }
-        ]
-      }
-    ]
-  }
+  ]
 }
