@@ -47,7 +47,7 @@
   "inlineImageAndParagraph": {
     "headingLight": "What Makes Our",
     "headingBold": "NMC Verification Different?",
-    "text": "Decentro's NMC Verification API connects directly to the official National Medical Commission registry to return verified practitioner credentials in under 2 seconds — no document uploads, no OCR, no manual review. Unlike basic verification tools that rely on scraped databases or cached records, our API queries the source registry in real time, returning the doctor's full name, registration number, qualification, date of registration, and current status in a single structured response.<br/><br/>Built within Decentro's unified professional verification framework, the NMC Verification API integrates seamlessly alongside other KYC and professional verification APIs for end-to-end healthcare and workforce onboarding workflows. Every qualified medical practitioner in India must hold a valid NMC registration number to practice medicine legally, and our API enables businesses and healthcare platforms to instantly validate a doctor's credentials by querying their NMC registration number against the official NMC registry — returning the practitioner's name, registration number, qualification, and registration status in real time, without any document uploads or manual verification.",
+    "text": "Decentro's NMC Verification API connects directly to the official National Medical Commission registry to return verified practitioner credentials in under 2 seconds — no document uploads, no OCR, no manual review. Unlike basic verification tools that rely on scraped databases or cached records, our API queries the source registry in real time, returning the doctor's full name, registration number, qualification, date of registration, and current status in a single structured response. Built within Decentro's unified professional verification framework, it integrates seamlessly alongside other KYC and professional verification APIs for end-to-end healthcare and workforce onboarding workflows.",
     "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(8).svg",
     "altText": "What Makes Our NMC Verification Different?"
   },
@@ -55,7 +55,7 @@
     "text": "",
     "ctaButtonText": "View Product Guide",
     "newTab": true,
-    "ctaButtonLink": "https://docs.decentro.tech/docs/kyc-and-onboarding-identities-verification-services-customer-verification"
+    "ctaButtonLink": "https://docs.decentro.tech/reference/kyc-and-onboarding-api-reference-identities-verification-services-professional-verification-nmc"
   },
   "methodData": {
     "heading": "Methodology",
@@ -87,7 +87,7 @@
     "text": "",
     "ctaButtonText": "View Product Guide",
     "newTab": true,
-    "ctaButtonLink": "https://docs.decentro.tech/docs/kyc-and-onboarding-identities-verification-services-customer-verification"
+    "ctaButtonLink": "https://docs.decentro.tech/reference/kyc-and-onboarding-api-reference-identities-verification-services-professional-verification-nmc"
   },
   "adjacentData": {
     "heading": {
@@ -187,8 +187,8 @@
       },
       {
         "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fund%20Management.svg",
-        "title": "Staffing, Recruitment & BFSI",
-        "description": "Automate pre-hire credential checks for medical roles and verify doctor credentials for healthcare-linked lending or professional loan applications"
+        "title": "Staffing & Recruitment",
+        "description": "Automate pre-hire credential checks for medical roles across hospitals, clinics, and healthcare organisations"
       }
     ]
   },
@@ -229,7 +229,7 @@
       {
         "textInBox": "Access our Product Guide",
         "linkText": "API Documentation",
-        "link": "https://docs.decentro.tech/reference/kyc-and-onboarding-api-reference-identities-verification-services-customer-verification-validate-api"
+        "link": "https://docs.decentro.tech/reference/kyc-and-onboarding-api-reference-identities-verification-services-professional-verification-nmc"
       }
     ]
   },
@@ -269,14 +269,14 @@
   "recommendedPages": [
     {
       "title": "ICAI Verification API",
-      "description": "Instantly verify ICAI membership credentials for chartered accountants and financial professionals.",
-      "pageLink": "/resources/icai-verification-api/",
+      "description": "Real-time ICAI Membership Verification to ensure the authenticity of Chartered Accountants (CAs)",
+      "pageLink": "https://decentro.tech/api-hub/icai-verification",
       "imageSrc": "/images/resources/gst.svg"
     },
     {
-      "title": "Employment Verification API",
-      "description": "Automate employment history and credential verification for seamless workforce onboarding.",
-      "pageLink": "/resources/employment-verification-api/",
+      "title": "Professional Verification",
+      "description": "Authenticate membership of Medical Doctors, Chartered Accountants, and Company Secretaries in NMC, ICAI and ICSI associations",
+      "pageLink": "https://decentro.tech/resources/professional-verification",
       "imageSrc": "/images/resources/pan-verification/banner.svg"
     }
   ]
