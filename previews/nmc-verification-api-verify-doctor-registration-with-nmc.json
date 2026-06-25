@@ -10,7 +10,7 @@
     "buttonText": "Explore Now",
     "newTab": false,
     "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/CIN.svg",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ICSI%20VERIFICATION.svg",
     "altText": "NMC Verification API",
     "DBackground": true
   },
@@ -77,7 +77,7 @@
         "description": "Fetch the doctor's name, qualification, registration date, and current status from the NMC record."
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BusinessCertificate.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/verify.svg",
         "header": "Get Verified Results",
         "description": "Receive a structured response with verification status and full practitioner data instantly."
       }
@@ -99,28 +99,28 @@
         "headingLight": "Credential Authenticity",
         "headingBold": "",
         "text": "Confirm that a doctor or medical professional holds a valid, active NMC registration — protecting your platform from fraudulent or unqualified practitioners during onboarding or engagement.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(5).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Boost%20Efficiency%20(2).svg",
         "altText": "Credential Authenticity"
       },
       {
         "headingLight": "Patient Safety & Healthcare Compliance",
         "headingBold": "",
         "text": "Healthcare platforms, telemedicine services, and hospitals are obligated to engage only NMC-registered practitioners. Automated verification ensures regulatory compliance without reliance on manual checks or self-declarations.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ID%20Verification.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant%20(7).svg",
         "altText": "Patient Safety & Healthcare Compliance"
       },
       {
         "headingLight": "Faster Medical Professional Onboarding",
         "headingBold": "",
         "text": "Eliminate manual credential collection and verification bottlenecks by validating NMC registration instantly via API — reducing onboarding TAT from days to seconds.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(5).svg",
         "altText": "Faster Medical Professional Onboarding"
       },
       {
         "headingLight": "Fraud & Risk Mitigation",
         "headingBold": "",
         "text": "Detect and reject invalid, fabricated, or expired NMC registration numbers before a medical professional is onboarded to a clinical, advisory, or telehealth role.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Identify%20fraud%20(3).svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204228%20%E2%80%93%2010.svg",
         "altText": "Fraud & Risk Mitigation"
       }
     ]
@@ -133,34 +133,34 @@
       {
         "heading": "Instant<br/>Registry Lookup",
         "paragraph": "Queries the official NMC database in real time — no cached or stale data, ensuring every verification reflects the latest registry status.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RealTime-Verification%20(1).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/API%20Doc%20(6).svg"
       },
       {
         "heading": "Qualification &<br/>Specialisation Return",
         "paragraph": "Retrieves the doctor's degree, specialisation, and registration details directly from the NMC record in a single structured response.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(2).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Magnet.svg"
       },
       {
         "heading": "Single-Field<br/>Input",
         "paragraph": "Only the NMC registration number is needed — no document uploads or additional details required for instant verification.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20Data%20(1).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/UserOnboarding-API.svg"
       }
     ],
     "block1extra": [
       {
         "heading": "Regex-Based<br/>Pre-Validation",
         "paragraph": "Ensures input format matches NMC's standard registration number pattern before querying, reducing unnecessary API calls and errors.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(5).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/input_syntax%20(3).svg"
       },
       {
         "heading": "Secure &<br/>Compliant Infrastructure",
         "paragraph": "Built on KYC, AML, and data protection standards applicable across regulated healthcare and fintech industries for maximum trust.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Secured%20(1).svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(2).svg"
       },
       {
         "heading": "Scalable &<br/>High-Performance",
         "paragraph": "Designed to handle high-volume verification flows with consistent uptime and low latency for enterprise-grade healthcare onboarding.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202099%20%E2%80%93%208.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Customisation%20(1).svg"
       }
     ],
     "showOthers": false,
@@ -171,22 +171,22 @@
     "heading": "Where You Can <span class='highlighted-subsection-header'>Use It</span>",
     "items": [
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/health-in.svg",
         "title": "Healthcare Platforms & Hospitals",
         "description": "Verify NMC registration before onboarding doctors, consultants, or visiting practitioners to clinical roles across hospital networks"
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20SME.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BusinessCertificate%20(1).svg",
         "title": "Telemedicine & Digital Health",
         "description": "Ensure all practitioners on your platform hold valid NMC credentials before they can consult patients remotely or in-person"
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Investment.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(5).svg",
         "title": "Health-tech & Insurance",
         "description": "Validate medical professional credentials for claim processing, policy issuance, or panel empanelment across insurance workflows"
       },
       {
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fund%20Management.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Onboarding.svg",
         "title": "Staffing & Recruitment",
         "description": "Automate pre-hire credential checks for medical roles across hospitals, clinics, and healthcare organisations"
       }
@@ -271,13 +271,13 @@
       "title": "ICAI Verification API",
       "description": "Real-time ICAI Membership Verification to ensure the authenticity of Chartered Accountants (CAs)",
       "pageLink": "https://decentro.tech/api-hub/icai-verification",
-      "imageSrc": "/images/resources/gst.svg"
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ICAI%20MembershipRP-HeroBanner.svg"
     },
     {
       "title": "Professional Verification",
       "description": "Authenticate membership of Medical Doctors, Chartered Accountants, and Company Secretaries in NMC, ICAI and ICSI associations",
       "pageLink": "https://decentro.tech/resources/professional-verification",
-      "imageSrc": "/images/resources/pan-verification/banner.svg"
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204227%20%E2%80%93%206.svg"
     }
   ]
 }
