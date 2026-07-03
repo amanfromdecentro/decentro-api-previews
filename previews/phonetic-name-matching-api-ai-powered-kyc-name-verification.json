@@ -1,0 +1,283 @@
+{
+  "seo": {
+    "title": "Phonetic Name Matching API | AI-Powered KYC Name Verification",
+    "description": "Match names that sound alike but are spelled differently using Decentro's Phonetic Name Matching API. Reduce false rejections, prevent fraud, and accelerate KYC onboarding with confidence scoring.",
+    "ogTitle": "Phonetic Name Matching API | AI-Powered KYC Name Verification"
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>Phonetic Name Matching API</span>",
+    "tagline": "Intelligent Sound-Based Name Verification for Fraud-Proof KYC & Onboarding",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/CIN.svg",
+    "altText": "Phonetic Name Matching API",
+    "DBackground": true
+  },
+  "tableOfContents": [
+    {
+      "text": "What Makes Our Phonetic Name Matching Different?",
+      "id": "whatIsSection"
+    },
+    {
+      "text": "Methodology",
+      "id": "methodSection"
+    },
+    {
+      "text": "How Can Your Business Leverage Phonetic Name Matching API?",
+      "id": "leverageSection"
+    },
+    {
+      "text": "Key Features of Phonetic Name Matching API",
+      "id": "keyFeatures"
+    },
+    {
+      "text": "Where You Can Use It",
+      "id": "whereToUse"
+    },
+    {
+      "text": "Why Use Decentro's Phonetic Name Matching API",
+      "id": "howCanDecentroHelp"
+    },
+    {
+      "text": "Frequently Asked Questions",
+      "id": "commonlyAskedQuestions"
+    }
+  ],
+  "inlineImageAndParagraph": {
+    "headingLight": "What Makes Our",
+    "headingBold": "Phonetic Name Matching Different?",
+    "text": "Decentro's Phonetic Name Matching API leverages advanced phonetic algorithms — including Soundex, Metaphone, and proprietary AI-driven models — to compare names based on how they sound rather than how they are spelled. This enables accurate identity reconciliation across documents where names differ due to transliteration, regional spelling conventions, or data entry errors, all returned with a precise similarity confidence score in a single API call.<br/><br/>Built specifically for the complexity of Indian names across multiple scripts and regional languages, this API goes beyond simple string matching. It handles phonetic equivalents, abbreviated names, and cross-language transliterations to ensure that legitimate customers are never incorrectly rejected while bad actors attempting to exploit minor name variations are flagged. Embed it seamlessly into your KYC, AML, and onboarding workflows to automate what would otherwise require costly manual review.",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/What%20Is%20ICAI%20Membership%20(8).svg",
+    "altText": "What Makes Our Phonetic Name Matching Different?"
+  },
+  "textAndButtonBannerTransparent": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/kyc-and-onboarding-identities-verification-services-customer-verification"
+  },
+  "methodData": {
+    "heading": "Methodology",
+    "subHeading": "Achieve high-confidence name matching with phonetic intelligence and real-time similarity scoring",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Group%2050206.svg",
+        "header": "Sign Up & Get API Keys",
+        "description": "Quick onboarding with Decentro to access phonetic matching capabilities instantly."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integrate.svg",
+        "header": "Integrate Seamlessly",
+        "description": "Plug the REST API into your KYC, onboarding, or fraud detection pipelines with minimal effort."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verification.svg",
+        "header": "Submit Name Pairs",
+        "description": "Pass two name strings — from different documents or data sources — and receive a phonetic similarity score instantly."
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/BusinessCertificate.svg",
+        "header": "Act on Confidence Scores",
+        "description": "Use the returned match score and decision flag to auto-approve, flag for review, or reject identity records."
+      }
+    ]
+  },
+  "textAndButtonBannerTransparent2": {
+    "text": "",
+    "ctaButtonText": "View Product Guide",
+    "newTab": true,
+    "ctaButtonLink": "https://docs.decentro.tech/docs/kyc-and-onboarding-identities-verification-services-customer-verification"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "How Can Your Business Leverage",
+      "bold": "Phonetic Name Matching API?"
+    },
+    "data": [
+      {
+        "headingLight": "Fraud Detection & Prevention",
+        "headingBold": "",
+        "text": "Identify bad actors who deliberately misspell names to bypass identity checks during onboarding or loan applications.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fraud%20Prevention%20(5).svg",
+        "altText": "Fraud Detection & Prevention"
+      },
+      {
+        "headingLight": "KYC Document Reconciliation",
+        "headingBold": "",
+        "text": "Automatically reconcile name discrepancies across Aadhaar, PAN, passport, and bank records without manual intervention.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/ID%20Verification.svg",
+        "altText": "KYC Document Reconciliation"
+      },
+      {
+        "headingLight": "Sanctions & Watchlist Screening",
+        "headingBold": "",
+        "text": "Screen customer names against AML watchlists and sanctions databases with tolerance for phonetic name variations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/compliant.svg",
+        "altText": "Sanctions & Watchlist Screening"
+      },
+      {
+        "headingLight": "Faster Customer Onboarding",
+        "headingBold": "",
+        "text": "Eliminate manual name review bottlenecks and onboard customers with regional or transliterated name variations in real time.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Identify%20fraud%20(3).svg",
+        "altText": "Faster Customer Onboarding"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Key",
+    "headingBold": "Features",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Phonetic Algorithm<br/>Engine",
+        "paragraph": "Leverages Soundex, Metaphone, and proprietary AI models to match names based on pronunciation rather than exact spelling.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/RealTime-Verification%20(1).svg"
+      },
+      {
+        "heading": "Similarity Confidence<br/>Scoring",
+        "paragraph": "Returns a granular match score between 0 and 100, enabling nuanced decision-making for auto-approval, manual review, or rejection.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/SecuredDoc%20(2).svg"
+      },
+      {
+        "heading": "Multi-Language &<br/>Script Support",
+        "paragraph": "Handles Indian regional name variations, cross-script transliterations, and phonetic equivalents across Hindi, Tamil, Telugu, and more.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20Data%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Fuzzy &<br/>Approximate Matching",
+        "paragraph": "Catches abbreviated names, initials expansion, suffix/prefix variations, and common data entry errors that exact-match systems miss.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Integration%20(5).svg"
+      },
+      {
+        "heading": "Real-Time<br/>API Response",
+        "paragraph": "Delivers phonetic match results within milliseconds, enabling seamless embedding into live onboarding and verification workflows.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Secured%20(1).svg"
+      },
+      {
+        "heading": "Configurable<br/>Match Thresholds",
+        "paragraph": "Set custom similarity thresholds to align with your risk appetite — tighter for high-risk segments, relaxed for low-friction onboarding.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202099%20%E2%80%93%208.svg"
+      }
+    ],
+    "showOthers": false,
+    "tagline2": "",
+    "block2": []
+  },
+  "descriptiveItemListFour": {
+    "heading": "Where You Can <span class='highlighted-subsection-header'>Use It</span>",
+    "items": [
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Institution.svg",
+        "title": "Banking & NBFCs",
+        "description": "Match customer names across KYC documents with spelling discrepancies during account opening and loan origination"
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20SME.svg",
+        "title": "Fintech Lenders",
+        "description": "Detect identity fraud where applicant names are intentionally altered across submitted documents to bypass credit checks"
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Investment.svg",
+        "title": "Insurance Providers",
+        "description": "Validate policyholder names against government-issued ID records to prevent fraudulent claims and policy misrepresentation"
+      },
+      {
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Fund%20Management.svg",
+        "title": "E-Commerce & Wallets",
+        "description": "Onboard users with name variations across Aadhaar, PAN, and bank records without friction or false rejection"
+      }
+    ]
+  },
+  "bulletPointsAndTextBlock": {
+    "headingLight": "Phonetic Name Matching API For Your Business",
+    "headingBold": " - How Can Decentro Help?",
+    "tagline": "",
+    "bulletPointsHeader": "Why Use Decentro's Phonetic Name Matching API?",
+    "subheadings": true,
+    "lineHeight": "610px",
+    "bulletPoints": [
+      {
+        "heading": "Reduce False Rejections",
+        "text": "Ensure legitimate customers with regional spelling variations or transliterated names are never incorrectly declined during onboarding."
+      },
+      {
+        "heading": "Catch Sophisticated Fraud",
+        "text": "Identify bad actors who exploit minor name alterations to evade identity checks, sanctions screening, and AML controls."
+      },
+      {
+        "heading": "Automate Name Reconciliation",
+        "text": "Eliminate costly manual review of name mismatches across Aadhaar, PAN, passport, and bank account records."
+      },
+      {
+        "heading": "99.99% Uptime",
+        "text": "Enterprise-grade infrastructure with multi-source backend architecture ensures uninterrupted matching even during volume spikes."
+      },
+      {
+        "heading": "Regulatory Compliance Ready",
+        "text": "Supports KYC and AML obligations with robust phonetic identity matching that meets RBI and PMLA regulatory standards."
+      },
+      {
+        "heading": "Flexible & Configurable",
+        "text": "Leverage a multi-source architecture in the backend so that unexpected downtimes, black swan events, or volume spikes will not impact your business."
+      }
+    ],
+    "textInBoxList": [
+      {
+        "textInBox": "Access our Product Guide",
+        "linkText": "API Documentation",
+        "link": "https://docs.decentro.tech/reference/kyc-and-onboarding-api-reference-identities-verification-services-customer-verification-validate-api"
+      }
+    ]
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "What phonetic algorithms does the Phonetic Name Matching API use?",
+      "solution": "Decentro's API employs a combination of industry-standard algorithms such as Soundex and Metaphone, augmented by proprietary AI-driven phonetic models trained on Indian name datasets to handle regional transliterations and multi-script variations with high accuracy."
+    },
+    {
+      "query": "What does the similarity score represent and how should I interpret it?",
+      "solution": "The API returns a confidence score between 0 and 100, where 100 indicates a perfect phonetic match and lower scores reflect decreasing similarity. You can configure custom thresholds — for example, auto-approve above 85, flag for manual review between 60–85, and reject below 60 — based on your risk policy."
+    },
+    {
+      "query": "Does the API support Indian regional language name variations?",
+      "solution": "Yes. The API is specifically optimised for Indian name complexity, including phonetic equivalents across Hindi, Tamil, Telugu, Kannada, Bengali, and other regional languages, as well as common transliteration patterns between Devanagari and Roman scripts."
+    },
+    {
+      "query": "How quickly does the API return a phonetic match result?",
+      "solution": "The API typically responds within 200–500 milliseconds, making it suitable for real-time onboarding flows, live fraud checks, and synchronous KYC verification pipelines without introducing latency."
+    },
+    {
+      "query": "Can I use this API for AML watchlist and sanctions screening?",
+      "solution": "Absolutely. The Phonetic Name Matching API is well-suited for sanctions and watchlist screening use cases where name variations, aliases, and transliterations must be accounted for. It significantly reduces both false positives and false negatives in AML screening workflows."
+    }
+  ],
+  "textAndButtonBannerTransparent3": {
+    "text": "<br/><span>Got Questions?</span>",
+    "ctaButtonText": "Talk to Our Experts Now!",
+    "ctaButtonLink": "/signup/"
+  },
+  "textAndButtonBannerTransparent4": {
+    "text": "<span>Ready to eliminate name mismatch errors and accelerate your KYC onboarding?<br/></span>",
+    "ctaButtonText": "Get Started Now",
+    "newTab": false,
+    "ctaButtonLink": "/signup/"
+  },
+  "recommendedPages": [
+    {
+      "title": "PAN Verification API",
+      "description": "Real-time PAN validation for seamless KYC and identity verification.",
+      "pageLink": "/resources/pan-verification-api/",
+      "imageSrc": "/images/resources/pan-verification/banner.svg"
+    },
+    {
+      "title": "GST Verification API",
+      "description": "Instant GST Validation for Business Onboarding & Compliance.",
+      "pageLink": "/resources/goods-and-services-tax-gst-api/",
+      "imageSrc": "/images/resources/gst.svg"
+    }
+  ]
+}
