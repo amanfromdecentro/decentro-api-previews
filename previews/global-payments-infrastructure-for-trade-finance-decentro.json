@@ -9,8 +9,8 @@
     "tagline": "Move Trade Capital Faster: Collections, Escrow, FX & Supplier Payouts Built for Global Trade.",
     "buttonText": "Explore Solutions",
     "newTab": false,
-    "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg",
+    "buttonLink": "https://decentro.tech/global/signup",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Trade%20Finance.svg",
     "altText": "Global Payments Infrastructure for Trade Finance",
     "DBackground": true,
     "metrics": true,
@@ -39,17 +39,17 @@
       {
         "title": "Global Collections",
         "description": "Accept payments from buyers, importers, and corporate clients across 9+ countries using local and international rails. Support wire transfers, virtual accounts, and local payment methods for invoice settlements, margin payments, and trade advances.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/International%20cooperation-rafiki.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Online%20connection%20(1).svg"
       },
       {
         "title": "Multi-Currency Treasury & Escrow",
         "description": "Hold, convert, and manage 30+ currencies in a single treasury layer, with segregated escrow-style accounts for buyer-seller transactions. Eliminate the need for multiple nostro/vostro relationships.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency-rafiki.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency%20(1).svg"
       },
       {
         "title": "Power Invoice & Supply Chain Financing",
         "description": "Enable disbursements against invoices, purchase orders, and bills of lading with automated eligibility checks, staged fund releases, and repayment collection built into a single workflow.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20extraction-rafiki.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/LoanRepayments%20(1).svg"
       }
     ]
   },
@@ -57,26 +57,26 @@
     "ctaTitle": "Ready to Modernise Your <span className='header-section-highlighted'>Trade Finance Operations Globally?</span>",
     "ctaDescription": "Experience unmatched speed, control, and full auditability in your cross-border trade finance operations. Get started with Decentro today.",
     "ctaButtonText": "Get Started",
-    "ctaButtonLink": "/signup/"
+    "ctaButtonLink": "https://decentro.tech/global/signup"
   },
   "adjacentData": {
     "heading": {
       "light": "",
-      "bold": "Use Cases"
+      "bold": "Where You Can Use It"
     },
     "data": [
       {
         "headingLight": "Invoice Discounting & Factoring Platforms",
         "headingBold": "",
         "text": "Disburse funds against approved invoices and collect repayments across currencies, with every transaction auto-mapped to the underlying invoice for real-time visibility and full auditability.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20(1).svg",
         "altText": "Invoice Discounting & Factoring Platforms"
       },
       {
         "headingLight": "Supply Chain Finance (SCF) Programs",
         "headingBold": "",
         "text": "Enable anchor corporates to extend early payment to suppliers globally, with automated eligibility checks, staged disbursements, and multi-currency settlement across international supply chains.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
         "altText": "Supply Chain Finance Programs"
       },
       {
@@ -90,21 +90,21 @@
         "headingLight": "Trade & Commodity Marketplaces",
         "headingBold": "",
         "text": "Facilitate buyer-seller transactions on digital trade platforms with escrow-style holds, milestone-based fund releases, and marketplace fee deduction built into a single configurable workflow.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Invoice%20Financing%20(1).svg",
         "altText": "Trade & Commodity Marketplaces"
       },
       {
         "headingLight": "Cross-Border B2B Payment Platforms",
         "headingBold": "",
         "text": "Handle high-value, high-frequency B2B trade payments with local collection accounts, FX transparency, and straight-through reconciliation mapped to every invoice and counterparty.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
         "altText": "Cross-Border B2B Payment Platforms"
       },
       {
         "headingLight": "Banks & NBFCs Digitising Trade Finance",
         "headingBold": "",
         "text": "Modernise legacy LC, bank guarantee, and documentary collection workflows with API-based collections, payouts, and compliance-ready audit trails that integrate into existing core banking systems.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20Services.svg",
         "altText": "Banks & NBFCs Digitising Trade Finance"
       }
     ]
@@ -217,15 +217,15 @@
   "recommendedPages": [
     {
       "title": "B2B eCommerce",
-      "description": "Accept payments from global buyers, manage multi-currency wallets, and automate supplier payouts across international B2B commerce ecosystems.",
+      "description": "One API layer for comprehensive cross-border collections, multi-currency management, and automated payouts for B2B enterprises.",
       "pageLink": "/global/industries/B2B-ecommerce",
       "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
     },
     {
-      "title": "Instant Payouts",
-      "description": "Automate supplier, exporter, and financier payouts with rule-based settlements across currencies, countries, and payment rails using a single API.",
-      "pageLink": "/global/products/instant-payouts",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+      "title": "Global Payouts",
+      "description": "Make faster, more cost-effective automated payouts across the globe.",
+      "pageLink": "https://decentro.tech/global/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(3).svg"
     }
   ]
 }
