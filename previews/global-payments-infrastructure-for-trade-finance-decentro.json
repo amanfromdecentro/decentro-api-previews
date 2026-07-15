@@ -76,7 +76,7 @@
         "headingLight": "Supply Chain Finance (SCF) Programs",
         "headingBold": "",
         "text": "Enable anchor corporates to extend early payment to suppliers globally, with automated eligibility checks, staged disbursements, and multi-currency settlement across international supply chains.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/LoanProcessing.svg",
         "altText": "Supply Chain Finance Programs"
       },
       {
@@ -219,7 +219,7 @@
       "title": "B2B eCommerce",
       "description": "One API layer for comprehensive cross-border collections, multi-currency management, and automated payouts for B2B enterprises.",
       "pageLink": "/global/industries/B2B-ecommerce",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg"
     },
     {
       "title": "Global Payouts",
