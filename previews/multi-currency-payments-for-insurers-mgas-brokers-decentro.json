@@ -6,11 +6,11 @@
   },
   "productBanner": {
     "heading": "<span className='highlighted-heading'>Global Payments Infrastructure for Insurance Platforms</span>",
-    "tagline": "Collect premiums, pay claims, and settle commissions across every market you underwrite in with a single, API-first payments layer.",
+    "tagline": "Collect Premiums, Pay Claims & Settle Commissions Across Every Market You Underwrite In",
     "buttonText": "Explore Solutions",
     "newTab": false,
-    "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg",
+    "buttonLink": "https://decentro.tech/global/signup",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Insurance%20(5).svg",
     "altText": "Global Payments Infrastructure for Insurance Platforms",
     "DBackground": true,
     "metrics": true,
@@ -57,54 +57,54 @@
     "ctaTitle": "Ready to Scale Your <span className='header-section-highlighted'>Insurance Business Globally?</span>",
     "ctaDescription": "Experience unmatched speed, control, and operational clarity in your cross-border insurance payment operations. Get started with Decentro today.",
     "ctaButtonText": "Get Started",
-    "ctaButtonLink": "/signup/"
+    "ctaButtonLink": "https://decentro.tech/global/signup"
   },
   "adjacentData": {
     "heading": {
       "light": "",
-      "bold": "Use Cases"
+      "bold": "Where We Can You Use It"
     },
     "data": [
       {
         "headingLight": "Global Insurance Carriers",
         "headingBold": "",
         "text": "Collect premiums and disburse claims across markets with localised payment methods and a single, centralised treasury layer that eliminates the complexity of managing multiple regional banking relationships.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial%20(1).svg",
         "altText": "Global Insurance Carriers"
       },
       {
         "headingLight": "Managing General Agents (MGAs) & Brokers",
         "headingBold": "",
         "text": "Automate commission payouts to agents and partners tied to policy sales, renewals, or performance milestones across currencies, with rule-based disbursement schedules and full audit trails.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Invoice%20Financing%20(1).svg",
         "altText": "Managing General Agents (MGAs) & Brokers"
       },
       {
         "headingLight": "Embedded Insurance & InsurTech Platforms",
         "headingBold": "",
         "text": "Embed premium collection and claims payouts directly into third-party apps, marketplaces, and checkout flows without building banking infrastructure from scratch or managing compliance complexity.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
         "altText": "Embedded Insurance & InsurTech Platforms"
       },
       {
         "headingLight": "Reinsurance & Risk-Sharing Programs",
         "headingBold": "",
         "text": "Handle cross-border reinsurance settlements and risk-sharing payouts with multi-currency treasury, automated reconciliation, and transparent settlement cycles tied to risk event triggers.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Advances%20(1).svg",
         "altText": "Reinsurance & Risk-Sharing Programs"
       },
       {
         "headingLight": "Health, Travel & Micro-Insurance Providers",
         "headingBold": "",
         "text": "Support high-frequency, low-ticket premium collections and fast claims payouts for health, travel, and parametric insurance products with infrastructure built for scale and speed.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
         "altText": "Health, Travel & Micro-Insurance Providers"
       },
       {
         "headingLight": "International Expansion for Insurance Startups",
         "headingBold": "",
         "text": "Enter new geographies without rebuilding payment stacks, renegotiating banks, or managing FX complexity market by market. Go live in new countries within weeks using a single API integration.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Creator%20led%20(1).svg",
         "altText": "International Expansion for Insurance Startups"
       }
     ]
@@ -216,16 +216,16 @@
   ],
   "recommendedPages": [
     {
-      "title": "Global Payment Collection",
-      "description": "Accept premium payments from policyholders across 170+ countries using local and international rails, settling into a single treasury layer with simplified compliance.",
+      "title": "Global Payouts",
+      "description": "Make faster, more cost-effective automated payouts across the globe.",
       "pageLink": "/global/products/global-payment-collection",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+      "imageSrc": "https://decentro.tech/global/products/instant-payouts"
     },
     {
-      "title": "Instant Payouts",
-      "description": "Disburse claims, commissions, and reinsurance settlements to policyholders, brokers, and partners across 170+ countries with speed, verification, and multi-currency efficiency.",
-      "pageLink": "/global/products/instant-payouts",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+      "title": "B2B eCommerce",
+      "description": "One API layer for comprehensive cross-border collections, multi-currency management, and automated payouts for B2B enterprises.",
+      "pageLink": "https://decentro.tech/global/industries/B2B-ecommerce",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg"
     }
   ]
 }
