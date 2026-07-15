@@ -1,0 +1,231 @@
+{
+  "seo": {
+    "title": "Global Payments Infrastructure for Investment Platforms | Decentro",
+    "description": "Payments infrastructure for brokerages, wealth managers, and fund platforms. Automate investor collections, withdrawals, and advisor payouts globally.",
+    "ogTitle": "Fund Accounts, Settle Trades & Pay Out Investors Across Every Market You Operate In with Decentro's Global Investment Payments Infrastructure."
+  },
+  "productBanner": {
+    "heading": "<span className='highlighted-heading'>Global Payments for Investment Platforms</span>",
+    "tagline": "One API layer for investor fund collections, multi-currency treasury management, and automated withdrawal and advisor payout disbursements across every market.",
+    "buttonText": "Explore Solutions",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg",
+    "altText": "Global Payments Infrastructure for Investment Platforms",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Countries Supported",
+        "numberElement": "170+"
+      },
+      {
+        "textBold": "",
+        "textLight": "Currencies Managed",
+        "numberElement": "30+"
+      },
+      {
+        "textBold": "",
+        "textLight": "Reduced Ops Effort",
+        "numberElement": "90%"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "Built for High-Trust, Multi-Party, Cross-Border Investment Money Movement",
+    "items": [
+      {
+        "title": "Global Investor Collections",
+        "description": "Accept funding from investors across 9+ countries using local and international rails. Support cards, bank transfers, wallets, and local payment methods for account top-ups, SIPs, recurring contributions, and one-time investments.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/International%20cooperation-rafiki.svg"
+      },
+      {
+        "title": "Multi-Currency Wallets",
+        "description": "Hold, convert, and manage 30+ currencies in a single treasury layer. Eliminate the need for multiple local bank accounts while optimising FX for funds collected from investors and payouts made across geographies.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Currency-rafiki.svg"
+      },
+      {
+        "title": "Power Withdrawals & Redemptions",
+        "description": "Enable fast, verified withdrawal and redemption payouts to investors, with automated approval triggers, retries, and fraud checks built in. So investors are paid out on their terms, on time.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20extraction-rafiki.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to Scale Your <span className='header-section-highlighted'>Investment Platform Globally?</span>",
+    "ctaDescription": "Experience unmatched speed, operational clarity, and automation across investor collections, withdrawals, and advisor payouts. Get started with Decentro today.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Global Brokerages & Trading Platforms",
+        "headingBold": "",
+        "text": "Collect investor funds and disburse withdrawals across markets with localised payment methods and a single, centralised treasury layer that eliminates the need to manage multiple banking relationships per country.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/EmployeeOnboarding.svg",
+        "altText": "Global Brokerages & Trading Platforms"
+      },
+      {
+        "headingLight": "Wealth Management & Robo-Advisory Platforms",
+        "headingBold": "",
+        "text": "Automate recurring contributions including SIPs and auto-invest mandates, and redemption payouts tied to investor instructions across currencies, with full reconciliation to investor and folio-level data.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
+        "altText": "Wealth Management & Robo-Advisory Platforms"
+      },
+      {
+        "headingLight": "Embedded Investment & WealthTech Platforms",
+        "headingBold": "",
+        "text": "Embed fund collection and withdrawal payouts directly into third-party apps, super-apps, and neobank experiences without building banking infrastructure from scratch or managing complex compliance requirements.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
+        "altText": "Embedded Investment & WealthTech Platforms"
+      },
+      {
+        "headingLight": "Alternative Investment & Fund Platforms",
+        "headingBold": "",
+        "text": "Handle cross-border capital calls, distributions, and investor payouts with multi-currency treasury management and automated reconciliation that maps every transaction to investor IDs and fund accounts.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Smart%20lending.svg",
+        "altText": "Alternative Investment & Fund Platforms"
+      },
+      {
+        "headingLight": "Retirement, Micro-Investing & Goal-Based Platforms",
+        "headingBold": "",
+        "text": "Support high-frequency, low-ticket contributions and fast withdrawal payouts for micro-investing, retirement savings, and goal-based savings products with predictable settlement cycles and minimal operational overhead.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
+        "altText": "Retirement, Micro-Investing & Goal-Based Platforms"
+      },
+      {
+        "headingLight": "International Expansion for Investment Startups",
+        "headingBold": "",
+        "text": "Enter new geographies without rebuilding payment stacks, renegotiating local banking relationships, or managing FX complexity market by market. Launch globally with a single API-first infrastructure layer.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
+        "altText": "International Expansion for Investment Startups"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "Global Payment <br/> Rails",
+        "paragraph": "Accept investor funds and send withdrawal payouts across 170+ countries using a single API covering cards, banks, wallets, and local payment methods for every market you operate in.",
+        "imageSrc": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/global-white.svg"
+      },
+      {
+        "heading": "Multi-Currency <br/> Efficiency",
+        "paragraph": "Hold and convert 30+ currencies, reduce FX leakage on contributions and payouts, and maintain predictable settlement cycles across all investor geographies and fund structures.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204240%20%E2%80%93%206.svg"
+      },
+      {
+        "heading": "Redemption-Ready <br/> Infrastructure",
+        "paragraph": "Designed for fast, verified, high-trust payouts with automated approval logic, retries, and fraud checks that ensure investors are paid out accurately and on time, every time.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204241%20%E2%80%93%201.svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "End-to-End Investor <br/> Lifecycle Automation",
+        "paragraph": "From account funding to withdrawal, every transaction is linked to investor and folio data, enabling full traceability and eliminating manual reconciliation across the investment lifecycle.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/automation.svg"
+      },
+      {
+        "heading": "Intelligent <br/> Reconciliation",
+        "paragraph": "Auto-map investor contributions, withdrawals, refunds, and partner payouts to investor IDs, folio and account numbers, and transaction references, reducing operational effort by up to 90%.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Automated%20Data.svg"
+      },
+      {
+        "heading": "Reliable, Predictable <br/> Settlements",
+        "paragraph": "Multi-bank, multi-rail architecture ensures high uptime and consistent fund flows even during regional outages, keeping investor payouts and advisor commissions on schedule.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/settlement.svg"
+      }
+    ]
+  },
+  "headingWithImageFlow": {
+    "title": "<span className='header-section-highlighted'>How</span> It Works",
+    "steps": [
+      {
+        "id": 1,
+        "title": "<span>Investor Pays</span>",
+        "subTitle": "(Local / Global Rails)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Onboarding.svg",
+        "alt": "Investor Icon"
+      },
+      {
+        "id": 2,
+        "title": "<span>Global Collection Account</span>",
+        "subTitle": "(Contribution / Top-Up)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Verified+SME.svg",
+        "alt": "Global Collection Account Icon"
+      },
+      {
+        "id": 3,
+        "title": "<span>Funds Managed</span>",
+        "subTitle": "(Currency Hold / FX Conversion)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Component+4240+%E2%80%93+8.svg",
+        "alt": "Currency Hold Convert Icon"
+      },
+      {
+        "id": 4,
+        "title": "<span>Payouts Triggered</span>",
+        "subTitle": "(Withdrawals • Redemptions • Advisor Payouts)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/currency+management.svg",
+        "alt": "Payouts Triggered Icon"
+      },
+      {
+        "id": 5,
+        "title": "<span>Reconciliation & Reporting</span>",
+        "subTitle": "(Investor ID • Folio Mapping • Compliance)",
+        "icon": "https://decentro-website-v2-assets.s3.ap-south-1.amazonaws.com/Automate.svg",
+        "alt": "Reconciliation and Reporting Icon"
+      }
+    ],
+    "showArrows": true,
+    "containerClassName": "",
+    "titleClassName": "",
+    "stepClassName": "",
+    "iconSize": {
+      "width": 40,
+      "height": 40
+    }
+  },
+  "frequentlyAskedQuestions": [
+    {
+      "query": "How does Decentro support payment processing for investment platforms?",
+      "solution": "With virtual accounts, escrow-style workflows, automated settlements, and multi-bank infrastructure supporting SIP mandates, lump-sum investments, and redemption payouts across asset classes."
+    },
+    {
+      "query": "Can I automate recurring investment mandates and SIP collections?",
+      "solution": "Yes. Payment triggers can be tied to investment schedules, NAV-based events, mandate approvals, or custom intervals—fully automated via NACH and UPI AutoPay."
+    },
+    {
+      "query": "How reliable is the system for high-value investment transactions?",
+      "solution": "Decentro's multi-bank architecture ensures high uptime, lower settlement failures, and seamless fund flow management across broking, mutual fund, and alternative investment platforms."
+    },
+    {
+      "query": "What is the integration timeline for investment platforms?",
+      "solution": "Most investment platforms go live within weeks using Decentro's APIs, pre-built UI modules, and flexible configuration tailored to SEBI-compliant fintech workflows."
+    }
+  ],
+  "recommendedPages": [
+    {
+      "title": "Global Payment Collection",
+      "description": "Accept investor funds from 170+ countries using global and local rails, supporting cards, bank transfers, wallets, and local payment methods in a single unified collection layer.",
+      "pageLink": "/global/products/global-payment-collection",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "Instant Payouts",
+      "description": "Disburse withdrawal payouts, redemptions, and advisor commissions to investors and partners across 170+ countries with automated approval logic, retries, and fraud checks built in.",
+      "pageLink": "/global/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ]
+}
