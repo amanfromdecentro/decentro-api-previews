@@ -6,11 +6,11 @@
   },
   "productBanner": {
     "heading": "<span className='highlighted-heading'>Global Payments for Investment Platforms</span>",
-    "tagline": "One API layer for investor fund collections, multi-currency treasury management, and automated withdrawal and advisor payout disbursements across every market.",
+    "tagline": "Fund Accounts, Settle Trades & Pay Out Investors Across Every Market You Operate In",
     "buttonText": "Explore Solutions",
     "newTab": false,
-    "buttonLink": "/signup/",
-    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg",
+    "buttonLink": "https://decentro.tech/global/signup",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Investing.svg",
     "altText": "Global Payments Infrastructure for Investment Platforms",
     "DBackground": true,
     "metrics": true,
@@ -39,7 +39,7 @@
       {
         "title": "Global Investor Collections",
         "description": "Accept funding from investors across 9+ countries using local and international rails. Support cards, bank transfers, wallets, and local payment methods for account top-ups, SIPs, recurring contributions, and one-time investments.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/International%20cooperation-rafiki.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Online%20connection%20(1).svg"
       },
       {
         "title": "Multi-Currency Wallets",
@@ -49,7 +49,7 @@
       {
         "title": "Power Withdrawals & Redemptions",
         "description": "Enable fast, verified withdrawal and redemption payouts to investors, with automated approval triggers, retries, and fraud checks built in. So investors are paid out on their terms, on time.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Data%20extraction-rafiki.svg"
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/LoanRepayments%20(1).svg"
       }
     ]
   },
@@ -57,12 +57,12 @@
     "ctaTitle": "Ready to Scale Your <span className='header-section-highlighted'>Investment Platform Globally?</span>",
     "ctaDescription": "Experience unmatched speed, operational clarity, and automation across investor collections, withdrawals, and advisor payouts. Get started with Decentro today.",
     "ctaButtonText": "Get Started",
-    "ctaButtonLink": "/signup/"
+    "ctaButtonLink": "https://decentro.tech/global/signup"
   },
   "adjacentData": {
     "heading": {
       "light": "",
-      "bold": "Use Cases"
+      "bold": "Where You Can Use It"
     },
     "data": [
       {
@@ -76,14 +76,14 @@
         "headingLight": "Wealth Management & Robo-Advisory Platforms",
         "headingBold": "",
         "text": "Automate recurring contributions including SIPs and auto-invest mandates, and redemption payouts tied to investor instructions across currencies, with full reconciliation to investor and folio-level data.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/E%20Commerce.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Invoice%20Financing%20(2).svg",
         "altText": "Wealth Management & Robo-Advisory Platforms"
       },
       {
         "headingLight": "Embedded Investment & WealthTech Platforms",
         "headingBold": "",
         "text": "Embed fund collection and withdrawal payouts directly into third-party apps, super-apps, and neobank experiences without building banking infrastructure from scratch or managing complex compliance requirements.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Logistics.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Trade%20Finance.svg",
         "altText": "Embedded Investment & WealthTech Platforms"
       },
       {
@@ -97,14 +97,14 @@
         "headingLight": "Retirement, Micro-Investing & Goal-Based Platforms",
         "headingBold": "",
         "text": "Support high-frequency, low-ticket contributions and fast withdrawal payouts for micro-investing, retirement savings, and goal-based savings products with predictable settlement cycles and minimal operational overhead.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Financial.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Advances%20(1).svg",
         "altText": "Retirement, Micro-Investing & Goal-Based Platforms"
       },
       {
         "headingLight": "International Expansion for Investment Startups",
         "headingBold": "",
         "text": "Enter new geographies without rebuilding payment stacks, renegotiating local banking relationships, or managing FX complexity market by market. Launch globally with a single API-first infrastructure layer.",
-        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Subscriptions.svg",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Creator%20led%20(1).svg",
         "altText": "International Expansion for Investment Startups"
       }
     ]
@@ -216,16 +216,16 @@
   ],
   "recommendedPages": [
     {
-      "title": "Global Payment Collection",
-      "description": "Accept investor funds from 170+ countries using global and local rails, supporting cards, bank transfers, wallets, and local payment methods in a single unified collection layer.",
-      "pageLink": "/global/products/global-payment-collection",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+      "title": "B2B eCommerce",
+      "description": "One API layer for comprehensive cross-border collections, multi-currency management, and automated payouts for B2B enterprises.",
+      "pageLink": "https://decentro.tech/global/industries/B2B-ecommerce",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Ecommerce%20(1).svg"
     },
     {
-      "title": "Instant Payouts",
-      "description": "Disburse withdrawal payouts, redemptions, and advisor commissions to investors and partners across 170+ countries with automated approval logic, retries, and fraud checks built in.",
-      "pageLink": "/global/products/instant-payouts",
-      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+      "title": "Global Payouts",
+      "description": "Make faster, more cost-effective automated payouts across the globe.",
+      "pageLink": "https://decentro.tech/global/products/instant-payouts",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
     }
   ]
 }
