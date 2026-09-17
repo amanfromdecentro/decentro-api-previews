@@ -1,0 +1,181 @@
+{
+  "seo": {
+    "title": "Hotel & Hospitality KYC APIs | Decentro",
+    "description": "Verify guests instantly with UIDAI-certified Aadhaar OVSE, collect OTA and booking payments, and automate vendor payouts. Built for Indian hotels.",
+    "ogTitle": "Get guest KYC, OVSE verification, booking collections & vendor payouts in one API stack with Decentro. Go live in days across hotels, resorts & hospitality chains."
+  },
+  "productBanner": {
+    "heading": "<span class='highlighted-heading'>KYC & Payment APIs for Hotels & Hospitality</span>",
+    "tagline": "One API layer for everything: Guest KYC, OVSE Verification, Booking Collections & Vendor Payouts",
+    "buttonText": "Explore Now",
+    "newTab": false,
+    "buttonLink": "/signup/",
+    "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Hospitality.svg",
+    "altText": "KYC & Payment APIs for Hotels & Hospitality",
+    "DBackground": true,
+    "metrics": true,
+    "metricList": [
+      {
+        "textBold": "",
+        "textLight": "Companies Onboarded",
+        "numberElement": "1500+"
+      },
+      {
+        "textBold": " ₹40,000 Cr+",
+        "textLight": "Processed Annually"
+      },
+      {
+        "textBold": "24 Cr+",
+        "textLight": "API Transactions"
+      }
+    ]
+  },
+  "horizontalItemsData": {
+    "heading": "Why <span className='header-section-highlighted'>Decentro</span>",
+    "tagline": "One Platform, Every Hotel & Hospitality Need",
+    "items": [
+      {
+        "title": "Guest KYC & Offline Aadhaar Verification APIs (OVSE)",
+        "description": "Verify guest identities in seconds with UIDAI-certified OVSE service. QR-based consent flow authenticates guests against Aadhaar without OTPs or manual form-filling, enabling seamless self-serve check-ins at kiosks or apps.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204235%20%E2%80%93%206.svg"
+      },
+      {
+        "title": "Booking Collections, Offline QR & Virtual Account APIs",
+        "description": "Collect advance bookings, room payments, and add-on charges via UPI, cards, and payment links. Route funds from multiple OTAs and channel partners into dedicated virtual accounts for instant, automated reconciliation.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204238%20%E2%80%93%2011.svg"
+      },
+      {
+        "title": "PAN, GST & Corporate Billing Verification APIs",
+        "description": "Verify PAN and GSTIN for corporate travel desks, MICE bookings, and group reservations so that invoicing, TDS, and GST credit stay audit-ready from the very first transaction across all properties.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg"
+      }
+    ]
+  },
+  "textAndButtonBannerData": {
+    "ctaTitle": "Ready to save time and <span className='header-section-highlighted'>launch 10X faster?</span>",
+    "ctaDescription": "Let us help you! It's as simple as it should be to integrate guest verification, payment collections, and automated payouts into your hospitality platform.",
+    "ctaButtonText": "Get Started",
+    "ctaButtonLink": "/signup/"
+  },
+  "adjacentData": {
+    "heading": {
+      "light": "",
+      "bold": "Use Cases"
+    },
+    "data": [
+      {
+        "headingLight": "Self-Serve Guest Check-in",
+        "headingBold": "",
+        "text": "Let guests verify their identity in seconds with Decentro's UIDAI-certified OVSE (Offline Verification Seeking Entity) service. This QR-based consent flow authenticates guests against Aadhaar in seconds, no OTPs, no manual form-filling at the desk, enabling frictionless self-serve kiosk and app-based check-ins.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%204239%20%E2%80%93%203.svg",
+        "altText": "Self-Serve Guest Check-in"
+      },
+      {
+        "headingLight": "Property & Chain-Wide Guest Registration",
+        "headingBold": "",
+        "text": "Auto-populate the Guest Registration Card and maintain a compliant, digitally auditable register for every guest, domestic or foreign, cutting manual data entry at the reception desk. Ensure accurate, retrievable identity data is on hand for local police verification, FRRO reporting, and internal audits across all properties.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/metaverso-rafiki.svg",
+        "altText": "Property & Chain-Wide Guest Registration"
+      },
+      {
+        "headingLight": "Booking & Online Travel Agency Collections",
+        "headingBold": "",
+        "text": "Collect advance bookings, room payments, and add-on charges via UPI, cards, and payment links, and route funds from multiple OTAs and channel partners into dedicated virtual accounts for instant, automated reconciliation. Eliminate manual matching and gain real-time visibility into every payment across every booking channel.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Achievement-rafiki.svg",
+        "altText": "Booking & Online Travel Agency Collections"
+      },
+      {
+        "headingLight": "Corporate & Group Bookings",
+        "headingBold": "",
+        "text": "Verify PAN and GSTIN for corporate travel desks and MICE (Meetings, Incentives, Conferences, and Exhibitions) bookings, so invoicing, TDS, and GST credit stay audit-ready from the first transaction. Streamline billing workflows for large group reservations and ensure every corporate booking is compliant from day one.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Wallet-rafiki.svg",
+        "altText": "Corporate & Group Bookings"
+      },
+      {
+        "headingLight": "Vendor, Staff & Commission Payouts",
+        "headingBold": "",
+        "text": "Automate payouts to housekeeping and F&B vendors, travel agent commissions, and staff reimbursements via UPI, IMPS, NEFT, or RTGS, with full reconciliation against each booking or invoice. Reduce manual effort, eliminate payout delays, and maintain a clear audit trail for every disbursement across your hospitality operations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/People%20flying-rafiki.svg",
+        "altText": "Vendor, Staff & Commission Payouts"
+      },
+      {
+        "headingLight": "Multi-Property & Franchise Management",
+        "headingBold": "",
+        "text": "Give hotel groups and franchise operators a single API layer to standardise guest verification, collections, and settlements across properties, instead of stitching together bank-specific integrations at each location. Achieve operational consistency, centralised reporting, and faster onboarding for new properties joining the network.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Devices-rafiki.svg",
+        "altText": "Multi-Property & Franchise Management"
+      }
+    ]
+  },
+  "useCases": {
+    "headingLight": "Proven At",
+    "headingBold": "Scale",
+    "tagline": "",
+    "block1": [
+      {
+        "heading": "UIDAI-Certified <br/> OVSE",
+        "paragraph": "Offline, OTP-free Aadhaar verification built for high-footfall, self-serve environments like hotel lobbies and kiosks.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202135%20%E2%80%93%202%20(1).svg"
+      },
+      {
+        "heading": "Faster <br/> Check-ins",
+        "paragraph": "Reduced guest onboarding time from minutes at the desk to seconds at a kiosk or app with streamlined identity verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202142.svg"
+      },
+      {
+        "heading": "Compliant <br/> by Design",
+        "paragraph": "Guest data handled in line with DPDPA consent and minimisation norms, with audit-ready records for every verification.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Verified%20User%20(1).svg"
+      }
+    ],
+    "block1extra": [
+      {
+        "heading": "Automated <br/> Reconciliation",
+        "paragraph": "Booking, OTA payout, in-property QR payment, and vendor settlement mapped and tracked automatically in real time.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/fast.svg"
+      },
+      {
+        "heading": "Enterprise-Grade <br/> Reliability",
+        "paragraph": "Built for banks, NBFCs, and now hospitality groups operating at national scale with 99.9% uptime SLA guarantees.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Component%202133.svg"
+      },
+      {
+        "heading": "Unified <br/> Integration",
+        "paragraph": "One API layer replacing multiple bank- and vendor-specific integrations across all properties and franchise locations.",
+        "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Legal%20Data%20(1).svg"
+      }
+    ]
+  },
+  "recommendedPages": [
+    {
+      "title": "Insurance",
+      "description": "Streamline policyholder onboarding, automate claims payouts, and verify identities in real time with Decentro's comprehensive API suite built for insurance providers.",
+      "pageLink": "/industries/insurance",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/Instant%20Payouts%20(1).svg"
+    },
+    {
+      "title": "Broking",
+      "description": "Digitally onboard investors with instant KYC verification, automate fund settlements, and ensure regulatory compliance across trading and broking platforms.",
+      "pageLink": "/industries/broking",
+      "imageSrc": "https://dxeyonoqmp66q.cloudfront.net/KYC%20and%20Onboarding_1.svg"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Does Decentro help hotels stay compliant with guest registration and police reporting requirements?",
+      "answer": "Yes. Decentro's KYC APIs help populate the Guest Registration Card for every guest and maintain digitally auditable identity records, so hotels have accurate, retrievable data on hand for local police verification and internal audits. Foreign guest reporting to the FRRO still needs to be filed by the hotel, but Decentro ensures the underlying identity data is verified, accurate, and instantly available."
+    },
+    {
+      "question": "Can Decentro handle payment collections across multiple OTAs and booking channels?",
+      "answer": "Absolutely. Decentro's virtual account and payment collection APIs let you accept payments via UPI, cards, and payment links across your website, app, and OTA partners, while automatically reconciling each payment against the right booking, property, or channel — no manual matching required."
+    },
+    {
+      "question": "How does Decentro support vendor and staff payouts for hotels?",
+      "answer": "Decentro automates payouts to vendors, travel agents, and staff via UPI, IMPS, NEFT, or RTGS, with each payout reconciled against the relevant invoice or booking. This works across single properties as well as multi-property hotel groups and franchises."
+    },
+    {
+      "question": "Is Decentro's guest verification process compliant with India's data protection requirements?",
+      "answer": "Yes. Decentro's identity verification flows are built around consent-based, minimal data collection in line with the DPDPA. For OVSE-collected Aadhaar data, any onward sharing with a third party requires written disclosure of who the recipient is and why, explicit granular consent from the guest for that specific sharing, and guaranteed end-to-end deletion (with acknowledgement) if the guest later revokes consent — so hotels stay compliant even when data needs to move between systems (e.g., PMS, channel manager, police reporting tools)."
+    }
+  ]
+}
